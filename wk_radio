@@ -1,0 +1,292 @@
+{
+  "radios": [
+    {
+      "name": "Prambors FM Jakarta",
+      "streamUrl": "https://stream-ssl.arenastreaming.com:8000/prambors",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/4/46/Prambors_Logo.png",
+      "genre": "Pop Hits"
+    },
+    {
+      "name": "Hard Rock FM Jakarta",
+      "streamUrl": "https://n13a-e2.revma.ihrhls.com/zc9268",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/id/3/3e/Hard_Rock_FM_logo.png",
+      "genre": "Rock & Lifestyle"
+    },
+    {
+      "name": "RRI Pro 2 Jakarta",
+      "streamUrl": "https://stream.rri.co.id/pro2jakarta.mp3",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/id/0/09/Logo_RRI_Pro_2.png",
+      "genre": "Youth & Talk"
+    },
+    {
+      "name": "RRI Pro 1 Jakarta",
+      "streamUrl": "https://stream.rri.co.id/pro1jakarta.mp3",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/id/0/09/Logo_RRI_Pro_1.png",
+      "genre": "News & Talk"
+    },
+    {
+      "name": "RRI Pro 3 Nasional",
+      "streamUrl": "https://stream.rri.co.id/pro3.mp3",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/id/0/09/Logo_RRI_Pro_3.png",
+      "genre": "News & Public"
+    },
+    {
+      "name": "Delta FM",
+      "streamUrl": "https://n05a-e2.revma.ihrhls.com/zc9097",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/id/1/1b/Delta_FM_logo.png",
+      "genre": "Adult Contemporary"
+    },
+    {
+      "name": "Motion Radio Jakarta",
+      "streamUrl": "https://stream-ssl.arenastreaming.com:8000/motion",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/id/6/67/Motion_Radio_logo.png",
+      "genre": "Top 40"
+    },
+    {
+      "name": "Gen FM Jakarta",
+      "streamUrl": "https://stream.genfm.com:8000/genfmjakarta",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/id/d/d0/Gen_FM_logo.png",
+      "genre": "Hits"
+    },
+    {
+      "name": "Brava Radio Jakarta",
+      "streamUrl": "https://n09a-e2.revma.ihrhls.com/zc9078",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/id/a/a0/Brava_Radio_logo.png",
+      "genre": "Jazz & Talk"
+    },
+    {
+      "name": "iRadio Jakarta",
+      "streamUrl": "https://stream-ssl.arenastreaming.com:8000/iradiojakarta",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/id/9/9d/IRadio_logo.png",
+      "genre": "Indonesian Pop"
+    },
+    {
+      "name": "Elshinta News and Talk",
+      "streamUrl": "https://stream.elshinta.id/;",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/f/fd/Elshinta_FM_logo.png",
+      "genre": "News & Talk"
+    },
+    {
+      "name": "Global Radio Jakarta",
+      "streamUrl": "https://n12a-e2.revma.ihrhls.com/zc9093",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/id/8/86/Global_Radio_logo.png",
+      "genre": "Hits Pop"
+    },
+    {
+      "name": "Kiss FM Medan",
+      "streamUrl": "https://stream-ssl.arenastreaming.com:8000/kissmedan",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/id/a/aa/Kiss_FM_logo.png",
+      "genre": "Top 40"
+    },
+    {
+      "name": "Radio Suara Surabaya",
+      "streamUrl": "https://radio.suarasurabaya.net/stream",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/id/4/45/Suara_Surabaya_Logo.png",
+      "genre": "News & Talk"
+    },
+    {
+      "name": "RRI Pro 1 Surabaya",
+      "streamUrl": "https://stream.rri.co.id/pro1sby.mp3",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/id/0/09/Logo_RRI_Pro_1.png",
+      "genre": "News & Culture"
+    },
+    {
+      "name": "RRI Pro 2 Surabaya",
+      "streamUrl": "https://stream.rri.co.id/pro2sby.mp3",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/id/0/09/Logo_RRI_Pro_2.png",
+      "genre": "Youth"
+    },
+    {
+      "name": "Most Radio Jakarta",
+      "streamUrl": "https://stream-ssl.arenastreaming.com:8000/mostradio",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/id/b/b1/Most_Radio_logo.png",
+      "genre": "Business & Talk"
+    },
+    {
+      "name": "Jak FM Jakarta",
+      "streamUrl": "https://n01a-e2.revma.ihrhls.com/zc9095",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/id/2/25/Jak_FM_logo.png",
+      "genre": "Easy Listening"
+    },
+    {
+      "name": "Sonora FM Jakarta",
+      "streamUrl": "https://streaming.mras.co.id/sonora",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/id/3/3e/Sonora_FM_logo.png",
+      "genre": "News & Lifestyle"
+    },
+    {
+      "name": "Suara Giri FM Gresik",
+      "streamUrl": "https://suaragiri.fastcast4u.com/stream",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/id/4/45/Suara_Giri_FM_logo.png",
+      "genre": "Regional"
+    },
+    {
+      "name": "Radio SS FM Surabaya",
+      "streamUrl": "https://ssfmstream.radiossfm.com/;",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/id/f/f0/SS_FM_logo.png",
+      "genre": "Pop Jawa"
+    },
+    {
+      "name": "Smart FM Jakarta",
+      "streamUrl": "https://stream.smartfm.com:8000/jakarta",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/id/7/77/Smart_FM_logo.png",
+      "genre": "Talk Business"
+    },
+    {
+      "name": "V Radio Jakarta",
+      "streamUrl": "https://n15a-e2.revma.ihrhls.com/zc9096",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/id/2/22/V_Radio_logo.png",
+      "genre": "Woman Lifestyle"
+    },
+    {
+      "name": "RDI 97.1 FM Jakarta",
+      "streamUrl": "https://streaming.mras.co.id/rdi",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/id/7/7b/RDI_logo.png",
+      "genre": "Dangdut & Pop"
+    },
+    {
+      "name": "Cakrawala FM Yogyakarta",
+      "streamUrl": "https://stream.cakrawalafm.com/;",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/id/2/2c/Cakrawala_FM_logo.png",
+      "genre": "Regional"
+    },
+    {
+      "name": "K-Lite FM Bandung",
+      "streamUrl": "https://n06a-e2.revma.ihrhls.com/zc9098",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/id/3/3a/KLite_FM_logo.png",
+      "genre": "Soft Hits"
+    },
+    {
+      "name": "Rase FM Bandung",
+      "streamUrl": "https://streaming.rasefm.com:8000/rase",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/id/b/b0/Rase_FM_logo.png",
+      "genre": "Pop Sunda"
+    },
+    {
+      "name": "Ardan Radio Bandung",
+      "streamUrl": "https://n02a-e2.revma.ihrhls.com/zc9087",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/id/1/17/Ardan_Radio_logo.png",
+      "genre": "Top 40"
+    },
+    {
+      "name": "OZ Radio Bandung",
+      "streamUrl": "https://ozradio.fastcast4u.com/stream",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/id/e/e0/Oz_Radio_logo.png",
+      "genre": "Youth Music"
+    },
+    {
+      "name": "Ardan Radio Bali",
+      "streamUrl": "https://n03a-e2.revma.ihrhls.com/zc9088",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/id/1/17/Ardan_Radio_logo.png",
+      "genre": "Top 40"
+    },
+    {
+      "name": "RRI Pro 2 Denpasar",
+      "streamUrl": "https://stream.rri.co.id/pro2dps.mp3",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/id/0/09/Logo_RRI_Pro_2.png",
+      "genre": "Youth"
+    },
+    {
+      "name": "Bali FM",
+      "streamUrl": "https://balifm.onlivestreaming.net:8500/balifm",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/id/a/a3/Bali_FM_logo.png",
+      "genre": "Local Hits"
+    },
+    {
+      "name": "RRI Pro 1 Bali",
+      "streamUrl": "https://stream.rri.co.id/pro1dps.mp3",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/id/0/09/Logo_RRI_Pro_1.png",
+      "genre": "Culture"
+    },
+    {
+      "name": "RRI Pro 2 Makassar",
+      "streamUrl": "https://stream.rri.co.id/pro2mks.mp3",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/id/0/09/Logo_RRI_Pro_2.png",
+      "genre": "Youth"
+    },
+    {
+      "name": "RRI Pro 1 Makassar",
+      "streamUrl": "https://stream.rri.co.id/pro1mks.mp3",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/id/0/09/Logo_RRI_Pro_1.png",
+      "genre": "Talk & News"
+    },
+    {
+      "name": "RRI Pro 1 Medan",
+      "streamUrl": "https://stream.rri.co.id/pro1mdn.mp3",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/id/0/09/Logo_RRI_Pro_1.png",
+      "genre": "News & Culture"
+    },
+    {
+      "name": "RRI Pro 2 Medan",
+      "streamUrl": "https://stream.rri.co.id/pro2mdn.mp3",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/id/0/09/Logo_RRI_Pro_2.png",
+      "genre": "Youth Music"
+    },
+    {
+      "name": "RRI Pro 2 Palembang",
+      "streamUrl": "https://stream.rri.co.id/pro2plg.mp3",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/id/0/09/Logo_RRI_Pro_2.png",
+      "genre": "Youth"
+    },
+    {
+      "name": "RRI Pro 1 Pontianak",
+      "streamUrl": "https://stream.rri.co.id/pro1ptk.mp3",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/id/0/09/Logo_RRI_Pro_1.png",
+      "genre": "News & Talk"
+    },
+    {
+      "name": "RRI Pro 2 Samarinda",
+      "streamUrl": "https://stream.rri.co.id/pro2smd.mp3",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/id/0/09/Logo_RRI_Pro_2.png",
+      "genre": "Youth & Pop"
+    },
+    {
+      "name": "RRI Pro 1 Ambon",
+      "streamUrl": "https://stream.rri.co.id/pro1amb.mp3",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/id/0/09/Logo_RRI_Pro_1.png",
+      "genre": "News & Culture"
+    },
+    {
+      "name": "RRI Pro 2 Manado",
+      "streamUrl": "https://stream.rri.co.id/pro2mnd.mp3",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/id/0/09/Logo_RRI_Pro_2.png",
+      "genre": "Youth Music"
+    },
+    {
+      "name": "RRI Pro 1 Jayapura",
+      "streamUrl": "https://stream.rri.co.id/pro1jpr.mp3",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/id/0/09/Logo_RRI_Pro_1.png",
+      "genre": "Papua News"
+    },
+    {
+      "name": "RRI Pro 2 Jayapura",
+      "streamUrl": "https://stream.rri.co.id/pro2jpr.mp3",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/id/0/09/Logo_RRI_Pro_2.png",
+      "genre": "Youth Papua"
+    },
+    {
+      "name": "RRI Pro 1 Kupang",
+      "streamUrl": "https://stream.rri.co.id/pro1kpg.mp3",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/id/0/09/Logo_RRI_Pro_1.png",
+      "genre": "Talk"
+    },
+    {
+      "name": "RRI Pro 2 Kupang",
+      "streamUrl": "https://stream.rri.co.id/pro2kpg.mp3",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/id/0/09/Logo_RRI_Pro_2.png",
+      "genre": "Youth Music"
+    },
+    {
+      "name": "RRI Pro 2 Yogyakarta",
+      "streamUrl": "https://stream.rri.co.id/pro2yog.mp3",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/id/0/09/Logo_RRI_Pro_2.png",
+      "genre": "Youth Pop"
+    },
+    {
+      "name": "RRI Pro 1 Yogyakarta",
+      "streamUrl": "https://stream.rri.co.id/pro1yog.mp3",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/id/0/09/Logo_RRI_Pro_1.png",
+      "genre": "Talk & News"
+    }
+  ]
+}
