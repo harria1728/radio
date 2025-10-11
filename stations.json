@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Radio Dangdut Indonesia",
+    "streamUrl": "https://www.radioindonesia.org/rdi-radio-dangdut-indonesia-971-fm",
+    "icon": "icons/rdi.png",
+    "city": "Jakarta"
+  },
+  {
+    "name": "Elshinta",
+    "streamUrl": "https://www.radioindonesia.org/elshinta-jakarta",
+    "icon": "icons/elshinta.jpg",
+    "city": "Elshinta"
+  },
+  {
+    "name": "Delta FM",
+    "streamUrl": "https://www.radioindonesia.org/delta-fm",
+    "icon": "icons/delta.png",
+    "city": "Delta"
+  },
+  {
+    "name": "Jak FM",
+    "streamUrl": "https://www.radioindonesia.org/101-jak-fm",
+    "icon": "icons/jak.png",
+    "city": "Jak FM"
+  }
+]
