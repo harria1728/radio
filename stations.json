@@ -1,26 +1,26 @@
 [
   {
-    "name": "Radio Dangdut Indonesia",
-    "streamUrl": "https://www.radioindonesia.org/rdi-radio-dangdut-indonesia-971-fm",
+    "name": "Mettaswara",
+    "streamUrl": "https://mettaswara.com:8700//koplo",
+    "icon": "icons/metta.png",
+    "city": "Jakarta"
+  },
+  {
+    "name": "Campursari",
+    "streamUrl": "https://streaming.campursarifm.com/listen/campursari/campursari892",
+    "icon": "icons/campursari.png",
+    "city": "Yogyakarta"
+  },
+  {
+    "name": "RDI",
+    "streamUrl": "https://stream.roov.id:8062/stream?type=http&nocache=603",
     "icon": "icons/rdi.png",
     "city": "Jakarta"
   },
   {
     "name": "Elshinta",
-    "streamUrl": "https://www.radioindonesia.org/elshinta-jakarta",
+    "streamUrl": "https://stream-ssl.arenastreaming.com:8000/jakarta",
     "icon": "icons/elshinta.jpg",
-    "city": "Elshinta"
-  },
-  {
-    "name": "Delta FM",
-    "streamUrl": "https://www.radioindonesia.org/delta-fm",
-    "icon": "icons/delta.png",
-    "city": "Delta"
-  },
-  {
-    "name": "Jak FM",
-    "streamUrl": "https://www.radioindonesia.org/101-jak-fm",
-    "icon": "icons/jak.png",
-    "city": "Jak FM"
+    "city": "Jakarta"
   }
 ]
