@@ -18,16 +18,16 @@
     "city": "Indonesia"
   },
   {
+    "name": "Prambors FM Jakarta 102.2",
+    "streamUrl": "http://103.24.105.90:9300/pjkt",
+    "icon": "icons/prambors_fm_jakarta_102_2.png",
+    "city": "Jakarta"
+  },
+  {
     "name": "Gen 98.7 FM Jakarta",
     "streamUrl": "http://103.246.184.62:1935/noice_genfm/genfm/chunklist_w279187457.m3u8",
     "icon": "icons/gen_98_7_fm_jakarta.png",
     "city": "DKI Jakarta"
-  },
-  {
-    "name": "Campursari FM Jakarta",
-    "streamUrl": "https://streaming.campursarifm.com/listen/campursari/campursari892",
-    "icon": "icons/default.png",
-    "city": "Jakarta"
   },
   {
     "name": "I-Radio Jakarta",
@@ -36,14 +36,14 @@
     "city": "Jakarta"
   },
   {
-    "name": "Prambors FM Jakarta 102.2",
-    "streamUrl": "http://103.24.105.90:9300/pjkt",
-    "icon": "icons/prambors_fm_jakarta_102_2.png",
+    "name": "Campursari FM Jakarta",
+    "streamUrl": "https://streaming.campursarifm.com/listen/campursari/campursari892",
+    "icon": "icons/default.png",
     "city": "Jakarta"
   },
   {
     "name": "SB FM tembang kenangan",
-    "streamUrl": "https://stream-154.zeno.fm/d16n50mkzhhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJkMTZuNTBta3poaHZ2IiwiaG9zdCI6InN0cmVhbS0xNTQuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiWml2SzRVMldUNGEyOGpaa1M2VVVlQSIsImlhdCI6MTc2MDI2MjE2NiwiZXhwIjoxNzYwMjYyMjI2fQ.NrXW-Rrx32mj3SRPBdxmWJg0Z8bA5ixYbS5RSsLSF6A",
+    "streamUrl": "https://stream-155.zeno.fm/d16n50mkzhhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJkMTZuNTBta3poaHZ2IiwiaG9zdCI6InN0cmVhbS0xNTUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiUGY5RjVLS2NSbnlOdDdTWTBDMEtrZyIsImlhdCI6MTc2MDI4MjM4NCwiZXhwIjoxNzYwMjgyNDQ0fQ.vukUliUCzECJhQ_Em-pKslJz5dS4zEdAqJA202PfpRE",
     "icon": "icons/sb_fm_tembang_kenangan.png",
     "city": "parepare"
   },
@@ -55,7 +55,7 @@
   },
   {
     "name": "Radio Sholawat",
-    "streamUrl": "https://stream-177.zeno.fm/us5bsznu3rptv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1czVic3pudTNycHR2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiMjI2OXFOdmxTNVNmZ3ZRLU9OQ0pSZyIsImlhdCI6MTc2MDI1NzE2MSwiZXhwIjoxNzYwMjU3MjIxfQ.6ogV9y17F-ko8iO7JBkQJtK1jIXunjGxlFwIDgL7iHg",
+    "streamUrl": "https://stream-177.zeno.fm/us5bsznu3rptv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1czVic3pudTNycHR2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiNXhPVEJMZW5SZkt5ZllWc1BWbE1TUSIsImlhdCI6MTc2MDMxMjMwNSwiZXhwIjoxNzYwMzEyMzY1fQ.UudbLIhz4cH-i3oQHSWO327TNcjsiRAzlMQ0KUUEMv0",
     "icon": "icons/radio_sholawat.png",
     "city": "Surabaya"
   },
@@ -72,10 +72,10 @@
     "city": "Jakarta"
   },
   {
-    "name": "DANGDUT",
-    "streamUrl": "https://stream-161.zeno.fm/sgvq5xniobhuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzZ3ZxNXhuaW9iaHV2IiwiaG9zdCI6InN0cmVhbS0xNjEuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiOE1kYnRjQ0hSRENZZVBXWXZYX2ZxUSIsImlhdCI6MTc2MDI2MDMwMSwiZXhwIjoxNzYwMjYwMzYxfQ.yk2OIYE1jBQvcpJvBG3NjOFQVlQn4_UfVyk7ftmxl6Y",
-    "icon": "icons/default.png",
-    "city": "Indonesia"
+    "name": "Radio Campursari Yogyakarta",
+    "streamUrl": "https://a8.siar.us/listen/campursari/stream",
+    "icon": "icons/radio_campursari_yogyakarta.png",
+    "city": "Yogyakarta"
   },
   {
     "name": "RADIO CAKRA 90.5 FM",
@@ -84,16 +84,10 @@
     "city": "Bandung"
   },
   {
-    "name": "Radio Campursari Yogyakarta",
-    "streamUrl": "https://a8.siar.us/listen/campursari/stream",
-    "icon": "icons/radio_campursari_yogyakarta.png",
-    "city": "Yogyakarta"
-  },
-  {
-    "name": "Dahlia Bandung 101.5 FM",
-    "streamUrl": "https://svara-stream.radioddns.net/bandung_dahliafm",
-    "icon": "icons/dahlia_bandung_101_5_fm.png",
-    "city": "Bandung"
+    "name": "DANGDUT",
+    "streamUrl": "https://stream-162.zeno.fm/sgvq5xniobhuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzZ3ZxNXhuaW9iaHV2IiwiaG9zdCI6InN0cmVhbS0xNjIuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoieW9WZ2pCc2lSNG16dWFFcmp2SnJRUSIsImlhdCI6MTc2MDMyMjcxNSwiZXhwIjoxNzYwMzIyNzc1fQ.6yFGYByAUZuobltOcj4e2slUYHVGdOLJgLsU7tud-vE",
+    "icon": "icons/default.png",
+    "city": "Indonesia"
   },
   {
     "name": "Suara Giri 98.4 FM",
@@ -102,27 +96,15 @@
     "city": "Indonesia"
   },
   {
+    "name": "Dahlia Bandung 101.5 FM",
+    "streamUrl": "https://svara-stream.radioddns.net/bandung_dahliafm",
+    "icon": "icons/dahlia_bandung_101_5_fm.png",
+    "city": "Bandung"
+  },
+  {
     "name": "Hardrock 87.6 FM Jakarta",
-    "streamUrl": "http://n01.radiojar.com/7csmg90fuqruv?rj-ttl=5&rj-tok=AAABmdb03h0AR8r9aSR1yZnxwQ",
+    "streamUrl": "http://n0e.radiojar.com/7csmg90fuqruv?rj-ttl=5&rj-tok=AAABmdjrqZIA20h1a_9CIpsEjA",
     "icon": "icons/default.png",
-    "city": "Indonesia"
-  },
-  {
-    "name": "Jak 101 FM",
-    "streamUrl": "http://103.246.184.62:1935/noice_jakfm/jakfm/chunklist_w1246572933.m3u8",
-    "icon": "icons/jak_101_fm.png",
-    "city": "DKI Jakarta"
-  },
-  {
-    "name": "95.1 Kiss FM",
-    "streamUrl": "http://103.246.184.62:1935/noice_kisfm/kisfm/chunklist.m3u8",
-    "icon": "icons/95_1_kiss_fm.png",
-    "city": "Indonesia"
-  },
-  {
-    "name": "Dangdut2",
-    "streamUrl": "https://stream-154.zeno.fm/vwhplynnpfjtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ2d2hwbHlubnBmanR2IiwiaG9zdCI6InN0cmVhbS0xNTQuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiNVdUTjdOZ0xSOWFwVEEtMEpOc0VrdyIsImlhdCI6MTc2MDIzMTM5MiwiZXhwIjoxNzYwMjMxNDUyfQ.aB7g3R-bCLbANDaPi0sv-yvoYaZgjjG2unn4TQJHgpY",
-    "icon": "icons/dangdut2.png",
     "city": "Indonesia"
   },
   {
@@ -132,34 +114,10 @@
     "city": "DKI Jakarta"
   },
   {
-    "name": "Sonora 92.0 FM Jakarta",
-    "streamUrl": "https://cast1.my-control-panel.com/proxy/radioso1/stream",
-    "icon": "icons/default.png",
-    "city": "Jakarta"
-  },
-  {
     "name": "Rama FM Bandung 104.7 FM",
     "streamUrl": "https://i.klikhost.com/8330/;",
     "icon": "icons/rama_fm_bandung_104_7_fm.png",
     "city": "Bandung"
-  },
-  {
-    "name": "Suara Soneta",
-    "streamUrl": "https://a2.siar.us//listen//suarasoneta//radio.mp3",
-    "icon": "icons/default.png",
-    "city": "Banyuwangi"
-  },
-  {
-    "name": "Gen 103.1 FM Surabaya New",
-    "streamUrl": "http://103.246.184.62:1935/noice_genfmsby/gensbyic.stream/playlist.m3u8",
-    "icon": "icons/gen_103_1_fm_surabaya_new.png",
-    "city": "Surabaya"
-  },
-  {
-    "name": "Wijaya FM 103.5 FM Surabaya",
-    "streamUrl": "http://wijayafm.onlivestreaming.net:9880/stream?",
-    "icon": "icons/wijaya_fm_103_5_fm_surabaya.png",
-    "city": "Jawa Timur"
   },
   {
     "name": "Suara Surabaya FM",
@@ -168,16 +126,94 @@
     "city": "Indonesia"
   },
   {
+    "name": "Dangdut2",
+    "streamUrl": "https://stream-156.zeno.fm/vwhplynnpfjtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ2d2hwbHlubnBmanR2IiwiaG9zdCI6InN0cmVhbS0xNTYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiZWpFN3JwQlVTLTZENWlLSkFfZlp2dyIsImlhdCI6MTc2MDMxNzk4MywiZXhwIjoxNzYwMzE4MDQzfQ.dYWRlOZBbZiWuiAHV-v4KweK8s2RaNLxb1OaZZ2hodM",
+    "icon": "icons/dangdut2.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "95.1 Kiss FM",
+    "streamUrl": "http://103.246.184.62:1935/noice_kisfm/kisfm/chunklist.m3u8",
+    "icon": "icons/95_1_kiss_fm.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "Gen 103.1 FM Surabaya New",
+    "streamUrl": "http://103.246.184.62:1935/noice_genfmsby/gensbyic.stream/playlist.m3u8",
+    "icon": "icons/gen_103_1_fm_surabaya_new.png",
+    "city": "Surabaya"
+  },
+  {
+    "name": "Jak 101 FM",
+    "streamUrl": "http://103.246.184.62:1935/noice_jakfm/jakfm/chunklist_w1246572933.m3u8",
+    "icon": "icons/jak_101_fm.png",
+    "city": "DKI Jakarta"
+  },
+  {
+    "name": "Suara Soneta",
+    "streamUrl": "https://a2.siar.us//listen//suarasoneta//radio.mp3",
+    "icon": "icons/default.png",
+    "city": "Banyuwangi"
+  },
+  {
+    "name": "Sonora 92.0 FM Jakarta",
+    "streamUrl": "https://cast1.my-control-panel.com/proxy/radioso1/stream",
+    "icon": "icons/default.png",
+    "city": "Jakarta"
+  },
+  {
+    "name": "Wijaya FM 103.5 FM Surabaya",
+    "streamUrl": "http://wijayafm.onlivestreaming.net:9880/stream?",
+    "icon": "icons/wijaya_fm_103_5_fm_surabaya.png",
+    "city": "Jawa Timur"
+  },
+  {
+    "name": "Iradio FM",
+    "streamUrl": "http://n11.radiojar.com/4ywdgup3bnzuv?rj-ttl=5&rj-tok=AAABmdsjjWoAgxNve-6C4oLoRA",
+    "icon": "icons/iradio_fm.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "RDI 97.1 FM",
+    "streamUrl": "http://202.147.199.99:8000/;stream/1",
+    "icon": "icons/default.png",
+    "city": "Jakarta"
+  },
+  {
     "name": "Geboy Dangdut",
-    "streamUrl": "https://stream-154.zeno.fm/kfp2ghnat18uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJrZnAyZ2huYXQxOHV2IiwiaG9zdCI6InN0cmVhbS0xNTQuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiTDZxRlJlTG1TX3lOODdITzZLQVVGUSIsImlhdCI6MTc2MDIzNzU1MiwiZXhwIjoxNzYwMjM3NjEyfQ.kcq0L4F8n5JDCEGub3qMNxROR11gl4hezrIlH07zNDQ",
+    "streamUrl": "https://stream-155.zeno.fm/kfp2ghnat18uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJrZnAyZ2huYXQxOHV2IiwiaG9zdCI6InN0cmVhbS0xNTUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiUDR1N3VFWWNRNnVUbmd4ZWVhMThfZyIsImlhdCI6MTc2MDMyNDA5NSwiZXhwIjoxNzYwMzI0MTU1fQ.8b-DdZrA3_QXbqYmuzojj8558mQQIQ3THDxIBlWyGHg",
     "icon": "icons/geboy_dangdut.png",
     "city": "Indonesia"
   },
   {
     "name": "Radio Losta FM Blitar 89.2 MHz",
-    "streamUrl": "https://stream-169.zeno.fm/ar3nv92ahfhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJhcjNudjkyYWhmaHZ2IiwiaG9zdCI6InN0cmVhbS0xNjkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiUkNiYzRMT1FURXFySTBEVnZaVGRLQSIsImlhdCI6MTc2MDIzOTEwNywiZXhwIjoxNzYwMjM5MTY3fQ.3B9SXJKP9ZkOIlRskYd-4qoD17SGRbrAjktTgIRmoHg",
+    "streamUrl": "https://stream-169.zeno.fm/ar3nv92ahfhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJhcjNudjkyYWhmaHZ2IiwiaG9zdCI6InN0cmVhbS0xNjkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiSThJcFlGNjdUNzZxalpLWWwzVVRZdyIsImlhdCI6MTc2MDMwMDYwMCwiZXhwIjoxNzYwMzAwNjYwfQ.ATBQv5cz_d6zXFYxw7eIoEsb7UToYW965AXz6hF0ops",
     "icon": "icons/radio_losta_fm_blitar_89_2_mhz.png",
     "city": "Blitar"
+  },
+  {
+    "name": "DJ BARU",
+    "streamUrl": "https://stream-158.zeno.fm/iwcyhq56nwiuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJpd2N5aHE1Nm53aXV2IiwiaG9zdCI6InN0cmVhbS0xNTguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiZGZUZjJFNVVUeHlqYXlmOGE5T3NGZyIsImlhdCI6MTc2MDI5OTY2NiwiZXhwIjoxNzYwMjk5NzI2fQ.r2_p78GP7UJpvOG1B-8j2NiKQVnWPvUEEK-tVjQM6Qk",
+    "icon": "icons/default.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "Suara Giri FM",
+    "streamUrl": "http://streaming.girifm.com:8010/;stream.nsv",
+    "icon": "icons/suara_giri_fm.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "Mosh Head Black Metal ID",
+    "streamUrl": "https://moshhead-blackmetal.stream.laut.fm/moshhead-blackmetal",
+    "icon": "icons/default.png",
+    "city": "Yogyakarta"
+  },
+  {
+    "name": "Iradio Jogja 88.7 FM",
+    "streamUrl": "http://n10.radiojar.com/hnf2cbv80k8uv?listening-from-radio-garden=1686417396&rj-tok=AAABmdiAE0YAss_Pn_5I5pR4QQ&rj-ttl=5",
+    "icon": "icons/default.png",
+    "city": "Yogyakarta"
   },
   {
     "name": "Elgangga FM",
@@ -186,21 +222,15 @@
     "city": "Bekasi"
   },
   {
-    "name": "Iradio FM",
-    "streamUrl": "http://n0e.radiojar.com/4ywdgup3bnzuv?rj-ttl=5&rj-tok=AAABmdX7qqIA8JPjlwYkJHs6Vg",
-    "icon": "icons/iradio_fm.png",
+    "name": "elshinta  jakarta",
+    "streamUrl": "https://stream-ssl.arenastreaming.com:8000/jakarta",
+    "icon": "icons/default.png",
     "city": "Indonesia"
   },
   {
-    "name": "Iradio Jogja 88.7 FM",
-    "streamUrl": "http://n10.radiojar.com/hnf2cbv80k8uv?listening-from-radio-garden=1686417396&rj-tok=AAABmdhkzbgAaZ067S9Al1VmyA&rj-ttl=5",
+    "name": "Radio Dangdut Indonesia",
+    "streamUrl": "http://202.147.199.99:8000/;",
     "icon": "icons/default.png",
-    "city": "Yogyakarta"
-  },
-  {
-    "name": "Suara Giri FM",
-    "streamUrl": "http://streaming.girifm.com:8010/;stream.nsv",
-    "icon": "icons/suara_giri_fm.png",
     "city": "Indonesia"
   },
   {
@@ -210,20 +240,14 @@
     "city": "Kediri"
   },
   {
-    "name": "Mosh Head Black Metal ID",
-    "streamUrl": "https://moshhead-blackmetal.stream.laut.fm/moshhead-blackmetal",
-    "icon": "icons/default.png",
-    "city": "Yogyakarta"
-  },
-  {
-    "name": "DJ BARU",
-    "streamUrl": "https://stream-159.zeno.fm/iwcyhq56nwiuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJpd2N5aHE1Nm53aXV2IiwiaG9zdCI6InN0cmVhbS0xNTkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoibTlad19NQmpUVWlycWhTYjhvRWZWUSIsImlhdCI6MTc2MDIzODA1MywiZXhwIjoxNzYwMjM4MTEzfQ.XnY7MI8hdfjVXGgcsOIlq2uJVuFWudmh_vgXr73HYN0",
+    "name": "Tarbiyah Sunnah",
+    "streamUrl": "https://radioislamindonesia.com/tarbiyah.mp3",
     "icon": "icons/default.png",
     "city": "Indonesia"
   },
   {
-    "name": "elshinta  jakarta",
-    "streamUrl": "https://stream-ssl.arenastreaming.com:8000/jakarta",
+    "name": "Female FM",
+    "streamUrl": "https://s1.cloudmu.id/listen/female_radio/stream",
     "icon": "icons/default.png",
     "city": "Indonesia"
   },
@@ -234,50 +258,14 @@
     "city": "DKI Jakarta"
   },
   {
-    "name": "RDI 97.1 FM",
-    "streamUrl": "http://202.147.199.99:8000/;stream/1",
+    "name": "Retjo Buntung 99.4 FM",
+    "streamUrl": "http://45.64.97.82:9940/",
     "icon": "icons/default.png",
-    "city": "Jakarta"
-  },
-  {
-    "name": "Female FM",
-    "streamUrl": "https://s1.cloudmu.id/listen/female_radio/stream",
-    "icon": "icons/default.png",
-    "city": "Indonesia"
-  },
-  {
-    "name": "M-Stream Indo",
-    "streamUrl": "https://stream-179.zeno.fm/iln4upodbvuuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJpbG40dXBvZGJ2dXV2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiTDBlNW00RFpUYWVZM2NpeFZZeEpqZyIsImlhdCI6MTc2MDIzMDc3MSwiZXhwIjoxNzYwMjMwODMxfQ.4G9i1d8UTm1QGVwQihPWanZ5x9M99ioRdsDgXBSFQ0o",
-    "icon": "icons/m_stream_indo.png",
-    "city": "Bandung"
-  },
-  {
-    "name": "Global Radio Jakarta",
-    "streamUrl": "http://202.147.199.98/;?1737921496499",
-    "icon": "icons/global_radio_jakarta.png",
-    "city": "Jakarta"
-  },
-  {
-    "name": "Radio Dangdut Indonesia",
-    "streamUrl": "http://202.147.199.99:8000/;",
-    "icon": "icons/default.png",
-    "city": "Indonesia"
+    "city": "Yogyakarta"
   },
   {
     "name": "RRI Channel 5",
     "streamUrl": "https://stream-node1.rri.co.id/streaming/41/8941/chlima.mp3",
-    "icon": "icons/default.png",
-    "city": "Indonesia"
-  },
-  {
-    "name": "Andika FM Kediri",
-    "streamUrl": "http://andikafm.onlivestreaming.net:1057/stream",
-    "icon": "icons/default.png",
-    "city": "Kediri"
-  },
-  {
-    "name": "Imelda FM",
-    "streamUrl": "https://server.radioimeldafm.co.id:8030/imeldafm",
     "icon": "icons/default.png",
     "city": "Indonesia"
   },
@@ -288,10 +276,10 @@
     "city": "Indonesia"
   },
   {
-    "name": "Gajahmada FM",
-    "streamUrl": "https://server.radioimeldafm.co.id:8040/gajahmadafm",
-    "icon": "icons/default.png",
-    "city": "Indonesia"
+    "name": "Global Radio Jakarta",
+    "streamUrl": "http://202.147.199.98/;?1737921496499",
+    "icon": "icons/global_radio_jakarta.png",
+    "city": "Jakarta"
   },
   {
     "name": "Radio Kasih",
@@ -306,32 +294,8 @@
     "city": "DKI Jakarta"
   },
   {
-    "name": "Tarbiyah Sunnah",
-    "streamUrl": "https://radioislamindonesia.com/tarbiyah.mp3",
-    "icon": "icons/default.png",
-    "city": "Indonesia"
-  },
-  {
-    "name": "Retjo Buntung 99.4 FM",
-    "streamUrl": "http://45.64.97.82:9940/",
-    "icon": "icons/default.png",
-    "city": "Yogyakarta"
-  },
-  {
-    "name": "Radio Rodja 756 AM",
-    "streamUrl": "https://radioislamindonesia.com/rodja.mp3?_=2",
-    "icon": "icons/radio_rodja_756_am.png",
-    "city": "Indonesia"
-  },
-  {
-    "name": "Spirit Online",
-    "streamUrl": "https://a11.asurahosting.com:7470/spirit_online",
-    "icon": "icons/default.png",
-    "city": "Surabaya"
-  },
-  {
-    "name": "89.2 FM Jakarta, Campur sari",
-    "streamUrl": "https://a8.siar.us/listen/campursari/stream",
+    "name": "Imelda FM",
+    "streamUrl": "https://server.radioimeldafm.co.id:8030/imeldafm",
     "icon": "icons/default.png",
     "city": "Indonesia"
   },
@@ -342,26 +306,20 @@
     "city": "Indonesia"
   },
   {
-    "name": "Radio Muara Cirebon",
-    "streamUrl": "https://45.64.97.78:8241/",
-    "icon": "icons/radio_muara_cirebon.png",
-    "city": "Cirebon"
-  },
-  {
-    "name": "98,4 Suara Giri FM Gresik",
-    "streamUrl": "http://streaming.girifm.com:8010/;stream.nsv",
-    "icon": "icons/default.png",
+    "name": "Radio Rodja 756 AM",
+    "streamUrl": "https://radioislamindonesia.com/rodja.mp3?_=2",
+    "icon": "icons/radio_rodja_756_am.png",
     "city": "Indonesia"
   },
   {
-    "name": "EL SHADDAI FM SOLO",
-    "streamUrl": "http://shaddai.onlivestreaming.net:9130/live",
+    "name": "Andika FM Kediri",
+    "streamUrl": "http://andikafm.onlivestreaming.net:1057/stream",
     "icon": "icons/default.png",
-    "city": "Solo"
+    "city": "Kediri"
   },
   {
-    "name": "gen 987 FM",
-    "streamUrl": "http://103.246.184.62:1935/noice_genfm/genfm/chunklist.m3u8",
+    "name": "Gajahmada FM",
+    "streamUrl": "https://server.radioimeldafm.co.id:8040/gajahmadafm",
     "icon": "icons/default.png",
     "city": "Indonesia"
   },
@@ -372,20 +330,20 @@
     "city": "Indonesia"
   },
   {
-    "name": "TraxFM Jakarta",
-    "streamUrl": "http://n05.radiojar.com/rrqf78p3bnzuv.mp3?rj-ttl=5&rj-tok=AAABmdhaSKsA1FOLzAITGvFWVQ",
+    "name": "Radio Muara Cirebon",
+    "streamUrl": "https://45.64.97.78:8241/",
+    "icon": "icons/radio_muara_cirebon.png",
+    "city": "Cirebon"
+  },
+  {
+    "name": "89.2 FM Jakarta, Campur sari",
+    "streamUrl": "https://a8.siar.us/listen/campursari/stream",
     "icon": "icons/default.png",
     "city": "Indonesia"
   },
   {
-    "name": "Most 105.8 FM Jakarta",
-    "streamUrl": "https://wz.mari.co.id:1936/web_mostfm/mostfm/chunklist_w405836415.m3u8",
-    "icon": "icons/most_105_8_fm_jakarta.png",
-    "city": "Jakarta"
-  },
-  {
-    "name": "Campursari FM",
-    "streamUrl": "https://streaming.campursarifm.com/listen/campursari/campursari892",
+    "name": "98,4 Suara Giri FM Gresik",
+    "streamUrl": "http://streaming.girifm.com:8010/;stream.nsv",
     "icon": "icons/default.png",
     "city": "Indonesia"
   },
@@ -396,52 +354,16 @@
     "city": "Indonesia"
   },
   {
-    "name": "CLASSY NetRadio",
-    "streamUrl": "https://streaming.classynetradio.com:8000/classySD",
-    "icon": "icons/classy_netradio.png",
-    "city": "Jawa Timur"
-  },
-  {
-    "name": "Most Radio 105.8 FM",
-    "streamUrl": "http://103.246.184.62:1935/noice_mostfm/mostfm/chunklist_w118038145.m3u8",
-    "icon": "icons/most_radio_105_8_fm.png",
-    "city": "DKI Jakarta"
-  },
-  {
-    "name": "MQFM Bandung - Indonesia",
-    "streamUrl": "https://mqfmstreaming.kamil.web.id/;",
+    "name": "EL SHADDAI FM SOLO",
+    "streamUrl": "http://shaddai.onlivestreaming.net:9130/live",
     "icon": "icons/default.png",
-    "city": "Indonesia"
+    "city": "Solo"
   },
   {
-    "name": "RRI PRO 3",
-    "streamUrl": "https://stream-node0.rri.co.id/streaming/14/9014/kbrn.mp3",
-    "icon": "icons/rri_pro_3.png",
-    "city": "Indonesia"
-  },
-  {
-    "name": "Suara Surabaya",
-    "streamUrl": "https://c5.siar.us/proxy/ssfm/stream",
-    "icon": "icons/suara_surabaya.png",
-    "city": "Indonesia"
-  },
-  {
-    "name": "trax fm semarang",
-    "streamUrl": "http://n12.radiojar.com/fr9zqhv80k8uv?rj-ttl=5&rj-tok=AAABmdGBXlwAda0tWqbgsEYhlQ",
-    "icon": "icons/default.png",
-    "city": "Jawa Tengah"
-  },
-  {
-    "name": "Bahtera Yudha FM Surabaya",
-    "streamUrl": "http://streaming.bahterayudhafm.com:8050/;rojer.mp3",
-    "icon": "icons/bahtera_yudha_fm_surabaya.png",
-    "city": "Surabaya"
-  },
-  {
-    "name": "Gen 103.1 FM Surabaya",
-    "streamUrl": "http://103.246.184.62:1935/noice_genfmsby/gensbyic.stream/playlist.m3u8",
-    "icon": "icons/default.png",
-    "city": "Indonesia"
+    "name": "M-Stream Indo",
+    "streamUrl": "https://stream-175.zeno.fm/iln4upodbvuuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJpbG40dXBvZGJ2dXV2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiX0FjcHhkbHBRU3FoZ0JjX0Z6aXI2QSIsImlhdCI6MTc2MDMxNzM1NSwiZXhwIjoxNzYwMzE3NDE1fQ.rvGph1fNbMkq9-OMwbwrM15ySfLyqGNkQCUgx7jd5Gg",
+    "icon": "icons/m_stream_indo.png",
+    "city": "Bandung"
   },
   {
     "name": "Genta FM Bali",
@@ -456,9 +378,9 @@
     "city": "Bandung"
   },
   {
-    "name": "Raka FM Bandung",
-    "streamUrl": "https://cast2.my-control-panel.com/proxy/radioso5/stream?1722408539586",
-    "icon": "icons/raka_fm_bandung.png",
+    "name": "radio pensiunan",
+    "streamUrl": "https://pu.klikhost.com/proxy/radiopensiunan/stream",
+    "icon": "icons/default.png",
     "city": "Indonesia"
   },
   {
@@ -468,10 +390,28 @@
     "city": "Jakarta"
   },
   {
-    "name": "Alternatif radio jakarta",
-    "streamUrl": "https://void.idserverhost.com/8016/stream",
-    "icon": "icons/alternatif_radio_jakarta.png",
+    "name": "RRI PRO 3",
+    "streamUrl": "https://stream-node0.rri.co.id/streaming/14/9014/kbrn.mp3",
+    "icon": "icons/rri_pro_3.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "Most 105.8 FM Jakarta",
+    "streamUrl": "https://wz.mari.co.id:1936/web_mostfm/mostfm/chunklist_w405836415.m3u8",
+    "icon": "icons/most_105_8_fm_jakarta.png",
     "city": "Jakarta"
+  },
+  {
+    "name": "Bahtera Yudha FM Surabaya",
+    "streamUrl": "http://streaming.bahterayudhafm.com:8050/;rojer.mp3",
+    "icon": "icons/bahtera_yudha_fm_surabaya.png",
+    "city": "Surabaya"
+  },
+  {
+    "name": "Campursari FM",
+    "streamUrl": "https://streaming.campursarifm.com/listen/campursari/campursari892",
+    "icon": "icons/default.png",
+    "city": "Indonesia"
   },
   {
     "name": "Cosmo Radio 101.9 FM Bandung",
@@ -486,46 +426,34 @@
     "city": "Indonesia"
   },
   {
-    "name": "GCD Yogyakarta 98.6 FM",
-    "streamUrl": "https://studio1.indostreamers.com:8014/stream/1/",
-    "icon": "icons/gcd_yogyakarta_98_6_fm.png",
+    "name": "Gen 103.1 FM Surabaya",
+    "streamUrl": "http://103.246.184.62:1935/noice_genfmsby/gensbyic.stream/playlist.m3u8",
+    "icon": "icons/default.png",
     "city": "Indonesia"
   },
   {
-    "name": "Kis 95.1 FM Jakarta",
-    "streamUrl": "http://103.246.184.62:1935/noice_kisfm/kisfm/chunklist.m3u8",
-    "icon": "icons/default.png",
+    "name": "Gen 98.7 FM Jakarta",
+    "streamUrl": "http://103.246.184.62:1935/noice_genfm/genfm/chunklist.m3u8",
+    "icon": "icons/gen_98_7_fm_jakarta.png",
     "city": "Jakarta"
   },
   {
-    "name": "Pejuang Kopi",
-    "streamUrl": "https://stream-179.zeno.fm/sthgzynfcd0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzdGhnenluZmNkMHV2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiaHlZWVR5UzdUREtSUFI3bjVTa2JxZyIsImlhdCI6MTc2MDI2MjE2MiwiZXhwIjoxNzYwMjYyMjIyfQ.CB-0ddNVPsjRuwrRjYPAPykiMK7ITSfCSRIswhe0_Sw",
-    "icon": "icons/pejuang_kopi.png",
-    "city": "Indonesia"
-  },
-  {
-    "name": "radio pensiunan",
-    "streamUrl": "https://pu.klikhost.com/proxy/radiopensiunan/stream",
+    "name": "gen 987 FM",
+    "streamUrl": "http://103.246.184.62:1935/noice_genfm/genfm/chunklist.m3u8",
     "icon": "icons/default.png",
     "city": "Indonesia"
   },
   {
-    "name": "RRI Pro 3 KBRN",
-    "streamUrl": "https://stream-node0.rri.co.id/streaming/14/9014/kbrn.mp3",
+    "name": "Spirit Online",
+    "streamUrl": "https://a11.asurahosting.com:7470/spirit_online",
+    "icon": "icons/default.png",
+    "city": "Surabaya"
+  },
+  {
+    "name": "TraxFM Jakarta",
+    "streamUrl": "http://n05.radiojar.com/rrqf78p3bnzuv.mp3?rj-ttl=5&rj-tok=AAABmdhaSKsA1FOLzAITGvFWVQ",
     "icon": "icons/default.png",
     "city": "Indonesia"
-  },
-  {
-    "name": "Sindo Trijaya 104.6 FM Jakarta",
-    "streamUrl": "http://202.147.199.101:8000/;stream.nsv",
-    "icon": "icons/default.png",
-    "city": "Jakarta"
-  },
-  {
-    "name": "Slawi FM Tegal",
-    "streamUrl": "https://i.klikhost.com/9032/;",
-    "icon": "icons/default.png",
-    "city": "Tegal"
   },
   {
     "name": "101 Jak FM Streaming Online – Jakarta",
@@ -540,16 +468,10 @@
     "city": "Indonesia"
   },
   {
-    "name": "Bandung Death Metal Syndicate",
-    "streamUrl": "https://stream-175.zeno.fm/t9wdzppre5zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ0OXdkenBwcmU1enV2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiSGRsekppVFlSSy1OeEZ1bXlUa3NRZyIsImlhdCI6MTc2MDI2MDA0OSwiZXhwIjoxNzYwMjYwMTA5fQ.kzEnd1kh7pwvFzk85iEhZwiIuFooLQBiyIfc80T4W6Y",
-    "icon": "icons/bandung_death_metal_syndicate.png",
-    "city": "Bandung, West Java"
-  },
-  {
-    "name": "Cakra Radio Bandung 90.5 FM",
-    "streamUrl": "https://stream-154.zeno.fm/yoengdcdzyauv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ5b2VuZ2RjZHp5YXV2IiwiaG9zdCI6InN0cmVhbS0xNTQuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiY2tyTzktS3NUV09XRGlZNTlnV29BdyIsImlhdCI6MTc2MDI1MTczMCwiZXhwIjoxNzYwMjUxNzkwfQ.JdgLJFfoaQXk674EPfAwEsNAgVtxp6OAQy0o6o7J6Wo",
-    "icon": "icons/cakra_radio_bandung_90_5_fm.png",
-    "city": "Bandung"
+    "name": "CNN Indonesia",
+    "streamUrl": "https://live.cnnindonesia.com/livecnn/smil:cnntv/chunklist.m3u8",
+    "icon": "icons/default.png",
+    "city": "Indonesia"
   },
   {
     "name": "Fajri FM",
@@ -558,10 +480,106 @@
     "city": "Indonesia"
   },
   {
-    "name": "Gen 98.7 FM Jakarta",
-    "streamUrl": "http://103.246.184.62:1935/noice_genfm/genfm/chunklist.m3u8",
-    "icon": "icons/gen_98_7_fm_jakarta.png",
+    "name": "Radio Elshinta",
+    "streamUrl": "https://stream-ssl.arenastreaming.com:8000/jakarta",
+    "icon": "icons/default.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "Slawi FM Tegal",
+    "streamUrl": "https://i.klikhost.com/9032/;",
+    "icon": "icons/slawi_fm_tegal.png",
+    "city": "Tegal"
+  },
+  {
+    "name": "Suara Surabaya",
+    "streamUrl": "https://c5.siar.us/proxy/ssfm/stream",
+    "icon": "icons/suara_surabaya.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "Alternatif radio jakarta",
+    "streamUrl": "https://void.idserverhost.com/8016/stream",
+    "icon": "icons/alternatif_radio_jakarta.png",
     "city": "Jakarta"
+  },
+  {
+    "name": "CLASSY NetRadio",
+    "streamUrl": "https://streaming.classynetradio.com:8000/classySD",
+    "icon": "icons/classy_netradio.png",
+    "city": "Jawa Timur"
+  },
+  {
+    "name": "GCD Yogyakarta 98.6 FM",
+    "streamUrl": "https://studio1.indostreamers.com:8014/stream/1/",
+    "icon": "icons/gcd_yogyakarta_98_6_fm.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "MQFM Bandung - Indonesia",
+    "streamUrl": "https://mqfmstreaming.kamil.web.id/;",
+    "icon": "icons/mqfm_bandung_indonesia.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "Retjo Buntung",
+    "streamUrl": "http://45.64.97.82:9940/stream",
+    "icon": "icons/default.png",
+    "city": "Yogyakarta"
+  },
+  {
+    "name": "RRI Pro 3 KBRN",
+    "streamUrl": "https://stream-node0.rri.co.id/streaming/14/9014/kbrn.mp3",
+    "icon": "icons/default.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "Sindo Trijaya 104.6 FM Jakarta",
+    "streamUrl": "http://202.147.199.101:8000/;stream.nsv",
+    "icon": "icons/default.png",
+    "city": "Jakarta"
+  },
+  {
+    "name": "Swara Semarang",
+    "streamUrl": "https://server.radioimeldafm.co.id/listen/swarasemarang/swarasemarang",
+    "icon": "icons/default.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "trax fm semarang",
+    "streamUrl": "http://n12.radiojar.com/fr9zqhv80k8uv?rj-ttl=5&rj-tok=AAABmdjJR1QA4yGl-DT25pf7og",
+    "icon": "icons/default.png",
+    "city": "Jawa Tengah"
+  },
+  {
+    "name": "Bandung Death Metal Syndicate",
+    "streamUrl": "https://stream-175.zeno.fm/t9wdzppre5zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ0OXdkenBwcmU1enV2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoicFJhZmZ6VEpSMDJjWFFCSzZjUGtlZyIsImlhdCI6MTc2MDI3NDEyMiwiZXhwIjoxNzYwMjc0MTgyfQ.XWdS1LnmEuRlyDbXkLk1vicOMEIrIk8Wo5jmoL6HUJY",
+    "icon": "icons/bandung_death_metal_syndicate.png",
+    "city": "Bandung, West Java"
+  },
+  {
+    "name": "Kis 95.1 FM",
+    "streamUrl": "http://103.246.184.62:1935/noice_kisfm/kisfm/chunklist_w1678859544.m3u8",
+    "icon": "icons/kis_95_1_fm.png",
+    "city": "DKI Jakarta"
+  },
+  {
+    "name": "Kis 95.1 FM Jakarta",
+    "streamUrl": "http://103.246.184.62:1935/noice_kisfm/kisfm/chunklist.m3u8",
+    "icon": "icons/default.png",
+    "city": "Jakarta"
+  },
+  {
+    "name": "Pejuang Kopi",
+    "streamUrl": "https://stream-179.zeno.fm/sthgzynfcd0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzdGhnenluZmNkMHV2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiVTVyMFZGNEtSOEduRWhFOXFscU9xQSIsImlhdCI6MTc2MDI3NTI4NCwiZXhwIjoxNzYwMjc1MzQ0fQ.jc04EHI7vH9saAa2j7aAVChaTCz9nmXbPVAk85EYyPA",
+    "icon": "icons/pejuang_kopi.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "Prosalina FM",
+    "streamUrl": "https://i.klikhost.com/8618/stream?1708788698312",
+    "icon": "icons/prosalina_fm.png",
+    "city": "Indonesia"
   },
   {
     "name": "PT. Radio Elshinta",
@@ -576,22 +594,142 @@
     "city": "Tegal"
   },
   {
-    "name": "Radio Elshinta",
-    "streamUrl": "https://stream-ssl.arenastreaming.com:8000/jakarta",
+    "name": "Radio AR Bali",
+    "streamUrl": "https://live.radioarbali.com:8450/radioar",
+    "icon": "icons/default.png",
+    "city": "Bali"
+  },
+  {
+    "name": "Radio Islam Malang 1",
+    "streamUrl": "http://malang.radioislam.my.id:11132/",
     "icon": "icons/default.png",
     "city": "Indonesia"
   },
   {
-    "name": "RDI 97.1 FM Jakarta",
-    "streamUrl": "http://202.147.199.99:8000/stream",
+    "name": "Raka FM Bandung",
+    "streamUrl": "https://cast2.my-control-panel.com/proxy/radioso5/stream?1722408539586",
+    "icon": "icons/raka_fm_bandung.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "Trangkil FM",
+    "streamUrl": "https://i.klikhost.com/8228/;radio",
+    "icon": "icons/trangkil_fm.png",
+    "city": "magetan"
+  },
+  {
+    "name": "V Radio",
+    "streamUrl": "http://202.147.199.100:8000/;stream.nsv",
     "icon": "icons/default.png",
+    "city": "Jakarta"
+  },
+  {
+    "name": "Beat Radio Bali",
+    "streamUrl": "https://c1.siar.us/radio/8030/stream",
+    "icon": "icons/beat_radio_bali.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "Cakra Radio Bandung 90.5 FM",
+    "streamUrl": "https://stream-154.zeno.fm/yoengdcdzyauv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ5b2VuZ2RjZHp5YXV2IiwiaG9zdCI6InN0cmVhbS0xNTQuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiY2tyTzktS3NUV09XRGlZNTlnV29BdyIsImlhdCI6MTc2MDI1MTczMCwiZXhwIjoxNzYwMjUxNzkwfQ.JdgLJFfoaQXk674EPfAwEsNAgVtxp6OAQy0o6o7J6Wo",
+    "icon": "icons/cakra_radio_bandung_90_5_fm.png",
+    "city": "Bandung"
+  },
+  {
+    "name": "DNA FM JEPARA",
+    "streamUrl": "https://sc.dnafm.net/listen/dnafm/live",
+    "icon": "icons/default.png",
+    "city": "Jawa Tengah"
+  },
+  {
+    "name": "Fress FM",
+    "streamUrl": "http://streaming.fressfm.com:11185/stream",
+    "icon": "icons/fress_fm.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "Gema Surya FM Ponorogo",
+    "streamUrl": "https://r5.siar.us:9420/aac.m4a?_=1",
+    "icon": "icons/default.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "KLCBS",
+    "streamUrl": "https://streaming.klcbsofficial.com/listen/klcbs/klcbs",
+    "icon": "icons/klcbs.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "Megaswara FM Bogor 100,8 MHZ",
+    "streamUrl": "https://server.adyadigitalteknologi.com:8010/1",
+    "icon": "icons/megaswara_fm_bogor_100_8_mhz.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "Most Radio 105.8 FM",
+    "streamUrl": "http://103.246.184.62:1935/noice_mostfm/mostfm/chunklist_w118038145.m3u8",
+    "icon": "icons/most_radio_105_8_fm.png",
     "city": "DKI Jakarta"
   },
   {
-    "name": "Retjo Buntung",
-    "streamUrl": "http://45.64.97.82:9940/stream",
+    "name": "Radio ANDIKA",
+    "streamUrl": "https://r5.siar.us:1057/andikafm",
     "icon": "icons/default.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "Radio Kita Cirebon Indonesia",
+    "streamUrl": "http://live.radiosunnah.net/",
+    "icon": "icons/default.png",
+    "city": "West Java"
+  },
+  {
+    "name": "RADIO STREAMING SEHATI",
+    "streamUrl": "https://c4.siar.us:8092/autodj",
+    "icon": "icons/default.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "RASIKA FM USA SEMARANG",
+    "streamUrl": "https://svara-stream.radioddns.net/rasikafm_stereo",
+    "icon": "icons/default.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "RRI Pro 4 Bandung",
+    "streamUrl": "https://stream-node0.rri.co.id/streaming/15/9015/rribandungpro4.mp3",
+    "icon": "icons/default.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "RRI PRO 4 Palembang",
+    "streamUrl": "https://stream-node0.rri.co.id/streaming/13/9013/rripalembangpro4.mp3",
+    "icon": "icons/rri_pro_4_palembang.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "Sonora 97.4 FM Yogyakarta",
+    "streamUrl": "https://cast3.asurahosting.com/proxy/radios28/stream",
+    "icon": "icons/sonora_97_4_fm_yogyakarta.png",
     "city": "Yogyakarta"
+  },
+  {
+    "name": "VOKS RADIO BANDUNG",
+    "streamUrl": "https://svara-stream.radioddns.net/bandung_voksradio",
+    "icon": "icons/default.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "666 Forgotten Castle",
+    "streamUrl": "https://stream-176.zeno.fm/j9tx7izezf4vv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJqOXR4N2l6ZXpmNHZ2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiTkxVU3BEMy1RTldrOFQ1cm5xajJrdyIsImlhdCI6MTc2MDI5NjA5NSwiZXhwIjoxNzYwMjk2MTU1fQ.E6QHHblQZyQAiDQPs4mmvG-9Ml6NO4LE17IvyNIvS_U",
+    "icon": "icons/default.png",
+    "city": "Malang, East Java"
+  },
+  {
+    "name": "90.1 radio Media FM surabaya",
+    "streamUrl": "http://streaming.radiomediafm.com:8400/;",
+    "icon": "icons/90_1_radio_media_fm_surabaya.png",
+    "city": "Indonesia"
   },
   {
     "name": "Bahana FM Ngawi",
@@ -606,224 +744,14 @@
     "city": "Jawa Tengah"
   },
   {
-    "name": "Beat Radio Bali",
-    "streamUrl": "https://c1.siar.us/radio/8030/stream",
-    "icon": "icons/beat_radio_bali.png",
-    "city": "Indonesia"
-  },
-  {
-    "name": "DNA FM JEPARA",
-    "streamUrl": "https://sc.dnafm.net/listen/dnafm/live",
-    "icon": "icons/default.png",
-    "city": "Jawa Tengah"
-  },
-  {
-    "name": "Jagakarsa smooth jazz",
-    "streamUrl": "https://stream-154.zeno.fm/u8fk7pgds8quv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1OGZrN3BnZHM4cXV2IiwiaG9zdCI6InN0cmVhbS0xNTQuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoidjhieVdMcG9SVGFyZWV1Mks2TjVmdyIsImlhdCI6MTc2MDE3NDUyMiwiZXhwIjoxNzYwMTc0NTgyfQ.Juu5xlNH9b3sajZi6_rSC2ThS3vhEI25n_WCG0C9meQ",
-    "icon": "icons/jagakarsa_smooth_jazz.png",
-    "city": "Indonesia"
-  },
-  {
-    "name": "Radio Islam Malang 1",
-    "streamUrl": "http://malang.radioislam.my.id:11132/",
-    "icon": "icons/default.png",
-    "city": "Indonesia"
-  },
-  {
-    "name": "Sonora 97.4 FM Yogyakarta",
-    "streamUrl": "https://cast3.asurahosting.com/proxy/radios28/stream",
-    "icon": "icons/sonora_97_4_fm_yogyakarta.png",
-    "city": "Yogyakarta"
-  },
-  {
-    "name": "Swara Semarang",
-    "streamUrl": "https://server.radioimeldafm.co.id/listen/swarasemarang/swarasemarang",
-    "icon": "icons/default.png",
-    "city": "Indonesia"
-  },
-  {
-    "name": "Trangkil FM",
-    "streamUrl": "https://i.klikhost.com/8228/;radio",
-    "icon": "icons/trangkil_fm.png",
-    "city": "magetan"
-  },
-  {
-    "name": "90.1 radio Media FM surabaya",
-    "streamUrl": "http://streaming.radiomediafm.com:8400/;",
-    "icon": "icons/90_1_radio_media_fm_surabaya.png",
-    "city": "Indonesia"
-  },
-  {
-    "name": "CNN Indonesia",
-    "streamUrl": "https://live.cnnindonesia.com/livecnn/smil:cnntv/chunklist.m3u8",
-    "icon": "icons/default.png",
-    "city": "Indonesia"
-  },
-  {
-    "name": "Kis 95.1 FM",
-    "streamUrl": "http://103.246.184.62:1935/noice_kisfm/kisfm/chunklist_w1678859544.m3u8",
-    "icon": "icons/kis_95_1_fm.png",
-    "city": "DKI Jakarta"
-  },
-  {
-    "name": "KLCBS",
-    "streamUrl": "https://streaming.klcbsofficial.com/listen/klcbs/klcbs-hd",
-    "icon": "icons/klcbs.png",
-    "city": "Indonesia"
-  },
-  {
-    "name": "Radio ANDIKA",
-    "streamUrl": "https://r5.siar.us:1057/andikafm",
-    "icon": "icons/default.png",
-    "city": "Indonesia"
-  },
-  {
-    "name": "Radio AR Bali",
-    "streamUrl": "https://live.radioarbali.com:8450/radioar",
-    "icon": "icons/default.png",
-    "city": "Bali"
-  },
-  {
-    "name": "Radio Kita Cirebon Indonesia",
-    "streamUrl": "http://live.radiosunnah.net/",
-    "icon": "icons/default.png",
-    "city": "West Java"
-  },
-  {
-    "name": "Radio PRO FM Purwakarta",
-    "streamUrl": "https://ig.idstreamer.com:8020/stream",
-    "icon": "icons/radio_pro_fm_purwakarta.png",
-    "city": "Indonesia"
-  },
-  {
-    "name": "RADIO STREAMING SEHATI",
-    "streamUrl": "https://c4.siar.us:8092/autodj",
-    "icon": "icons/default.png",
-    "city": "Indonesia"
-  },
-  {
-    "name": "Radio Swara Semarang",
-    "streamUrl": "https://server.radioimeldafm.co.id/radio/8010/swarasemarang",
-    "icon": "icons/radio_swara_semarang.png",
-    "city": "Semarang"
-  },
-  {
-    "name": "Tidar Sakti FM Batu",
-    "streamUrl": "http://pu.klikhost.com:8770/stream",
-    "icon": "icons/default.png",
-    "city": "Indonesia"
-  },
-  {
     "name": "Delta FM | Hits Terenak",
     "streamUrl": "https://s1.cloudmu.id/listen/delta_fm/radio.mp3",
     "icon": "icons/delta_fm_hits_terenak.png",
     "city": "Indonesia"
   },
   {
-    "name": "Fress FM",
-    "streamUrl": "http://streaming.fressfm.com:11185/stream",
-    "icon": "icons/fress_fm.png",
-    "city": "Indonesia"
-  },
-  {
-    "name": "Megaswara FM Bogor 100,8 MHZ",
-    "streamUrl": "https://server.adyadigitalteknologi.com:8010/1",
-    "icon": "icons/megaswara_fm_bogor_100_8_mhz.png",
-    "city": "Indonesia"
-  },
-  {
-    "name": "Most Radio Jakarta",
-    "streamUrl": "https://wz.mari.co.id:1936/web_mostfm/mostfm/playlist.m3u8",
-    "icon": "icons/most_radio_jakarta.png",
-    "city": "Jakarta"
-  },
-  {
-    "name": "PAS FM Jakarta",
-    "streamUrl": "https://i.klikhost.com/8266/stream",
-    "icon": "icons/pas_fm_jakarta.png",
-    "city": "Jakarta"
-  },
-  {
-    "name": "Prosalina FM",
-    "streamUrl": "https://i.klikhost.com/8618/stream?1708788698312",
-    "icon": "icons/default.png",
-    "city": "Indonesia"
-  },
-  {
-    "name": "Radio Gentara",
-    "streamUrl": "https://s1.gntr.net/listen/radio_gentara/gentara64",
-    "icon": "icons/default.png",
-    "city": "Indonesia"
-  },
-  {
-    "name": "Radio star Tulungagung",
-    "streamUrl": "https://stream-177.zeno.fm/bsdn0uskquztv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJic2RuMHVza3F1enR2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoid1o0VnZvRDBTMUdrYWNZX2o4RmVhZyIsImlhdCI6MTc2MDI3MDE0NywiZXhwIjoxNzYwMjcwMjA3fQ.k27pQUFP8r9r7OdLTXTmHEGGQpOq0pCR1n9U4AvuqOg",
-    "icon": "icons/default.png",
-    "city": "asia tenggara"
-  },
-  {
-    "name": "RASIKA FM USA SEMARANG",
-    "streamUrl": "https://svara-stream.radioddns.net/rasikafm_stereo",
-    "icon": "icons/default.png",
-    "city": "Indonesia"
-  },
-  {
-    "name": "Retjo Buntung FM",
-    "streamUrl": "https://ssg.streamingmurah.com:9940/stream",
-    "icon": "icons/retjo_buntung_fm.png",
-    "city": "Indonesia"
-  },
-  {
-    "name": "RRI PRO 4 Palembang",
-    "streamUrl": "https://stream-node0.rri.co.id/streaming/13/9013/rripalembangpro4.mp3",
-    "icon": "icons/rri_pro_4_palembang.png",
-    "city": "Indonesia"
-  },
-  {
-    "name": "Tebet Radio Jakarta",
-    "streamUrl": "https://stream-ssl.arenastreaming.com:8066/stream",
-    "icon": "icons/tebet_radio_jakarta.png",
-    "city": "Jakarta"
-  },
-  {
-    "name": "Top FM Bumiayu",
-    "streamUrl": "http://streaming.topfm951.net:9510/stream",
-    "icon": "icons/top_fm_bumiayu.png",
-    "city": "Brebes"
-  },
-  {
-    "name": "666 Forgotten Castle",
-    "streamUrl": "https://stream-176.zeno.fm/j9tx7izezf4vv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJqOXR4N2l6ZXpmNHZ2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiLXZZUEN2T1JSSXlDMmRoX0cwUl9TZyIsImlhdCI6MTc2MDI1NjM1OCwiZXhwIjoxNzYwMjU2NDE4fQ.HaI_bsFyc8jDurwTRRL24-NltPXKVlnMF83yW_g5YpU",
-    "icon": "icons/default.png",
-    "city": "Malang, East Java"
-  },
-  {
-    "name": "Aha FM",
-    "streamUrl": "https://stream-175.zeno.fm/3xu622ncrm0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIzeHU2MjJuY3JtMHV2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiRTc1MlhmbUlUQlNFOUM5M3o1bTVkQSIsImlhdCI6MTc2MDI2ODI3MSwiZXhwIjoxNzYwMjY4MzMxfQ.E-8fX13NNCd6gncbALVrXjGn9sHqWCo5_dG3Xf4XEDc",
-    "icon": "icons/default.png",
-    "city": "Indonesia"
-  },
-  {
-    "name": "Bintang Tenggara",
-    "streamUrl": "https://stream-162.zeno.fm/4wtwzavvfzzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI0d3R3emF2dmZ6enV2IiwiaG9zdCI6InN0cmVhbS0xNjIuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoibjdaa2wwSFVTQUNxelhCMzN2SXp5USIsImlhdCI6MTc2MDIzMjYwNiwiZXhwIjoxNzYwMjMyNjY2fQ.TT5tfRpt2235z2s4076kwV6mxNuo_1WeO-aAiu5cMR4",
-    "icon": "icons/bintang_tenggara.png",
-    "city": "Banyuwangi"
-  },
-  {
-    "name": "City Radio Mandarin",
-    "streamUrl": "https://digital.cityradio.id/;",
-    "icon": "icons/city_radio_mandarin.png",
-    "city": "Indonesia"
-  },
-  {
     "name": "Female Radio",
     "streamUrl": "https://s1.cloudmu.id/listen/female_radio/radio.mp3",
-    "icon": "icons/default.png",
-    "city": "Indonesia"
-  },
-  {
-    "name": "Gema Surya FM Ponorogo",
-    "streamUrl": "https://r5.siar.us:9420/aac.m4a?_=1",
     "icon": "icons/default.png",
     "city": "Indonesia"
   },
@@ -834,129 +762,9 @@
     "city": "DKI Jakarta"
   },
   {
-    "name": "GRACE ALONE MINISTRY SURABAYA",
-    "streamUrl": "http://u.klikhost.net:8000/gracealone",
-    "icon": "icons/default.png",
-    "city": "Surabaya"
-  },
-  {
-    "name": "NAGASWARA RADIOTEMEN",
-    "streamUrl": "https://streaming.brol.tech/rtfmlounge",
-    "icon": "icons/default.png",
-    "city": "Pangea"
-  },
-  {
-    "name": "Radio Elfara Malang",
-    "streamUrl": "http://c4.siar.us:8123/live",
-    "icon": "icons/default.png",
-    "city": "Indonesia"
-  },
-  {
-    "name": "Radio Elshinta Bandung",
-    "streamUrl": "https://stream-ssl.arenastreaming.com:8005/bandung",
-    "icon": "icons/default.png",
-    "city": "Indonesia"
-  },
-  {
-    "name": "Radio Muara Subang",
-    "streamUrl": "http://45.64.97.82:8008/stream/1/",
-    "icon": "icons/default.png",
-    "city": "Indonesia"
-  },
-  {
-    "name": "RadioQu Bogor",
-    "streamUrl": "https://ssg.streamingmurah.com:8398/stream",
-    "icon": "icons/radioqu_bogor.png",
-    "city": "Bogor"
-  },
-  {
-    "name": "RRI Pro 1 98.3 FM Tanjungpinang",
-    "streamUrl": "https://stream-node2.rri.co.id/streaming/21/9221/rritjpinangpro1.mp3",
-    "icon": "icons/rri_pro_1_98_3_fm_tanjungpinang.png",
-    "city": "Kepulauan Riau"
-  },
-  {
-    "name": "RRI Pro 4 Manado",
-    "streamUrl": "https://stream-node1.rri.co.id/streaming/40/9040/rrimanadopro4.mp3",
-    "icon": "icons/rri_pro_4_manado.png",
-    "city": "Indonesia"
-  },
-  {
-    "name": "RRI PRO3",
-    "streamUrl": "https://streaming.rritmb.com/pro3.mp3",
-    "icon": "icons/default.png",
-    "city": "Jakarta"
-  },
-  {
-    "name": "RRI Voice Of Indonesia",
-    "streamUrl": "https://stream-node0.rri.co.id/streaming/25/9125/voi.mp3",
-    "icon": "icons/rri_voice_of_indonesia.png",
-    "city": "Indonesia"
-  },
-  {
-    "name": "Sananta FM Tegal",
-    "streamUrl": "http://i.klikhost.com:8500/;super.mp3",
-    "icon": "icons/sananta_fm_tegal.png",
-    "city": "Tegal"
-  },
-  {
-    "name": "Slawi FM Tegal",
-    "streamUrl": "https://i.klikhost.com/9032/;",
-    "icon": "icons/default.png",
-    "city": "Tegal"
-  },
-  {
-    "name": "Suara Muslim Surabaya",
-    "streamUrl": "http://pu.klikhost.com:8052/stream/1/",
-    "icon": "icons/default.png",
-    "city": "Indonesia"
-  },
-  {
-    "name": "Unisi Radio",
-    "streamUrl": "http://studio1.indostreamers.com:8002/stream",
-    "icon": "icons/default.png",
-    "city": "Indonesia"
-  },
-  {
-    "name": "V Radio",
-    "streamUrl": "http://202.147.199.100:8000/;stream.nsv",
-    "icon": "icons/default.png",
-    "city": "Jakarta"
-  },
-  {
-    "name": "Gadingharjo Core",
-    "streamUrl": "http://79.120.77.11:8002/blackmetal",
-    "icon": "icons/default.png",
-    "city": "Sanden, Yk"
-  },
-  {
-    "name": "_Wawa Radio 101.2 FM",
-    "streamUrl": "https://audio-edge-3mayu.fra.h.radiomast.io/73055724-1141-41e2-a69b-24a6ca96c8e7",
-    "icon": "icons/default.png",
-    "city": "ꦗꦺꦴꦒ꧀ꦗꦏꦂꦠ"
-  },
-  {
-    "name": "101.4 FM I-Radio JAKARTA",
-    "streamUrl": "https://n10.radiojar.com/4ywdgup3bnzuv?1739561339=&rj-tok=AAABmdZjNgYArqKHp_ZDBraiOA&rj-ttl=5",
-    "icon": "icons/101_4_fm_i_radio_jakarta.png",
-    "city": "Indonesia"
-  },
-  {
-    "name": "Damu Lumajang",
-    "streamUrl": "https://stream.radiodakwahmustofa.com:8724/damu",
-    "icon": "icons/default.png",
-    "city": "Lumajang"
-  },
-  {
-    "name": "Heartline Tangerang",
-    "streamUrl": "https://stream.heartline.co.id:8443/heartline_tangerang",
-    "icon": "icons/default.png",
-    "city": "Indonesia"
-  },
-  {
-    "name": "K-Lite FM Bandung",
-    "streamUrl": "https://svara-stream.radioddns.net/bandung_klitefm_acc",
-    "icon": "icons/default.png",
+    "name": "Jagakarsa smooth jazz",
+    "streamUrl": "https://stream-153.zeno.fm/u8fk7pgds8quv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1OGZrN3BnZHM4cXV2IiwiaG9zdCI6InN0cmVhbS0xNTMuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoib2JMX3AxckhSUW13M09fNG9oX1NJQSIsImlhdCI6MTc2MDMwMTIyOCwiZXhwIjoxNzYwMzAxMjg4fQ.O51On5eLnEwtrUlo2zMQuFXkpNW-GwV4Mcs8cGdkyHY",
+    "icon": "icons/jagakarsa_smooth_jazz.png",
     "city": "Indonesia"
   },
   {
@@ -966,10 +774,94 @@
     "city": "Indonesia"
   },
   {
-    "name": "Kinozal.TV",
-    "streamUrl": "https://listen4.myradio24.com/kinozaltv",
+    "name": "Most Radio Jakarta",
+    "streamUrl": "https://wz.mari.co.id:1936/web_mostfm/mostfm/playlist.m3u8",
+    "icon": "icons/most_radio_jakarta.png",
+    "city": "Jakarta"
+  },
+  {
+    "name": "NAGASWARA RADIOTEMEN",
+    "streamUrl": "https://streaming.brol.tech/rtfmlounge",
+    "icon": "icons/default.png",
+    "city": "Pangea"
+  },
+  {
+    "name": "PAS FM Jakarta",
+    "streamUrl": "https://i.klikhost.com/8266/stream",
+    "icon": "icons/pas_fm_jakarta.png",
+    "city": "Jakarta"
+  },
+  {
+    "name": "Radio Muara Subang",
+    "streamUrl": "http://45.64.97.82:8008/stream/1/",
     "icon": "icons/default.png",
     "city": "Indonesia"
+  },
+  {
+    "name": "Radio PRO FM Purwakarta",
+    "streamUrl": "https://ig.idstreamer.com:8020/stream",
+    "icon": "icons/radio_pro_fm_purwakarta.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "Radio Swara Semarang",
+    "streamUrl": "https://server.radioimeldafm.co.id/radio/8010/swarasemarang",
+    "icon": "icons/radio_swara_semarang.png",
+    "city": "Semarang"
+  },
+  {
+    "name": "RDI 97.1 FM Jakarta",
+    "streamUrl": "http://202.147.199.99:8000/stream",
+    "icon": "icons/default.png",
+    "city": "DKI Jakarta"
+  },
+  {
+    "name": "RRI PRO3",
+    "streamUrl": "https://streaming.rritmb.com/pro3.mp3",
+    "icon": "icons/default.png",
+    "city": "Jakarta"
+  },
+  {
+    "name": "Slawi FM Tegal",
+    "streamUrl": "https://i.klikhost.com/9032/;",
+    "icon": "icons/slawi_fm_tegal.png",
+    "city": "Tegal"
+  },
+  {
+    "name": "Tebet Radio Jakarta",
+    "streamUrl": "https://stream-ssl.arenastreaming.com:8066/stream",
+    "icon": "icons/tebet_radio_jakarta.png",
+    "city": "Jakarta"
+  },
+  {
+    "name": "Tidar Sakti FM Batu",
+    "streamUrl": "http://pu.klikhost.com:8770/stream",
+    "icon": "icons/default.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "Aha FM",
+    "streamUrl": "https://stream-175.zeno.fm/3xu622ncrm0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIzeHU2MjJuY3JtMHV2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiX3pxSDFhWFNTWFdZVldHWkFyTjhVQSIsImlhdCI6MTc2MDMyMjk4NCwiZXhwIjoxNzYwMzIzMDQ0fQ.By85Fcd4-7RWmxYWV3zb71H-FZLOpdWRcskyY_KUavg",
+    "icon": "icons/default.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "ananda radio bandung",
+    "streamUrl": "http://sx.alhasmedia.com/radio/8220/radio",
+    "icon": "icons/default.png",
+    "city": "Jawa Barat"
+  },
+  {
+    "name": "City Radio Mandarin",
+    "streamUrl": "https://digital.cityradio.id/;",
+    "icon": "icons/city_radio_mandarin.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "Damu Lumajang",
+    "streamUrl": "https://stream.radiodakwahmustofa.com:8724/damu",
+    "icon": "icons/default.png",
+    "city": "Lumajang"
   },
   {
     "name": "MGTRADIO",
@@ -979,37 +871,13 @@
   },
   {
     "name": "Muarasipongi",
-    "streamUrl": "http://stream-155.zeno.fm/eus8arb1mkeuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJldXM4YXJiMW1rZXV2IiwiaG9zdCI6InN0cmVhbS0xNTUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiMEE0SDJMSWhTbnVqdWpVOFJoZnRBZyIsImlhdCI6MTc2MDI1NTUxNSwiZXhwIjoxNzYwMjU1NTc1fQ.mGRqOGlW8lv_06qLsLqM4Z7LpIHzroS41btPPsPn2LI",
+    "streamUrl": "http://stream-153.zeno.fm/eus8arb1mkeuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJldXM4YXJiMW1rZXV2IiwiaG9zdCI6InN0cmVhbS0xNTMuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoienpfVGZEMjFUQ3lOZmpleGM4Nmw1QSIsImlhdCI6MTc2MDMwMzE4OSwiZXhwIjoxNzYwMzAzMjQ5fQ.SBhDUTn-6YGT29CQD4vFCQaEYjxdz_SNGCauFYqU73I",
     "icon": "icons/muarasipongi.png",
     "city": "north sumatra"
   },
   {
-    "name": "Mustang 88 FM",
-    "streamUrl": "https://ic.mari.co.id:8443/mustangfm",
-    "icon": "icons/default.png",
-    "city": "Indonesia"
-  },
-  {
-    "name": "Nusa FM Yogyakarta",
-    "streamUrl": "https://stream-154.zeno.fm/n5tergcf4v8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJuNXRlcmdjZjR2OHV2IiwiaG9zdCI6InN0cmVhbS0xNTQuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiWjV5ZnVMT2xTbldsMm1sMXIyVkZGZyIsImlhdCI6MTc2MDI1MTExNywiZXhwIjoxNzYwMjUxMTc3fQ.i4N2oagos9Hvp_8YeNGEL7H68JBUQjB3cPr5xJt2few",
-    "icon": "icons/nusa_fm_yogyakarta.png",
-    "city": "Yogyakarta"
-  },
-  {
-    "name": "PAS FM JAKARTA",
-    "streamUrl": "http://i.klikhost.com:8266/stream/;",
-    "icon": "icons/pas_fm_jakarta.png",
-    "city": "Indonesia"
-  },
-  {
-    "name": "RADIO DMS AMBON",
-    "streamUrl": "https://a3.alhastream.com:1290/dms",
-    "icon": "icons/radio_dms_ambon.png",
-    "city": "Indonesia"
-  },
-  {
-    "name": "Radio Islam Belitung",
-    "streamUrl": "https://az4.radioislam.my.id:8200/radio.mp3?1731934970718",
+    "name": "Radio Gentara",
+    "streamUrl": "https://s1.gntr.net/listen/radio_gentara/gentara64",
     "icon": "icons/default.png",
     "city": "Indonesia"
   },
@@ -1020,10 +888,22 @@
     "city": "Indonesia"
   },
   {
-    "name": "Radio Suara Salatiga 99.9 FM",
-    "streamUrl": "https://icecast.salatiga.go.id:8443/stream.ogg",
-    "icon": "icons/default.png",
+    "name": "RadioQu Bogor",
+    "streamUrl": "https://ssg.streamingmurah.com:8398/stream",
+    "icon": "icons/radioqu_bogor.png",
+    "city": "Bogor"
+  },
+  {
+    "name": "Retjo Buntung FM",
+    "streamUrl": "https://ssg.streamingmurah.com:9940/stream",
+    "icon": "icons/retjo_buntung_fm.png",
     "city": "Indonesia"
+  },
+  {
+    "name": "RRI Pro 1 98.3 FM Tanjungpinang",
+    "streamUrl": "https://stream-node2.rri.co.id/streaming/21/9221/rritjpinangpro1.mp3",
+    "icon": "icons/rri_pro_1_98_3_fm_tanjungpinang.png",
+    "city": "Kepulauan Riau"
   },
   {
     "name": "RRI Pro 1 Tanjungpinang",
@@ -1044,33 +924,33 @@
     "city": "purwokerto"
   },
   {
+    "name": "Sananta FM Tegal",
+    "streamUrl": "http://i.klikhost.com:8500/;super.mp3",
+    "icon": "icons/sananta_fm_tegal.png",
+    "city": "Tegal"
+  },
+  {
     "name": "Start Radio Tangerang",
     "streamUrl": "http://listen.staradio1073fm.net:8070/stream",
     "icon": "icons/start_radio_tangerang.png",
     "city": "Tangerang"
   },
   {
-    "name": "Trax FM",
-    "streamUrl": "https://traxfm.radioca.st/live",
-    "icon": "icons/trax_fm.png",
-    "city": "Indonesia"
+    "name": "Top FM Bumiayu",
+    "streamUrl": "http://streaming.topfm951.net:9510/stream",
+    "icon": "icons/top_fm_bumiayu.png",
+    "city": "Brebes"
   },
   {
-    "name": "VOKS RADIO BANDUNG",
-    "streamUrl": "https://svara-stream.radioddns.net/bandung_voksradio",
+    "name": "_Wawa Radio 101.2 FM",
+    "streamUrl": "https://audio-edge-3mayu.fra.h.radiomast.io/73055724-1141-41e2-a69b-24a6ca96c8e7",
     "icon": "icons/default.png",
-    "city": "Indonesia"
+    "city": "ꦗꦺꦴꦒ꧀ꦗꦏꦂꦠ"
   },
   {
-    "name": "Z 99.9 FM",
-    "streamUrl": "https://svara-stream.radioddns.net/jakarta_z999fm_aac",
-    "icon": "icons/z_99_9_fm.png",
-    "city": "Jakarta"
-  },
-  {
-    "name": "اذاعة القرآن الكريم",
-    "streamUrl": "http://n04.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABmdX-p9IAa5nbl_WExrCXCQ",
-    "icon": "icons/default.png",
+    "name": "101.4 FM I-Radio JAKARTA",
+    "streamUrl": "https://n11.radiojar.com/4ywdgup3bnzuv?1739561339=&rj-tok=AAABmdnJ8XoAKE3wmsyHkBa2Vw&rj-ttl=5",
+    "icon": "icons/101_4_fm_i_radio_jakarta.png",
     "city": "Indonesia"
   },
   {
@@ -1080,40 +960,10 @@
     "city": "Indonesia"
   },
   {
-    "name": "96,3 Medan FM",
-    "streamUrl": "https://sc.medanfm.id/;",
-    "icon": "icons/96_3_medan_fm.png",
-    "city": "Indonesia"
-  },
-  {
-    "name": "ananda radio bandung",
-    "streamUrl": "http://sx.alhasmedia.com/radio/8220/radio",
-    "icon": "icons/default.png",
-    "city": "Jawa Barat"
-  },
-  {
-    "name": "Brava Radio",
-    "streamUrl": "https://n11.radiojar.com/5k7t0rq3bnzuv?rj-ttl=5&rj-tok=AAABmdbzrX0A5e8amXYoXPK9GA",
-    "icon": "icons/brava_radio.png",
-    "city": "Jakarta"
-  },
-  {
-    "name": "Brava Radio 103.8 FM Jakarta",
-    "streamUrl": "http://n09.radiojar.com/5k7t0rq3bnzuv?rj-ttl=5&rj-tok=AAABmdf-m8oA7PfyKFYdmCNyyw",
-    "icon": "icons/default.png",
-    "city": "Indonesia"
-  },
-  {
-    "name": "Cosmopolitan 90.4 FM Jakarta",
-    "streamUrl": "http://n10.radiojar.com/u7d8heq3bnzuv?rj-ttl=5&rj-tok=AAABmdhEFTwAahRlzvI4Xt4QbA",
-    "icon": "icons/default.png",
-    "city": "Indonesia"
-  },
-  {
-    "name": "Cosmopolitan FM",
-    "streamUrl": "http://n10.radiojar.com/u7d8heq3bnzuv?rj-ttl=5&rj-tok=AAABmdIdVj4AIP_8hjUsdtLi1Q",
-    "icon": "icons/default.png",
-    "city": "Jakarta"
+    "name": "Bintang Tenggara",
+    "streamUrl": "https://stream-160.zeno.fm/4wtwzavvfzzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI0d3R3emF2dmZ6enV2IiwiaG9zdCI6InN0cmVhbS0xNjAuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiUHBPN1R0UXBRMS1CcXZEZWVaaGZ0dyIsImlhdCI6MTc2MDMxOTY3NywiZXhwIjoxNzYwMzE5NzM3fQ.EwI2aVSyDlJ87_8GoPqoV0UqtPD9a-mfkUoYspyge0k",
+    "icon": "icons/bintang_tenggara.png",
+    "city": "Banyuwangi"
   },
   {
     "name": "Female FM",
@@ -1128,21 +978,201 @@
     "city": "north sumatera"
   },
   {
-    "name": "Firza Radio Madina",
-    "streamUrl": "http://stream-161.zeno.fm/p63ug1un92quv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJwNjN1ZzF1bjkycXV2IiwiaG9zdCI6InN0cmVhbS0xNjEuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiTk9EcmVIUTBSRmVWU1JCNDZYX05lUSIsImlhdCI6MTc2MDIzODUyNCwiZXhwIjoxNzYwMjM4NTg0fQ.HQ6LeXv_erKWNa_5OHRk5kJSa4gpeyU10deGaaP7cPg",
-    "icon": "icons/firza_radio_madina.png",
-    "city": "north sumatra"
+    "name": "KIARA MPC RADIO",
+    "streamUrl": "http://mpc1.mediacp.eu/stream/kiara-radio",
+    "icon": "icons/kiara_mpc_radio.png",
+    "city": "West Sumatra"
   },
   {
-    "name": "hard rock FM surabaya",
-    "streamUrl": "http://n04.radiojar.com/yg8ne2v80k8uv?rj-ttl=5&rj-tok=AAABmdfyvooAkJN9eTglye-q9Q",
+    "name": "Kinozal.TV",
+    "streamUrl": "https://listen4.myradio24.com/kinozaltv",
     "icon": "icons/default.png",
     "city": "Indonesia"
   },
   {
-    "name": "Hits Unikom Radio",
-    "streamUrl": "https://streaming.hitsunikomradio.com/",
-    "icon": "icons/hits_unikom_radio.png",
+    "name": "Nusa FM Yogyakarta",
+    "streamUrl": "https://stream-153.zeno.fm/n5tergcf4v8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJuNXRlcmdjZjR2OHV2IiwiaG9zdCI6InN0cmVhbS0xNTMuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoieGRmMnY2YlZSSml5akdKZGxvZEE4ZyIsImlhdCI6MTc2MDMwODYxNSwiZXhwIjoxNzYwMzA4Njc1fQ.ei2VHYZ88aBU6CdO1yx_8Be1enODUHf6wgeDyJGfD7M",
+    "icon": "icons/nusa_fm_yogyakarta.png",
+    "city": "Yogyakarta"
+  },
+  {
+    "name": "Radio Adzan FM Bandung",
+    "streamUrl": "https://radioadzanfmbandung.com/streamer",
+    "icon": "icons/default.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "Radio Dahlia FM",
+    "streamUrl": "https://svara-stream.radioddns.net/bandung_dahliafm",
+    "icon": "icons/default.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "RADIO DMS AMBON",
+    "streamUrl": "https://a3.alhastream.com:1290/dms",
+    "icon": "icons/radio_dms_ambon.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "Radio Elfara Malang",
+    "streamUrl": "http://c4.siar.us:8123/live",
+    "icon": "icons/default.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "Radio Elshinta Bandung",
+    "streamUrl": "https://stream-ssl.arenastreaming.com:8005/bandung",
+    "icon": "icons/default.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "Radio Islam Belitung",
+    "streamUrl": "https://az4.radioislam.my.id:8200/radio.mp3?1731934970718",
+    "icon": "icons/default.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "Radio Rhema Surgawi",
+    "streamUrl": "https://sv7.crownmediacenter.my.id:8050/radio.aac",
+    "icon": "icons/default.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "Radio Suara Salatiga 99.9 FM",
+    "streamUrl": "https://icecast.salatiga.go.id:8443/stream.ogg",
+    "icon": "icons/default.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "REM FM Universitas Negeri Semarang",
+    "streamUrl": "https://a2.siar.us/listen/remfm/stream",
+    "icon": "icons/rem_fm_universitas_negeri_semarang.png",
+    "city": "Central Java"
+  },
+  {
+    "name": "RRI Pro 1 Bandung",
+    "streamUrl": "https://stream-node0.rri.co.id/streaming/15/9015/rribandungpro1.mp3",
+    "icon": "icons/default.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "RRI Pro 1 Manado",
+    "streamUrl": "https://stream-node1.rri.co.id/streaming/40/9040/rrimanadopro1.mp3",
+    "icon": "icons/rri_pro_1_manado.png",
+    "city": "Sulawesi Utara"
+  },
+  {
+    "name": "RRI Pro 2 Manado",
+    "streamUrl": "https://stream-node1.rri.co.id/streaming/40/9040/rrimanadopro2.mp3",
+    "icon": "icons/rri_pro_2_manado.png",
+    "city": "Sulawesi Utara"
+  },
+  {
+    "name": "RRI Pro 4 Manado",
+    "streamUrl": "https://stream-node1.rri.co.id/streaming/40/9040/rrimanadopro4.mp3",
+    "icon": "icons/rri_pro_4_manado.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "RRI Voice Of Indonesia",
+    "streamUrl": "https://stream-node0.rri.co.id/streaming/25/9125/voi.mp3",
+    "icon": "icons/rri_voice_of_indonesia.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "Sonora FM Bandung",
+    "streamUrl": "https://streaming.brol.tech/rtfmlounge",
+    "icon": "icons/sonora_fm_bandung.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "Sonora FM Palembang",
+    "streamUrl": "https://cast2.my-control-panel.com/proxy/radios21/stream",
+    "icon": "icons/sonora_fm_palembang.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "Suara Muslim Surabaya",
+    "streamUrl": "http://pu.klikhost.com:8052/stream/1/",
+    "icon": "icons/default.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "Trax FM",
+    "streamUrl": "https://traxfm.radioca.st/live",
+    "icon": "icons/trax_fm.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "Z 99.9 FM",
+    "streamUrl": "https://svara-stream.radioddns.net/jakarta_z999fm_aac",
+    "icon": "icons/z_99_9_fm.png",
+    "city": "Jakarta"
+  },
+  {
+    "name": "اذاعة القرآن الكريم",
+    "streamUrl": "http://n03.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABmdsoF-wA0b-aYIeAqveoeg",
+    "icon": "icons/default.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "106.8 FM - Radio Amatron 3 FM Purworejo",
+    "streamUrl": "http://51.79.167.17:7026/;stream.mp3",
+    "icon": "icons/default.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "96,3 Medan FM",
+    "streamUrl": "https://sc.medanfm.id/;",
+    "icon": "icons/96_3_medan_fm.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "Al-Faruq Purwokerto Banyumas <24kb aac+>",
+    "streamUrl": "http://alfaruq.radioislam.my.id:12000/",
+    "icon": "icons/al_faruq_purwokerto_banyumas_24kb_aac.png",
+    "city": "purwokerto"
+  },
+  {
+    "name": "Brava Radio",
+    "streamUrl": "https://n09.radiojar.com/5k7t0rq3bnzuv?rj-ttl=5&rj-tok=AAABmdslfZsAoPvlk9MpvAjXWQ",
+    "icon": "icons/brava_radio.png",
+    "city": "Jakarta"
+  },
+  {
+    "name": "Brava Radio 103.8 FM Jakarta",
+    "streamUrl": "http://n06.radiojar.com/5k7t0rq3bnzuv?rj-ttl=5&rj-tok=AAABmds65r4AbwXcTsKsCpuV1A",
+    "icon": "icons/default.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "Cosmopolitan 90.4 FM Jakarta",
+    "streamUrl": "http://n0a.radiojar.com/u7d8heq3bnzuv?rj-ttl=5&rj-tok=AAABmdok3gYADnFPTgk8aflP_A",
+    "icon": "icons/default.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "Firza Radio Madina",
+    "streamUrl": "http://stream-161.zeno.fm/p63ug1un92quv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJwNjN1ZzF1bjkycXV2IiwiaG9zdCI6InN0cmVhbS0xNjEuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoid0E0UmJHYzBRdUtjbnpaTW5BVlMzZyIsImlhdCI6MTc2MDI3NjA1NywiZXhwIjoxNzYwMjc2MTE3fQ.paxHc5iG6N9874f_3ZAaQmSWCVXQIzrA6oB49mjbtqA",
+    "icon": "icons/firza_radio_madina.png",
+    "city": "north sumatra"
+  },
+  {
+    "name": "Firza Radio Padang",
+    "streamUrl": "https://stream-159.zeno.fm/ptkeryrsu0ttv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJwdGtlcnlyc3UwdHR2IiwiaG9zdCI6InN0cmVhbS0xNTkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoib2k1OG50RmNTc2lvMExRcHQwTjE2dyIsImlhdCI6MTc2MDI3OTIwNSwiZXhwIjoxNzYwMjc5MjY1fQ.H3TKV2eboPOn-kjSYwmLGm0oUbypZw-Dpcl89j-BmEA",
+    "icon": "icons/firza_radio_padang.png",
+    "city": "Padang"
+  },
+  {
+    "name": "GRACE ALONE MINISTRY SURABAYA",
+    "streamUrl": "http://u.klikhost.net:8000/gracealone",
+    "icon": "icons/default.png",
+    "city": "Surabaya"
+  },
+  {
+    "name": "Heartline Tangerang",
+    "streamUrl": "https://stream.heartline.co.id:8443/heartline_tangerang",
+    "icon": "icons/default.png",
     "city": "Indonesia"
   },
   {
@@ -1152,10 +1182,28 @@
     "city": "Indonesia"
   },
   {
-    "name": "KIARA MPC RADIO",
-    "streamUrl": "http://mpc1.mediacp.eu/stream/kiara-radio",
-    "icon": "icons/kiara_mpc_radio.png",
-    "city": "West Sumatra"
+    "name": "K-Lite FM Bandung",
+    "streamUrl": "https://svara-stream.radioddns.net/bandung_klitefm_acc",
+    "icon": "icons/default.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "Mercury FM",
+    "streamUrl": "https://svara-stream.radioddns.net/surabaya_mercuryfm-aac",
+    "icon": "icons/mercury_fm.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "Merdeka FM",
+    "streamUrl": "http://streaming.merdekafm.com:8020/;stream.nsv",
+    "icon": "icons/default.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "Mettaswara 2000",
+    "streamUrl": "https://mettaswara.com:8700//theonest",
+    "icon": "icons/default.png",
+    "city": "Indonesia"
   },
   {
     "name": "MFM 101.3",
@@ -1164,21 +1212,21 @@
     "city": "Indonesia"
   },
   {
-    "name": "Pro1 RRI Jakarta",
-    "streamUrl": "https://stream-node1.rri.co.id/streaming/25/9025/rrijakartapro1.mp3",
-    "icon": "icons/pro1_rri_jakarta.png",
-    "city": "Indonesia"
-  },
-  {
-    "name": "Radio Adzan FM Bandung",
-    "streamUrl": "https://radioadzanfmbandung.com/streamer",
+    "name": "Mustang 88 FM",
+    "streamUrl": "https://ic.mari.co.id:8443/mustangfm",
     "icon": "icons/default.png",
     "city": "Indonesia"
   },
   {
-    "name": "Radio Al Faruq",
-    "streamUrl": "https://alfaruq1.ssl.radioislam.my.id/;",
-    "icon": "icons/radio_al_faruq.png",
+    "name": "PAS FM JAKARTA",
+    "streamUrl": "http://i.klikhost.com:8266/stream/;",
+    "icon": "icons/pas_fm_jakarta.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "Pro1 RRI Jakarta",
+    "streamUrl": "https://stream-node1.rri.co.id/streaming/25/9025/rrijakartapro1.mp3",
+    "icon": "icons/pro1_rri_jakarta.png",
     "city": "Indonesia"
   },
   {
@@ -1194,9 +1242,863 @@
     "city": "Jakarta"
   },
   {
+    "name": "Radio Hidayah 103.4 FM",
+    "streamUrl": "https://radioislamindonesia.com/radiohidayah.mp3",
+    "icon": "icons/radio_hidayah_103_4_fm.png",
+    "city": "Riau"
+  },
+  {
+    "name": "Radio Muara Jakarta",
+    "streamUrl": "http://45.64.97.82:8778/stream/1/",
+    "icon": "icons/default.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "Radio star Tulungagung",
+    "streamUrl": "https://stream-177.zeno.fm/bsdn0uskquztv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJic2RuMHVza3F1enR2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoid1o0VnZvRDBTMUdrYWNZX2o4RmVhZyIsImlhdCI6MTc2MDI3MDE0NywiZXhwIjoxNzYwMjcwMjA3fQ.k27pQUFP8r9r7OdLTXTmHEGGQpOq0pCR1n9U4AvuqOg",
+    "icon": "icons/default.png",
+    "city": "asia tenggara"
+  },
+  {
+    "name": "RAS",
+    "streamUrl": "https://i.klikhost.com/9006/stream",
+    "icon": "icons/default.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "Ronggohadi 97.8 FM Lamongan",
+    "streamUrl": "https://c3.siar.us/proxy/ronggohadifm/stream",
+    "icon": "icons/default.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "RRI Pro 2 Bandung",
+    "streamUrl": "https://stream-node0.rri.co.id/streaming/15/9015/rribandungpro2.mp3",
+    "icon": "icons/default.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "RRI Pro 4 Ambon",
+    "streamUrl": "https://stream-node2.rri.co.id/streaming/15/9315/rriambonpro4.mp3",
+    "icon": "icons/default.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "RRI Voice of Indonesia",
+    "streamUrl": "https://stream-node0.rri.co.id/streaming/25/9125/voi.mp3",
+    "icon": "icons/rri_voice_of_indonesia.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "Sananta FM Tegal",
+    "streamUrl": "http://i.klikhost.com:8500/;super.mp3",
+    "icon": "icons/sananta_fm_tegal.png",
+    "city": "Tegal"
+  },
+  {
+    "name": "Sensasi FM",
+    "streamUrl": "https://n07.radiojar.com/4ywdgup3bnzuv.mp3?rj-ttl=5&rj-tok=AAABmdcVJl4AZYgaIbxMDinLkQ",
+    "icon": "icons/default.png",
+    "city": "DKI Jakarta"
+  },
+  {
+    "name": "Sonora Semarang",
+    "streamUrl": "https://cast3.asurahosting.com/proxy/radios30/stream",
+    "icon": "icons/sonora_semarang.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "Suara Gracia FM",
+    "streamUrl": "https://pu.klikhost.com/proxy/gracia/stream",
+    "icon": "icons/default.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "Swara Kendal",
+    "streamUrl": "https://i.klikhost.com/8822/;",
+    "icon": "icons/default.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "Top FM Bumiayu",
+    "streamUrl": "https://streaming.topfm951.net:9510/",
+    "icon": "icons/top_fm_bumiayu.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "Unisi Radio",
+    "streamUrl": "http://studio1.indostreamers.com:8002/stream",
+    "icon": "icons/default.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "Venus FM makassar",
+    "streamUrl": "https://stream-162.zeno.fm/3wiuocujuobtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIzd2l1b2N1anVvYnR2IiwiaG9zdCI6InN0cmVhbS0xNjIuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiUWcyZkZWb3FSc3VEODJLZmpKRE03ZyIsImlhdCI6MTc2MDMxNjIzOCwiZXhwIjoxNzYwMzE2Mjk4fQ.huR2hZaOmnuDPUusNj_tvc-RoKKDF1oD3JHZeJaEvho",
+    "icon": "icons/venus_fm_makassar.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "Warna 91.6 FM Padang",
+    "streamUrl": "https://a5.siar.us/listen/warna91.6fmpadang/stream",
+    "icon": "icons/warna_91_6_fm_padang.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "YASKI Radio",
+    "streamUrl": "https://stream.heartline.co.id:8443/radio_yaski_stereo",
+    "icon": "icons/default.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "Gadingharjo Core",
+    "streamUrl": "http://79.120.77.11:8002/blackmetal",
+    "icon": "icons/default.png",
+    "city": "Sanden, Yk"
+  },
+  {
+    "name": "1921 BALI HEADBANGER",
+    "streamUrl": "https://stream-178.zeno.fm/vbyq86vnsp8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ2YnlxODZ2bnNwOHV2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiYjVBWFUtNUxTbmk2LWVmdmdKdk1TUSIsImlhdCI6MTc2MDI2MDQzMywiZXhwIjoxNzYwMjYwNDkzfQ.-OVPfM58Y8hG4Vx6yVQIxASRZmiftSbbWLWwglvh-bY",
+    "icon": "icons/default.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "Abdulbasit Abdulsamad",
+    "streamUrl": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+    "icon": "icons/default.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "Akurat FM Solo",
+    "streamUrl": "http://c1.siar.us:9350/stream",
+    "icon": "icons/akurat_fm_solo.png",
+    "city": "Surakarta"
+  },
+  {
+    "name": "Bharata Radio",
+    "streamUrl": "https://c1.siar.us:8800/live",
+    "icon": "icons/default.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "Classy FM",
+    "streamUrl": "http://stream.classyfm.co.id:1034/stream.mp3",
+    "icon": "icons/default.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "Cosmopolitan FM",
+    "streamUrl": "http://n07.radiojar.com/u7d8heq3bnzuv?rj-ttl=5&rj-tok=AAABmdrCWXAAsaK7ee4OphfMnA",
+    "icon": "icons/default.png",
+    "city": "Jakarta"
+  },
+  {
+    "name": "Good Radio 94.3 FM Jakarta",
+    "streamUrl": "http://e15966.cloudrad.io:8612/live",
+    "icon": "icons/good_radio_94_3_fm_jakarta.png",
+    "city": "Jakarta"
+  },
+  {
+    "name": "HANG 106FM",
+    "streamUrl": "http://185.47.62.52:8000/listen.mp3",
+    "icon": "icons/default.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "hard rock FM surabaya",
+    "streamUrl": "http://n04.radiojar.com/yg8ne2v80k8uv?rj-ttl=5&rj-tok=AAABmdfyvooAkJN9eTglye-q9Q",
+    "icon": "icons/default.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "Harley Digital Radio",
+    "streamUrl": "http://live.serverstreaming.net:8000/harleyradio",
+    "icon": "icons/default.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "Hits Unikom Radio",
+    "streamUrl": "https://streaming.hitsunikomradio.com/",
+    "icon": "icons/hits_unikom_radio.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "KIARA 4U",
+    "streamUrl": "https://eu1.fastcast4u.com/proxy/kiarafm?mp=/1",
+    "icon": "icons/kiara_4u.png",
+    "city": "West Sumatra"
+  },
+  {
+    "name": "KISS FM Jember",
+    "streamUrl": "https://i.klikhost.com/8894/;stream.aac?1737215476182",
+    "icon": "icons/default.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "KOSMONITA FM",
+    "streamUrl": "https://rbx2.hnux.com/http://e15400.cloudrad.io:1055/live?_=0.7364746603259145",
+    "icon": "icons/default.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "Lodiko Sodonyo",
+    "streamUrl": "https://stream-156.zeno.fm/nztzeroxluuuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJuenR6ZXJveGx1dXV2IiwiaG9zdCI6InN0cmVhbS0xNTYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoidG1JZkdWTVhRTi1kQ1BHRmt3NEYwUSIsImlhdCI6MTc2MDMwNjk1MywiZXhwIjoxNzYwMzA3MDEzfQ.VjAHNec5hjxQhN5D5gSj1SVY3kohOlvdJRjSaYQMwTo",
+    "icon": "icons/lodiko_sodonyo.png",
+    "city": "Medan"
+  },
+  {
+    "name": "M Radio",
+    "streamUrl": "https://c4.siar.us/proxy/mradio/stream",
+    "icon": "icons/default.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "Megaswara Bogor",
+    "streamUrl": "https://server.adyadigitalteknologi.com:8010/1",
+    "icon": "icons/megaswara_bogor.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "Nindy Radio 98.2 FM",
+    "streamUrl": "https://streaming.nrjaudio.fm/ouq5sgyoeo8p?origine=radiogarden&aw_0_1st.station=CHERIE-LOVE-SONGS",
+    "icon": "icons/default.png",
+    "city": "Yogyakarta"
+  },
+  {
+    "name": "Prameswara 103.9 FM Lamongan",
+    "streamUrl": "http://prameswarafm.onlivestreaming.net:10390/live",
+    "icon": "icons/prameswara_103_9_fm_lamongan.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "Pro1 RRI Makassar",
+    "streamUrl": "https://stream-node0.rri.co.id/streaming/22/9022/rrimakasarpro1.mp3",
+    "icon": "icons/default.png",
+    "city": "Indonesia"
+  },
+  {
     "name": "Radio Dakwah Islam",
     "streamUrl": "https://i.klikhost.com/8260/;radio.mp3",
     "icon": "icons/default.png",
     "city": "Jawa Tengah"
+  },
+  {
+    "name": "Radio DCS Madiun 100.50 FM",
+    "streamUrl": "https://radioislamindonesia.com/dcsfm.mp3",
+    "icon": "icons/radio_dcs_madiun_100_50_fm.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "Radio Gentara",
+    "streamUrl": "https://s1.gntr.net/listen/radio_gentara/gentara64",
+    "icon": "icons/default.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "Radio Islam Malang 1",
+    "streamUrl": "http://siaran.radioislam.my.id:11132/",
+    "icon": "icons/default.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "Radio Kita 94.3 FM Cirebon Indonesia",
+    "streamUrl": "https://sunnah.radio.yufid.com/;stream.mp3;",
+    "icon": "icons/default.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "Radio Latanza",
+    "streamUrl": "https://ssg.streamingmurah.com:9300/;",
+    "icon": "icons/default.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "Radio Patria 102.6 FM Indonesia",
+    "streamUrl": "https://streaming.radiopatria.net/radio/8000/patria",
+    "icon": "icons/radio_patria_102_6_fm_indonesia.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "RAS",
+    "streamUrl": "https://i.klikhost.com/9006/stream",
+    "icon": "icons/default.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "RASI 906 FM |MAGETAN",
+    "streamUrl": "http://rasifm.onlivestreaming.net:9060/live",
+    "icon": "icons/rasi_906_fm_magetan.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "Rodja Bandung 104.3 FM",
+    "streamUrl": "https://radioislamindonesia.com/rodja-bandung.mp3",
+    "icon": "icons/rodja_bandung_104_3_fm.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "RRI Pro 1 Makassar",
+    "streamUrl": "https://stream-node0.rri.co.id/streaming/22/9022/rrimakasarpro1.mp3",
+    "icon": "icons/rri_pro_1_makassar.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "RRI PRO 1 PALEMBANG",
+    "streamUrl": "https://stream-node0.rri.co.id/streaming/13/9013/rripalembangpro1.mp3",
+    "icon": "icons/default.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "RRI Pro 1 Tanjungpinang",
+    "streamUrl": "https://stream-node2.rri.co.id/streaming/21/9221/rritjpinangpro1.mp3",
+    "icon": "icons/default.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "RRI Pro 2 Sungailiat",
+    "streamUrl": "https://stream-node2.rri.co.id/streaming/14/9314/rrisngliatpro2.mp3",
+    "icon": "icons/rri_pro_2_sungailiat.png",
+    "city": "Kepulauan Bangka-Belitung"
+  },
+  {
+    "name": "RRI Pro 4 101,3 FM Tanjungpinang",
+    "streamUrl": "https://stream-node2.rri.co.id/streaming/21/9221/rritjpinangpro4.mp3",
+    "icon": "icons/rri_pro_4_101_3_fm_tanjungpinang.png",
+    "city": "Kepulauan Riau"
+  },
+  {
+    "name": "SISNET RADIO",
+    "streamUrl": "https://i.klikhost.com/8716/stream?1709089914379",
+    "icon": "icons/sisnet_radio.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "The Beat Bali",
+    "streamUrl": "https://c1.siar.us/radio/8030/stream",
+    "icon": "icons/default.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "The Beat Radio Bali",
+    "streamUrl": "https://c1.siar.us/radio/8030/stream",
+    "icon": "icons/the_beat_radio_bali.png",
+    "city": "Bali"
+  },
+  {
+    "name": "Top FM",
+    "streamUrl": "http://streaming.topfm951.net:9510/stream",
+    "icon": "icons/default.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "V.O.S Radio SMANSA-MOZAR",
+    "streamUrl": "https://sv7.alhastream.com/radio/8050/radio",
+    "icon": "icons/default.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "Wawa Radio 101.2",
+    "streamUrl": "https://securestream.casthost.net:8219/stream",
+    "icon": "icons/default.png",
+    "city": "Yogyakarta"
+  },
+  {
+    "name": "100,8 Insania FM Makassar",
+    "streamUrl": "https://stream-sg1.galuhmedia.co.id/listen/insaniamakassar/1008makassar",
+    "icon": "icons/100_8_insania_fm_makassar.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "1921 Baliheadbanger Music",
+    "streamUrl": "http://stream-178.zeno.fm/vbyq86vnsp8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ2YnlxODZ2bnNwOHV2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiN2tmZVNmS3JSRm12eFp5MTN2VzViQSIsImlhdCI6MTc2MDMwOTU3MiwiZXhwIjoxNzYwMzA5NjMyfQ.vwFfSVEmfSeSJePKIdV0vjzw9Hk8gcIw3HBEBsrVo7U",
+    "icon": "icons/1921_baliheadbanger_music.png",
+    "city": "Bali"
+  },
+  {
+    "name": "96.1 FM - Radio Bravo FM Kebumen",
+    "streamUrl": "https://stream.swadesifm.com/radio/8090/radio.mp3",
+    "icon": "icons/default.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "Alfa Radio (Indonesia)",
+    "streamUrl": "https://ssg.streamingmurah.com:8200/;",
+    "icon": "icons/default.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "ARB FM JAKARTA",
+    "streamUrl": "https://void.idserverhost.com/8018/stream",
+    "icon": "icons/default.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "Cosmic Indo",
+    "streamUrl": "https://stream-176.zeno.fm/jw6ys87h2dguv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJqdzZ5czg3aDJkZ3V2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiaWZpOS1NeUNSVjJNdGZBMFIzWkx3USIsImlhdCI6MTc2MDMwMTUxNSwiZXhwIjoxNzYwMzAxNTc1fQ.SLmA-Cca_7rdIsg9m1AGHQHdmhOCdKiog2-UGCS8iOY",
+    "icon": "icons/cosmic_indo.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "Cosmopolitan",
+    "streamUrl": "http://n03.radiojar.com/u7d8heq3bnzuv?rj-ttl=5&rj-tok=AAABmdrJhyIA_4f9T1ye3UVpWw",
+    "icon": "icons/default.png",
+    "city": "Jakarta"
+  },
+  {
+    "name": "EL JHON FM Palembang",
+    "streamUrl": "http://103.28.149.117:8032/stream",
+    "icon": "icons/default.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "ELPAS 94.1 FM",
+    "streamUrl": "http://live.serverstreaming.net/elpasfm",
+    "icon": "icons/default.png",
+    "city": "Bogor"
+  },
+  {
+    "name": "ELPAS 94.1 FM",
+    "streamUrl": "http://live.serverstreaming.net/elpasfm",
+    "icon": "icons/default.png",
+    "city": "Bogor"
+  },
+  {
+    "name": "Gen 98.7 FM Jakarta",
+    "streamUrl": "http://103.246.184.62:1935/noice_genfm/genfm/chunklist.m3u8",
+    "icon": "icons/gen_98_7_fm_jakarta.png",
+    "city": "Jakarta"
+  },
+  {
+    "name": "Good Radio Jakarta",
+    "streamUrl": "http://e15966.cloudrad.io:8612/live",
+    "icon": "icons/good_radio_jakarta.png",
+    "city": "Jakarta"
+  },
+  {
+    "name": "Good Radio Jakarta",
+    "streamUrl": "http://e15966.cloudrad.io:8612/live",
+    "icon": "icons/good_radio_jakarta.png",
+    "city": "Jakarta"
+  },
+  {
+    "name": "Hang 106 FM",
+    "streamUrl": "http://185.47.62.52:8000/listen.mp3/stats?sid=1&json=1&callback=jQuery1124046759743595637016_1677813104799&_=1677813104800",
+    "icon": "icons/hang_106_fm.png",
+    "city": "Kepulauan Riau"
+  },
+  {
+    "name": "Hits Unikom Radio",
+    "streamUrl": "https://streaming.hitsunikomradio.com/",
+    "icon": "icons/hits_unikom_radio.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "Hits Unikom Radio",
+    "streamUrl": "https://streaming.hitsunikomradio.com/",
+    "icon": "icons/hits_unikom_radio.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "Jak 101",
+    "streamUrl": "https://wz.mari.co.id:1936/web_jakfm/jakfm/playlist.m3u8",
+    "icon": "icons/default.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "Jiz 89.5 FM",
+    "streamUrl": "https://pu.klikhost.com/proxy/jizfm/stream",
+    "icon": "icons/default.png",
+    "city": "Yogyakarta"
+  },
+  {
+    "name": "Joss 885 AM",
+    "streamUrl": "https://stream.swadesifm.com/radio/8000/radio.mp3",
+    "icon": "icons/default.png",
+    "city": "Yogyakarta"
+  },
+  {
+    "name": "KBR Jakarta",
+    "streamUrl": "https://pu.klikhost.com/proxy/kbr/kbr",
+    "icon": "icons/default.png",
+    "city": "Jakarta"
+  },
+  {
+    "name": "KBR68H",
+    "streamUrl": "http://pu.klikhost.com:8056/kbr",
+    "icon": "icons/default.png",
+    "city": "DKI Jakarta"
+  },
+  {
+    "name": "KIARA 4U",
+    "streamUrl": "https://eu1.fastcast4u.com/proxy/kiarafm?mp=/1",
+    "icon": "icons/kiara_4u.png",
+    "city": "West Sumatera"
+  },
+  {
+    "name": "LIVE - RRI PRO 2 Tanjung Pinang",
+    "streamUrl": "https://stream-node2.rri.co.id/streaming/21/9221/rritjpinangpro2.mp3",
+    "icon": "icons/default.png",
+    "city": "Malang"
+  },
+  {
+    "name": "Lodiko MuLo",
+    "streamUrl": "https://stream-158.zeno.fm/sktzuxbiw5qvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJza3R6dXhiaXc1cXZ2IiwiaG9zdCI6InN0cmVhbS0xNTguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoibllSYnI5RXFUX3VOcWRoWmpEUE9iZyIsImlhdCI6MTc2MDI5NzY5MywiZXhwIjoxNzYwMjk3NzUzfQ.7KQvSZf73v3_XypI5nXi762SDQ9gwjMtj5lDfWbaymk",
+    "icon": "icons/lodiko_mulo.png",
+    "city": "Lubuak Sikaping"
+  },
+  {
+    "name": "Lopo Par85",
+    "streamUrl": "https://stream-162.zeno.fm/wbwfh9niu2fvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ3YndmaDluaXUyZnZ2IiwiaG9zdCI6InN0cmVhbS0xNjIuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiTDNMYnFpWWNTRS1XSmt4SEJua01nQSIsImlhdCI6MTc2MDI2OTA5MSwiZXhwIjoxNzYwMjY5MTUxfQ.nTCzTlmLX34w5OyWRMVaZzjt-EEoqMm31Q9TVc7yD5Y",
+    "icon": "icons/lopo_par85.png",
+    "city": "Kotanopan"
+  },
+  {
+    "name": "LPPL BATARA",
+    "streamUrl": "https://a5.siar.us/listen/lpplbatara/stream",
+    "icon": "icons/default.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "LPPL RADIO KOTA BATIK FM",
+    "streamUrl": "https://studio1.indostreamers.com:8010/stream/1/",
+    "icon": "icons/default.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "mandarin station",
+    "streamUrl": "https://stream01-ssl.arenastreaming.com:8043/stream",
+    "icon": "icons/default.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "Mesra FM",
+    "streamUrl": "https://radioku.my.id:8243/mesra",
+    "icon": "icons/default.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "Mesra FM",
+    "streamUrl": "https://radioku.my.id:8243/mesra",
+    "icon": "icons/default.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "MGTRADIO",
+    "streamUrl": "https://sukmben.radiogentara.com/listen/mgtradio/mgtradio",
+    "icon": "icons/default.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "NAGASWARA Pop",
+    "streamUrl": "https://streaming.brol.tech/rtfmlounge",
+    "icon": "icons/default.png",
+    "city": "Pangea"
+  },
+  {
+    "name": "Nusa FM",
+    "streamUrl": "https://stream-153.zeno.fm/n5tergcf4v8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJuNXRlcmdjZjR2OHV2IiwiaG9zdCI6InN0cmVhbS0xNTMuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiMEZ3amljSjRUUS1WZm9FdzZYUmdsUSIsImlhdCI6MTc2MDMyMzMwMCwiZXhwIjoxNzYwMzIzMzYwfQ.kpSbPeVbaCs5jIBvpQqG0E4jV0w6ZoD0l0qztKB19Hk",
+    "icon": "icons/default.png",
+    "city": "wonosari"
+  },
+    {
+    "name": "Slow Rock 90'",
+    "streamUrl": "https://stream-155.zeno.fm/hiut6cwfoneuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJoaXV0NmN3Zm9uZXV2IiwiaG9zdCI6InN0cmVhbS0xNTUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiQTY5RUE3cHFRanltLU13UjNDWDluQSIsImlhdCI6MTc2MDI1NjM0OSwiZXhwIjoxNzYwMjU2NDA5fQ.ypJzgCk8ILBqQU2PWq_nYyCdAUXPwNu5MFREDM4kavo",
+    "icon": "icons2/slow_rock_90.png",
+    "city": "Malaysia"
+  },
+  {
+    "name": "Sinar FM",
+    "streamUrl": "https://n08a-eu.rcs.revma.com/azatk0tbv4uvv/8_1ksmof3jo7vso02/playlist.m3u8",
+    "icon": "icons2/sinar_fm.png",
+    "city": "Kuala Lumpur"
+  },
+  {
+    "name": "ERA FM",
+    "streamUrl": "https://n17a-eu.rcs.revma.com/crec9cmbv4uvv/23_11p2ghidfhj2d02/playlist.m3u8?rj-ttl=5&rj-tok=AAABlF2WiCgAJUPufokb6G0b3Q",
+    "icon": "icons2/era_fm.png",
+    "city": "Malaysia"
+  },
+  {
+    "name": "THR Gegar Pilihan #1 Pantai Timur",
+    "streamUrl": "https://n24a-eu.rcs.revma.com/cn0zcqsbv4uvv/36_1nbhrvq7qpz1h02/playlist.m3u8?rj-ttl=5&rj-tok=AAABmdkAOgUAU79IpxUQKKJANQ",
+    "icon": "icons2/thr_gegar_pilihan_1_pantai_timur.png",
+    "city": "Kelantan"
+  },
+  {
+    "name": "Rock Rock Kapak",
+    "streamUrl": "https://stream-170.zeno.fm/q6xy0didftcvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxNnh5MGRpZGZ0Y3Z2IiwiaG9zdCI6InN0cmVhbS0xNzAuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiV0twS2RUSUxTQVdqcVdCRzdQdHdSUSIsImlhdCI6MTc2MDI1OTE1NywiZXhwIjoxNzYwMjU5MjE3fQ.mhOKrbLukNNLPMXb7rKQ4QAc-fpxPeRtdCiUcl-XvlU",
+    "icon": "icons2/rock_rock_kapak.png",
+    "city": "Malaysia"
+  },
+  {
+    "name": "Melody FM Malaysia",
+    "streamUrl": "https://n09.rcs.revma.com/2u1n6dtbv4uvv/9_11l86ncot7z1w02/playlist.m3u8",
+    "icon": "icons2/melody_fm_malaysia.png",
+    "city": "Malaysia"
+  },
+  {
+    "name": "Klasik FM 101,1 MHz",
+    "streamUrl": "http://22243.live.streamtheworld.com:80/RADIO_KLASIK.mp3",
+    "icon": "icons2/default.png",
+    "city": "Malaysia"
+  },
+  {
+    "name": "Melayu Klasik",
+    "streamUrl": "https://stream-159.zeno.fm/4s44thh7yf9uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI0czQ0dGhoN3lmOXV2IiwiaG9zdCI6InN0cmVhbS0xNTkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiZ2lyVzNocllRcDYxUmZjakJvSkJDUSIsImlhdCI6MTc2MDMxMzIyMCwiZXhwIjoxNzYwMzEzMjgwfQ.oWARwuxQzkXQ2wYKhipNCY5WBWSrnxrhUCPcKimZK34",
+    "icon": "icons2/default.png",
+    "city": "Malaysia"
+  },
+  {
+    "name": "DJ DUGEM",
+    "streamUrl": "https://stream-178.zeno.fm/ooaqxeogpfdvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJvb2FxeGVvZ3BmZHZ2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoib1lwdjZBd2NTd3F5TnkwazdmdF8xZyIsImlhdCI6MTc2MDMwOTExOSwiZXhwIjoxNzYwMzA5MTc5fQ.HYehNhhNgF0TtjrK10mrxn3j5QYcCDmYrh5Snbava4k",
+    "icon": "icons2/dj_dugem.png",
+    "city": "Malaysia"
+  },
+  {
+    "name": "HITZ | Malaysia's #1 Hit Music Station - All the hitz, all the time!",
+    "streamUrl": "https://n44a-eu.rcs.revma.com/488kt4sbv4uvv/68_1txzsglqw5l3t02/playlist.m3u8?rj-ttl=5&rj-tok=AAABmdgNmKkADe5V5a1PYlOt3w",
+    "icon": "icons2/default.png",
+    "city": "Malaysia"
+  },
+  {
+    "name": "988 FM",
+    "streamUrl": "https://28103.live.streamtheworld.com/988_FMAAC.aac",
+    "icon": "icons2/988_fm.png",
+    "city": "Kuala Lumpur"
+  },
+  {
+    "name": "WAI FM IBAN",
+    "streamUrl": "http://22243.live.streamtheworld.com:80/WAI_FM_IBAN.mp3",
+    "icon": "icons2/wai_fm_iban.png",
+    "city": "Malaysia"
+  },
+  {
+    "name": "MIX 94.5 FM Malaysia",
+    "streamUrl": "https://n28a-eu.rcs.revma.com/v5pq3htbv4uvv/40_wqselj3z5ieg02/playlist.m3u8?rj-ttl=5&rj-tok=AAABjkaPjccA_nBeuk7GvQZBZg",
+    "icon": "icons2/mix_94_5_fm_malaysia.png",
+    "city": "Malaysia"
+  },
+  {
+    "name": "MYFM (101.80)",
+    "streamUrl": "https://n38a-eu.rcs.revma.com/hc3unrtbv4uvv/56_1t996oveblvvv02/playlist.m3u8?rj-ttl=5&rj-tok=AAABjmQzlooA5VQ0LCn-yOlhmQ",
+    "icon": "icons2/myfm_101_80.png",
+    "city": "Kuala Lumpur"
+  },
+  {
+    "name": "Jazz Lounge",
+    "streamUrl": "http://eu8.fastcast4u.com:5068/;",
+    "icon": "icons2/default.png",
+    "city": "Malaysia"
+  },
+  {
+    "name": "Nasional FM 88,5 MHz",
+    "streamUrl": "http://22283.live.streamtheworld.com:80/NASIONAL_FM.mp3",
+    "icon": "icons2/default.png",
+    "city": "Malaysia"
+  },
+  {
+    "name": "Kelantan FM",
+    "streamUrl": "https://22273.live.streamtheworld.com:443/KELANTAN_FMAAC.aac",
+    "icon": "icons2/default.png",
+    "city": "Kelantan"
+  },
+  {
+    "name": "Sabah FM",
+    "streamUrl": "https://28163.live.streamtheworld.com:443/SABAH_FMAAC.aac",
+    "icon": "icons2/default.png",
+    "city": "Sabah"
+  },
+  {
+    "name": "MY FM",
+    "streamUrl": "https://n38a-eu.rcs.revma.com/hc3unrtbv4uvv/56_1t996oveblvvv02/playlist.m3u8?rj-ttl=5&rj-tok=AAABkBt1aCUAlkmmsnXss9i2gw",
+    "icon": "icons2/my_fm.png",
+    "city": "Malaysia"
+  },
+  {
+    "name": "Terengganu FM",
+    "streamUrl": "https://22243.live.streamtheworld.com/TERENGGANU_FMAAC_SC",
+    "icon": "icons2/terengganu_fm.png",
+    "city": "terengganu"
+  },
+  {
+    "name": "Gegar Musik FM",
+    "streamUrl": "http://167.114.131.90:5316/stream/1/",
+    "icon": "icons2/gegar_musik_fm.png",
+    "city": "Malaysia"
+  },
+  {
+    "name": "Radio",
+    "streamUrl": "http://ssl.geckohost.nz:9191/autodj",
+    "icon": "icons2/default.png",
+    "city": "Malaysia"
+  },
+  {
+    "name": "ai fm",
+    "streamUrl": "https://22243.live.streamtheworld.com:443/AI_FMAAC_SC",
+    "icon": "icons2/ai_fm.png",
+    "city": "Malaysia"
+  },
+  {
+    "name": "Radio Rosak",
+    "streamUrl": "https://radiorosak.radioca.st/stream",
+    "icon": "icons2/default.png",
+    "city": "Malaysia"
+  },
+  {
+    "name": "Jei FM Klang Tamil Radio",
+    "streamUrl": "https://usa3.fastcast4u.com/proxy/jeifm?mp=/1",
+    "icon": "icons2/default.png",
+    "city": "Selangor"
+  },
+  {
+    "name": "Ai FM",
+    "streamUrl": "https://28153.live.streamtheworld.com/AI_FMAAC.aac",
+    "icon": "icons2/ai_fm.png",
+    "city": "Kuala Lumpur"
+  },
+  {
+    "name": "FFM",
+    "streamUrl": "http://167.114.131.90:5968/ffm",
+    "icon": "icons2/ffm.png",
+    "city": "Kuala Lumpur"
+  },
+  {
+    "name": "Pahang FM",
+    "streamUrl": "https://28163.live.streamtheworld.com/PAHANG_FMAAC.aac",
+    "icon": "icons2/default.png",
+    "city": "Pahang"
+  },
+  {
+    "name": "Nasheed FM",
+    "streamUrl": "http://stereo.nasyidfm.com:8000/",
+    "icon": "icons2/nasheed_fm.png",
+    "city": "Malaysia"
+  },
+  {
+    "name": "WAI FM Bidayuh",
+    "streamUrl": "http://22283.live.streamtheworld.com:80/WAI_FM_BK.mp3",
+    "icon": "icons2/wai_fm_bidayuh.png",
+    "city": "bidayuh"
+  },
+  {
+    "name": "Gemersik FM",
+    "streamUrl": "http://gemersikfm.iradio.work:8000/;",
+    "icon": "icons2/gemersik_fm.png",
+    "city": "Malaysia"
+  },
+  {
+    "name": "Asyik FM",
+    "streamUrl": "http://22283.live.streamtheworld.com:80/ASYIK_FM.mp3",
+    "icon": "icons2/default.png",
+    "city": "Malaysia"
+  },
+  {
+    "name": "TraXXFM [90.3 / 100.1]",
+    "streamUrl": "https://22253.live.streamtheworld.com:443/TRAXX_FMAAC_SC",
+    "icon": "icons2/traxxfm_90_3_100_1.png",
+    "city": "Malaysia"
+  },
+  {
+    "name": "BFM 89.9",
+    "streamUrl": "http://28163.live.streamtheworld.com:80/BFM.mp3",
+    "icon": "icons2/default.png",
+    "city": "Malaysia"
+  },
+  {
+    "name": "Music Vault FM",
+    "streamUrl": "https://stream-177.zeno.fm/zqxbxkviipcvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ6cXhieGt2aWlwY3Z2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoibjgwWFV6Y3NSUnVhcnV4ZDVEVFFkUSIsImlhdCI6MTc2MDMyMTcyNSwiZXhwIjoxNzYwMzIxNzg1fQ.-rtBQLaDZBoJYP7UZvBJBPiOwed3EsH2sdgNI0r-4uM",
+    "icon": "icons2/music_vault_fm.png",
+    "city": "Malaysia"
+  },
+  {
+    "name": "Stay.FM",
+    "streamUrl": "https://stayfm.com:8443/archive",
+    "icon": "icons2/stay_fm.png",
+    "city": "Malaysia"
+  },
+  {
+    "name": "Dunia Muzik FM",
+    "streamUrl": "http://185.109.169.80:8009/stream",
+    "icon": "icons2/default.png",
+    "city": "Malaysia"
+  },
+  {
+    "name": "MIB radio",
+    "streamUrl": "https://stream-179.zeno.fm/bm557kzmr18uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJibTU1N2t6bXIxOHV2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiXzdNdUtlcjNTTE9laDFrSDNJaFpXUSIsImlhdCI6MTc2MDMxMDY4NSwiZXhwIjoxNzYwMzEwNzQ1fQ.CpOqdyY3hkz4V1h3Hpg6kGP1AtLeSbHqbNhH0sbpsiU",
+    "icon": "icons2/default.png",
+    "city": "Malaysia"
+  },
+  {
+    "name": "Vision.FM",
+    "streamUrl": "http://cloud.tujuh.my:8018/stream?type=.mp3/",
+    "icon": "icons2/vision_fm.png",
+    "city": "Malaysia"
+  },
+  {
+    "name": "goXuan",
+    "streamUrl": "https://n07a-eu.rcs.revma.com/xt9nhzsbv4uvv/7_1kpxic2j08fx102/playlist.m3u8?rj-ttl=5&rj-tok=AAABkBoH3fsAEu93wxYlLEnxBQ",
+    "icon": "icons2/goxuan.png",
+    "city": "Malaysia"
+  },
+  {
+    "name": "ILA FM",
+    "streamUrl": "http://s1.cmesolution.my:5442/",
+    "icon": "icons2/ila_fm.png",
+    "city": "Malaysia"
+  },
+  {
+    "name": "Radio Klate Kito",
+    "streamUrl": "http://s6.voscast.com:9748/",
+    "icon": "icons2/radio_klate_kito.png",
+    "city": "Malaysia"
+  },
+  {
+    "name": "ANAstation",
+    "streamUrl": "https://stream-178.zeno.fm/tf79rp6qg48uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ0Zjc5cnA2cWc0OHV2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiVkt3RWc5Qm9RS2FVY1RXSlFBUHYwdyIsImlhdCI6MTc2MDI2OTk5NCwiZXhwIjoxNzYwMjcwMDU0fQ.x7n70onqfCNuAIjxUFCiW2XUKHTsYbv1JARuXuT3vvM",
+    "icon": "icons2/default.png",
+    "city": "Malaysia"
+  },
+  {
+    "name": "Ceritera FM",
+    "streamUrl": "http://live.ceriterafm.my:8000/",
+    "icon": "icons2/ceritera_fm.png",
+    "city": "Malaysia"
+  },
+  {
+    "name": "GOXUAN",
+    "streamUrl": "https://22243.live.streamtheworld.com:443/RAKITAAAC.aac",
+    "icon": "icons2/goxuan.png",
+    "city": "Malaysia"
+  },
+  {
+    "name": "Langkawi FM",
+    "streamUrl": "http://22243.live.streamtheworld.com:80/LANGKAWI_FM.mp3",
+    "icon": "icons2/default.png",
+    "city": "Malaysia"
+  },
+  {
+    "name": "BFM 89.9",
+    "streamUrl": "https://28163.live.streamtheworld.com/BFMAAC.aac?pname=StandardPlayerV4&pversion=4.19.2-044&csegid=888&dist=triton-web&tdsdk=js-2.9&swm=false&banners=300x250&burst-time=15&sbmid=61298613-b919-4a75-f541-dff41946a368",
+    "icon": "icons2/default.png",
+    "city": "Malaysia"
+  },
+  {
+    "name": "Delima FM",
+    "streamUrl": "http://167.114.131.90:5610/;",
+    "icon": "icons2/delima_fm.png",
+    "city": "Malaysia"
+  },
+  {
+    "name": "Gold",
+    "streamUrl": "https://ss1.audiorama.com.mx:6584/https://radiomalaysia.net/gold-fm.html",
+    "icon": "icons2/default.png",
+    "city": "Malaysia"
+  },
+  {
+    "name": "Impian FM",
+    "streamUrl": "http://167.114.131.90:6156/stream/1/",
+    "icon": "icons2/default.png",
+    "city": "Malaysia"
   }
+  
+  
 ]
