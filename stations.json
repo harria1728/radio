@@ -18,7 +18,7 @@
     "city": "Jakarta"
   },
   {
-    "name": "89.2 FM Jakarta, Campur sari",
+    "name": "89.2 FM, Campursari FM Jakarta",
     "streamUrl": "https://a8.siar.us/listen/campursari/stream",
     "icon": "icons/default71.png",
     "city": "Indonesia"
@@ -102,12 +102,6 @@
     "city": "Indonesia"
   },
   {
-    "name": "CNN Indonesia",
-    "streamUrl": "https://live.cnnindonesia.com/livecnn/smil:cnntv/chunklist.m3u8",
-    "icon": "icons/default91.png",
-    "city": "Indonesia"
-  },
-  {
     "name": "DENGERIN MUSIK INDONESIA",
     "streamUrl": "https://stream.denger.in/",
     "icon": "icons/dengerin_musik_indonesia.png",
@@ -123,12 +117,6 @@
     "name": "RRI Pro 3",
     "streamUrl": "https://stream-node0.rri.go.id/streaming/14/9014/kbrn.mp3",
     "icon": "icons/rri_pro_3.png",
-    "city": "Indonesia"
-  },
-  {
-    "name": "Iradio FM",
-    "streamUrl": "http://n03.radiojar.com/4ywdgup3bnzuv",
-    "icon": "icons/iradio_fm.png",
     "city": "Indonesia"
   },
   {
@@ -248,7 +236,7 @@
   {
     "name": "Alternatif radio jakarta",
     "streamUrl": "https://void.idserverhost.com/8016/stream",
-    "icon": "icons/alternatif_radio_jakarta.png",
+    "icon": "icons/default60.png",
     "city": "Jakarta"
   },
   {
@@ -326,7 +314,7 @@
   {
     "name": "Radio Hang FM",
     "streamUrl": "http://185.47.62.52:8000/",
-    "icon": "icons/default36.png",
+    "icon": "icons/default50.png",
     "city": "Kepulauan Riau"
   },
   {
@@ -410,7 +398,7 @@
   {
     "name": "Singosari Fm Brebes (Official Station)",
     "streamUrl": "https://s2.free-shoutcast.com/stream/18096",
-    "icon": "icons/singosari_fm_brebes_official_station.png",
+    "icon": "icons/default20.png",
     "city": "Jawa Tengah"
   },
   {
@@ -950,7 +938,7 @@
   {
     "name": "Singosari FM Brebes (Official Station)",
     "streamUrl": "http://uk14freenew.listen2myradio.com:28270/",
-    "icon": "icons/singosari_fm_brebes_official_station.png",
+    "icon": "icons/default20.png",
     "city": "Central Java"
   },
   {
@@ -1314,7 +1302,7 @@
     "city": "Indonesia"
   },
   {
-    "name": "Mendhut FM",
+    "name": "Mendhut FM Solo",
     "streamUrl": "http://c4.siar.us:8790/;",
     "icon": "icons/mendhut_fm.jpg",
     "city": "Solo"
@@ -1428,7 +1416,7 @@
     "city": "Indonesia"
   },
   {
-    "name": "Prosalina FM",
+    "name": "Prosalina FM Jember",
     "streamUrl": "https://i.klikhost.com/8618/stream?1708788698312",
     "icon": "icons/prosalina_fm.jpg",
     "city": "Indonesia"
@@ -1520,7 +1508,7 @@
   },
   {
     "name": "Radio Kita Cirebon Indonesia",
-    "streamUrl": "http://live.radiosunnah.net/",
+    "streamUrl": "https://broadcast.yufid.com/listen/radio_sunnah_cirebon/kitafm",
     "icon": "icons/default38.png",
     "city": "West Java"
   },
@@ -2377,12 +2365,6 @@
     "city": "Indonesia"
   },
   {
-    "name": "MGTRADIO",
-    "streamUrl": "http://s1.gntr.net/listen/mgtradio/mgtradio",
-    "icon": "icons/mgtradio.png",
-    "city": "Indonesia"
-  },
-  {
     "name": "MGTRadio",
     "streamUrl": "https://s1.gntr.net/listen/mgtradio/mgtradio",
     "icon": "icons/mgtradio.png",
@@ -2893,18 +2875,12 @@
     "city": "Indonesia"
   },
   {
-    "name": "SmartRadio Indonesia",
+    "name": "SmartRadio Yogyakarta",
     "streamUrl": "http://radio.forumcerdas.net:8000/",
     "icon": "icons/smartradio_indonesia.jpg",
     "city": "Yogyakarta"
   },
-  {
-    "name": "SmartRadio Indonesia",
-    "streamUrl": "http://radio.forumcerdas.net:8000/;",
-    "icon": "icons/smartradio_indonesia.jpg",
-    "city": "Yogyakarta"
-  },
-  {
+   {
     "name": "Solopos FM",
     "streamUrl": "https://live.solopos.com:2020/8002/stream",
     "icon": "icons/default4.png",
@@ -7400,7 +7376,7 @@
     "city": "Indonesia"
   },
   {
-    "name": "Rowasia FM",
+    "name": "Rowasia FM Boyolali",
     "streamUrl": "https://a1.siar.us:8260/rowasiafm.mp3",
     "icon": "icons/a983.png",
     "city": "Indonesia"
