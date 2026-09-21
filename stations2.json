@@ -14,7 +14,7 @@
   {
     "name": "Slow Rock 90'",
     "streamUrl": "https://stream.zeno.fm/hiut6cwfoneuv",
-    "icon": "icons/slow_rock_90.png",
+    "icon": "icons/default91.png",
     "city": "Malaysia"
   },
   {
@@ -24,21 +24,9 @@
     "city": "Malaysia"
   },
   {
-    "name": "Jazz Lounge",
-    "streamUrl": "http://eu8.fastcast4u.com:5068/;",
-    "icon": "icons/default70.png",
-    "city": "Malaysia"
-  },
-  {
-    "name": "REDfm",
-    "streamUrl": "https://22273.live.streamtheworld.com/RED_FMAAC.aac",
-    "icon": "icons/redfm.png",
-    "city": "Sarawak"
-  },
-  {
-    "name": "WAI FM IBAN",
-    "streamUrl": "http://playerservices.streamtheworld.com/api/livestream-redirect/WAI_FM_IBAN.mp3",
-    "icon": "icons/wai_fm_iban.png",
+    "name": "Klasik FM 101,1 MHz",
+    "streamUrl": "http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_KLASIK.mp3",
+    "icon": "icons/default75.png",
     "city": "Malaysia"
   },
   {
@@ -48,21 +36,39 @@
     "city": "Malaysia"
   },
   {
+    "name": "WAI FM IBAN",
+    "streamUrl": "http://playerservices.streamtheworld.com/api/livestream-redirect/WAI_FM_IBAN.mp3",
+    "icon": "icons/wai_fm_iban.png",
+    "city": "Malaysia"
+  },
+  {
+    "name": "Jazz Lounge",
+    "streamUrl": "http://eu8.fastcast4u.com:5068/;",
+    "icon": "icons/default85.png",
+    "city": "Malaysia"
+  },
+  {
+    "name": "REDfm",
+    "streamUrl": "https://22273.live.streamtheworld.com/RED_FMAAC.aac",
+    "icon": "icons/default114.png",
+    "city": "Sarawak"
+  },
+  {
     "name": "THR Gegar Pilihan #1 Pantai Timur",
     "streamUrl": "https://stream-eu-a.rcs.revma.com/cn0zcqsbv4uvv/36_1nbhrvq7qpz1h02/playlist.m3u8",
     "icon": "icons/thr_gegar_pilihan_1_pantai_timur.jpg",
     "city": "Kelantan"
   },
   {
-    "name": "Klasik FM 101,1 MHz",
-    "streamUrl": "http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_KLASIK.mp3",
-    "icon": "icons/default7.png",
+    "name": "LITE FM Malaysia",
+    "streamUrl": "https://stream.rcs.revma.com/bn4ex8sbv4uvv",
+    "icon": "icons/lite_fm_malaysia.png",
     "city": "Malaysia"
   },
   {
-    "name": "AFO Radio Chinese",
-    "streamUrl": "https://stream.rcs.revma.com/7x3gv2y4bshvv",
-    "icon": "icons/afo_radio_chinese.png",
+    "name": "Nasional FM 88,5 MHz",
+    "streamUrl": "http://playerservices.streamtheworld.com/api/livestream-redirect/NASIONAL_FM.mp3",
+    "icon": "icons/default80.png",
     "city": "Malaysia"
   },
   {
@@ -72,22 +78,40 @@
     "city": "Kelantan"
   },
   {
-    "name": "Fly FM",
-    "streamUrl": "https://stream.rcs.revma.com/q17aka9mtd3vv",
-    "icon": "icons/fly_fm.jpg",
-    "city": "Malaysia"
-  },
-  {
-    "name": "LITE FM Malaysia",
-    "streamUrl": "https://stream.rcs.revma.com/bn4ex8sbv4uvv",
-    "icon": "icons/lite_fm_malaysia.png",
-    "city": "Malaysia"
-  },
-  {
     "name": "Sabah FM",
     "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/SABAH_FMAAC.aac",
-    "icon": "icons/default8.png",
+    "icon": "icons/default81.png",
     "city": "Sabah"
+  },
+  {
+    "name": "HITZ | Malaysia's #1 Hit Music Station - All the hitz, all the time!",
+    "streamUrl": "https://stream.rcs.revma.com/488kt4sbv4uvv",
+    "icon": "icons/default115.png",
+    "city": "Malaysia"
+  },
+  {
+    "name": "Hot FM Malaysia",
+    "streamUrl": "https://stream.rcs.revma.com/drakdf8mtd3vv/hls.m3u8",
+    "icon": "icons/default72.png",
+    "city": "Kuala Lumpur"
+  },
+  {
+    "name": "Raaga",
+    "streamUrl": "https://n06.rcs.revma.com/1ut6qwtbv4uvv",
+    "icon": "icons/default91.png",
+    "city": "Malaysia"
+  },
+  {
+    "name": "AFO Radio Chinese",
+    "streamUrl": "https://stream.rcs.revma.com/7x3gv2y4bshvv",
+    "icon": "icons/afo_radio_chinese.png",
+    "city": "Malaysia"
+  },
+  {
+    "name": "ai fm",
+    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/AI_FMAAC_SC",
+    "icon": "icons/default117.png",
+    "city": "Malaysia"
   },
   {
     "name": "BFM 89.9",
@@ -96,99 +120,21 @@
     "city": "Malaysia"
   },
   {
-    "name": "HITZ | Malaysia's #1 Hit Music Station - All the hitz, all the time!",
-    "streamUrl": "https://stream.rcs.revma.com/488kt4sbv4uvv",
-    "icon": "icons/hitz_malaysia_s_1_hit_music_station_all_the_hitz_all_the_time.png",
+    "name": "Asyik FM",
+    "streamUrl": "http://playerservices.streamtheworld.com/api/livestream-redirect/ASYIK_FM.mp3",
+    "icon": "icons/default83.png",
     "city": "Malaysia"
   },
   {
-    "name": "Jei FM Klang Tamil Radio",
+    "name": "JEI FM",
     "streamUrl": "https://usa3.fastcast4u.com/proxy/jeifm?mp=/1",
-    "icon": "icons/default52.png",
-    "city": "Selangor"
-  },
-  {
-    "name": "Nasional FM 88,5 MHz",
-    "streamUrl": "http://playerservices.streamtheworld.com/api/livestream-redirect/NASIONAL_FM.mp3",
-    "icon": "icons/default19.png",
+    "icon": "icons/default112.png",
     "city": "Malaysia"
   },
   {
-    "name": "DJ DUGEM",
-    "streamUrl": "https://stream.zeno.fm/ooaqxeogpfdvv",
-    "icon": "icons/dj_dugem.png",
-    "city": "Malaysia"
-  },
-  {
-    "name": "Hot FM Malaysia",
-    "streamUrl": "https://stream.rcs.revma.com/drakdf8mtd3vv/hls.m3u8",
-    "icon": "icons/default99.png",
-    "city": "Kuala Lumpur"
-  },
-  {
-    "name": "Raaga",
-    "streamUrl": "https://n06.rcs.revma.com/1ut6qwtbv4uvv",
-    "icon": "icons/default97.png",
-    "city": "Malaysia"
-  },
-  {
-    "name": "Terengganu FM",
-    "streamUrl": "https://22243.live.streamtheworld.com/TERENGGANU_FMAAC_SC",
-    "icon": "icons/terengganu_fm.png",
-    "city": "terengganu"
-  },
-  {
-    "name": "ai fm",
-    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/AI_FMAAC_SC",
-    "icon": "icons/default34.png",
-    "city": "Malaysia"
-  },
-  {
-    "name": "Eight无限 FM",
-    "streamUrl": "https://stream.rcs.revma.com/qp0xrd9mtd3vv",
-    "icon": "icons/eight_fm.jpg",
-    "city": "Malaysia"
-  },
-  {
-    "name": "HITZ | Malaysia's #1 Hit Music Station - All the hitz, all the time!",
-    "streamUrl": "https://stream.rcs.revma.com/488kt4sbv4uvv",
-    "icon": "icons/hitz_malaysia_s_1_hit_music_station_all_the_hitz_all_the_time.png",
-    "city": "Malaysia"
-  },
-  {
-    "name": "THR Gegar",
-    "streamUrl": "https://n09.rcs.revma.com/cn0zcqsbv4uvv/9_1i7eg69ua9k0u02/playlist.m3u8",
-    "icon": "icons/default77.png",
-    "city": "Malaysia"
-  },
-  {
-    "name": "CITYPlus FM",
-    "streamUrl": "https://stream.rcs.revma.com/9ykdmcawe1bwv",
-    "icon": "icons/default79.png",
-    "city": "Malaysia"
-  },
-  {
-    "name": "GOXUAN",
-    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/RAKITAAAC.aac",
-    "icon": "icons/goxuan.png",
-    "city": "Malaysia"
-  },
-  {
-    "name": "Radio Maya Online",
-    "streamUrl": "http://s1.cmesolution.my:5266/",
-    "icon": "icons/default60.png",
-    "city": "Malaysia"
-  },
-  {
-    "name": "WAI FM Bidayuh",
-    "streamUrl": "http://playerservices.streamtheworld.com/api/livestream-redirect/WAI_FM_BK.mp3",
-    "icon": "icons/wai_fm_bidayuh.png",
-    "city": "bidayuh"
-  },
-  {
-    "name": "Zayan",
-    "streamUrl": "https://n04.rcs.revma.com/7ww2a4tbv4uvv/4_vpzncxu6ffle02/playlist.m3u8",
-    "icon": "icons/default92.png",
+    "name": "Stay.FM",
+    "streamUrl": "https://stayfm.com:8443/archive",
+    "icon": "icons/stay_fm.png",
     "city": "Malaysia"
   },
   {
@@ -204,93 +150,57 @@
     "city": "Malaysia"
   },
   {
-    "name": "ANAstation",
-    "streamUrl": "https://stream.zeno.fm/tf79rp6qg48uv",
-    "icon": "icons/default58.png",
-    "city": "Malaysia"
-  },
-  {
-    "name": "Cats FM",
-    "streamUrl": "https://stream.rcs.revma.com/51qe53rv0y3vv.m4a",
-    "icon": "icons/default54.png",
-    "city": "Sarawak"
-  },
-  {
-    "name": "Delima FM",
-    "streamUrl": "http://167.114.131.90:5610/;",
-    "icon": "icons/delima_fm.png",
-    "city": "Malaysia"
-  },
-  {
-    "name": "Gegar Musik FM",
-    "streamUrl": "http://167.114.131.90:5316/stream/1/",
-    "icon": "icons/gegar_musik_fm.png",
+    "name": "Fly FM",
+    "streamUrl": "https://stream.rcs.revma.com/q17aka9mtd3vv",
+    "icon": "icons/fly_fm.jpg",
     "city": "Malaysia"
   },
   {
     "name": "Gold",
     "streamUrl": "https://ss1.audiorama.com.mx:6584/https://radiomalaysia.net/gold-fm.html",
-    "icon": "icons/default6.png",
-    "city": "Malaysia"
-  },
-  {
-    "name": "goXuan",
-    "streamUrl": "https://n07a-eu.rcs.revma.com/xt9nhzsbv4uvv/7_1kpxic2j08fx102/playlist.m3u8?rj-ttl=5&rj-tok=AAABkBoH3fsAEu93wxYlLEnxBQ",
-    "icon": "icons/goxuan.png",
+    "icon": "icons/default93.png",
     "city": "Malaysia"
   },
   {
     "name": "Impian FM",
     "streamUrl": "http://167.114.131.90:6156/stream/1/",
-    "icon": "icons/default61.png",
+    "icon": "icons/default92.png",
     "city": "Malaysia"
   },
   {
-    "name": "JEI FM",
-    "streamUrl": "https://usa3.fastcast4u.com/proxy/jeifm?mp=/1",
-    "icon": "icons/default65.png",
+    "name": "KCFM Radio",
+    "streamUrl": "http://www.kcfm.org:8000/stream",
+    "icon": "icons/default93.png",
+    "city": "Kuala Lumpur"
+  },
+  {
+    "name": "Keningau FM",
+    "streamUrl": "http://playerservices.streamtheworld.com/api/livestream-redirect/KENINGAU_FM.mp3",
+    "icon": "icons/default91.png",
     "city": "Malaysia"
   },
   {
-    "name": "MyFriends Station",
-    "streamUrl": "https://cast3.asurahosting.com/proxy/myfriend/stream",
-    "icon": "icons/myfriends_station.png",
+    "name": "Langkawi FM",
+    "streamUrl": "http://playerservices.streamtheworld.com/api/livestream-redirect/LANGKAWI_FM.mp3",
+    "icon": "icons/default107.png",
+    "city": "Malaysia"
+  },
+  {
+    "name": "LTFM Radio",
+    "streamUrl": "http://live.ltfmonline.com:8000/stream",
+    "icon": "icons/default82.png",
+    "city": "Kuala Lumpur"
+  },
+  {
+    "name": "Music Vault FM",
+    "streamUrl": "https://stream.zeno.fm/zqxbxkviipcvv",
+    "icon": "icons/music_vault_fm.png",
     "city": "Malaysia"
   },
   {
     "name": "Radio",
     "streamUrl": "http://ssl.geckohost.nz:9191/autodj",
-    "icon": "icons/default85.png",
-    "city": "Malaysia"
-  },
-  {
-    "name": "Radio KPKT",
-    "streamUrl": "http://listen.kpkt.gov.my:8000/stream",
-    "icon": "icons/radio_kpkt.png",
-    "city": "Malaysia"
-  },
-  {
-    "name": "Radio Rosak",
-    "streamUrl": "https://radiorosak.radioca.st/stream",
-    "icon": "icons/default95.png",
-    "city": "Malaysia"
-  },
-  {
-    "name": "Red FM",
-    "streamUrl": "https://22253.live.streamtheworld.com/RED_FMAAC.aac",
-    "icon": "icons/default73.png",
-    "city": "sarawak"
-  },
-  {
-    "name": "SkyChatzFM",
-    "streamUrl": "http://java.skychatz.org:8080/;stream/1",
-    "icon": "icons/default7.png",
-    "city": "Johor Bahru"
-  },
-  {
-    "name": "Vision.FM",
-    "streamUrl": "http://cloud.tujuh.my:8018/stream?type=.mp3/",
-    "icon": "icons/vision_fm.png",
+    "icon": "icons/default92.png",
     "city": "Malaysia"
   },
   {
@@ -300,58 +210,40 @@
     "city": "Malaysia"
   },
   {
-    "name": "اذاعة القرآن الكريم",
-    "streamUrl": "http://stream.radiojar.com/0tpy1h0kxtzuv",
-    "icon": "icons/default35.png",
-    "city": "Malaysia"
-  },
-  {
-    "name": "Abdulbasit Abdulsamad",
-    "streamUrl": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-    "icon": "icons/default36.png",
-    "city": "Malaysia"
-  },
-  {
-    "name": "AFO Radio English",
-    "streamUrl": "https://stream.rcs.revma.com/8150ezy4bshvv",
-    "icon": "icons/afo_radio_english.png",
-    "city": "Malaysia"
-  },
-  {
-    "name": "Alam MayaFM",
-    "streamUrl": "http://192.99.8.192:3142/;",
-    "icon": "icons/alam_mayafm.jpg",
-    "city": "Malaysia"
-  },
-  {
     "name": "ALL FM [91.9]",
     "streamUrl": "https://stream.zeno.fm/srrbpsu3tbdvv",
     "icon": "icons/all_fm_91_9.png",
     "city": "Malaysia"
   },
   {
-    "name": "Asyik FM",
-    "streamUrl": "http://playerservices.streamtheworld.com/api/livestream-redirect/ASYIK_FM.mp3",
-    "icon": "icons/default48.png",
+    "name": "ANAstation",
+    "streamUrl": "https://stream.zeno.fm/tf79rp6qg48uv",
+    "icon": "icons/default79.png",
     "city": "Malaysia"
   },
   {
-    "name": "Ceritera FM",
-    "streamUrl": "http://live.ceriterafm.my:8000/",
-    "icon": "icons/ceritera_fm.png",
+    "name": "Cats FM",
+    "streamUrl": "https://stream.rcs.revma.com/51qe53rv0y3vv.m4a",
+    "icon": "icons/default95.png",
+    "city": "Sarawak"
+  },
+  {
+    "name": "Delima FM",
+    "streamUrl": "http://167.114.131.90:5610/;",
+    "icon": "icons/delima_fm.png",
     "city": "Malaysia"
   },
   {
     "name": "Dunia Muzik FM",
     "streamUrl": "http://185.109.169.80:8009/stream",
-    "icon": "icons/default37.png",
+    "icon": "icons/default70.png",
     "city": "Malaysia"
   },
   {
-    "name": "era sarawak",
-    "streamUrl": "https://n10.rcs.revma.com/bkqfqkrbv4uvv/10_6dkcmkt5m85u02/playlist.m3u8",
-    "icon": "icons/default48.png",
-    "city": "sarawak"
+    "name": "Eight无限 FM",
+    "streamUrl": "https://stream.rcs.revma.com/qp0xrd9mtd3vv",
+    "icon": "icons/eight_fm.jpg",
+    "city": "Malaysia"
   },
   {
     "name": "FAKHRULNOIR FM",
@@ -366,10 +258,106 @@
     "city": "Kuala Lumpur"
   },
   {
+    "name": "Gegar Musik FM",
+    "streamUrl": "http://167.114.131.90:5316/stream/1/",
+    "icon": "icons/gegar_musik_fm.png",
+    "city": "Malaysia"
+  },
+  {
     "name": "GeGar Muzik FM",
     "streamUrl": "https://usa3.fastcast4u.com/proxy/gegarmuzikfm?mp=/1",
     "icon": "icons/gegar_muzik_fm.png",
     "city": "Malaysia"
+  },
+  {
+    "name": "MyFriends Station",
+    "streamUrl": "https://cast3.asurahosting.com/proxy/myfriend/stream",
+    "icon": "icons/myfriends_station.png",
+    "city": "Malaysia"
+  },
+  {
+    "name": "Nasheed FM",
+    "streamUrl": "http://stereo.nasyidfm.com:8000/",
+    "icon": "icons/nasheed_fm.png",
+    "city": "Malaysia"
+  },
+  {
+    "name": "Radio KPKT",
+    "streamUrl": "http://listen.kpkt.gov.my:8000/stream",
+    "icon": "icons/radio_kpkt.png",
+    "city": "Malaysia"
+  },
+  {
+    "name": "Radio Rosak",
+    "streamUrl": "https://radiorosak.radioca.st/stream",
+    "icon": "icons/default107.png",
+    "city": "Malaysia"
+  },
+  {
+    "name": "Red FM",
+    "streamUrl": "https://22253.live.streamtheworld.com/RED_FMAAC.aac",
+    "icon": "icons/red_fm.jpg",
+    "city": "sarawak"
+  },
+  {
+    "name": "SkyChatzFM",
+    "streamUrl": "http://java.skychatz.org:8080/;stream/1",
+    "icon": "icons/default98.png",
+    "city": "Johor Bahru"
+  },
+  {
+    "name": "THR Gegar",
+    "streamUrl": "https://n09.rcs.revma.com/cn0zcqsbv4uvv/9_1i7eg69ua9k0u02/playlist.m3u8",
+    "icon": "icons/default91.png",
+    "city": "Malaysia"
+  },
+  {
+    "name": "Traxx FM",
+    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/TRAXX_FMAAC_SC",
+    "icon": "icons/default98.png",
+    "city": "Malaysia"
+  },
+  {
+    "name": "WAI FM Bidayuh",
+    "streamUrl": "http://playerservices.streamtheworld.com/api/livestream-redirect/WAI_FM_BK.mp3",
+    "icon": "icons/wai_fm_bidayuh.png",
+    "city": "bidayuh"
+  },
+  {
+    "name": "AFO Radio English",
+    "streamUrl": "https://stream.rcs.revma.com/8150ezy4bshvv",
+    "icon": "icons/afo_radio_english.png",
+    "city": "Malaysia"
+  },
+  {
+    "name": "Alam MayaFM",
+    "streamUrl": "http://192.99.8.192:3142/;",
+    "icon": "icons/alam_mayafm.jpg",
+    "city": "Malaysia"
+  },
+  {
+    "name": "Ceritera FM",
+    "streamUrl": "http://live.ceriterafm.my:8000/",
+    "icon": "icons/ceritera_fm.png",
+    "city": "Malaysia"
+  },
+  {
+    "name": "CITYPlus FM",
+    "streamUrl": "https://stream.rcs.revma.com/9ykdmcawe1bwv",
+    "icon": "icons/default106.png",
+    "city": "Malaysia"
+  },
+  {
+    "name": "DJ DUGEM",
+    "streamUrl": "https://stream.zeno.fm/ooaqxeogpfdvv",
+    "icon": "icons/dj_dugem.png",
+    "city": "Malaysia"
+  },
+  {
+    "name": "era sarawak",
+    "streamUrl": "https://n10.rcs.revma.com/bkqfqkrbv4uvv/10_6dkcmkt5m85u02/playlist.m3u8",
+    "icon": "icons/default89.png",
+    "city": "sarawak"
   },
   {
     "name": "Gemersik FM",
@@ -384,30 +372,6 @@
     "city": "Malaysia"
   },
   {
-    "name": "KCFM Radio",
-    "streamUrl": "http://www.kcfm.org:8000/stream",
-    "icon": "icons/default59.png",
-    "city": "Kuala Lumpur"
-  },
-  {
-    "name": "Keningau FM",
-    "streamUrl": "http://playerservices.streamtheworld.com/api/livestream-redirect/KENINGAU_FM.mp3",
-    "icon": "icons/default71.png",
-    "city": "Malaysia"
-  },
-  {
-    "name": "Langkawi FM",
-    "streamUrl": "http://playerservices.streamtheworld.com/api/livestream-redirect/LANGKAWI_FM.mp3",
-    "icon": "icons/default38.png",
-    "city": "Malaysia"
-  },
-  {
-    "name": "LTFM Radio",
-    "streamUrl": "http://live.ltfmonline.com:8000/stream",
-    "icon": "icons/default78.png",
-    "city": "Kuala Lumpur"
-  },
-  {
     "name": "LTR FM Radio Music",
     "streamUrl": "https://stream.zeno.fm/p1ddt1trwchvv",
     "icon": "icons/ltr_fm_radio_music.png",
@@ -416,37 +380,19 @@
   {
     "name": "MIB radio",
     "streamUrl": "https://stream.zeno.fm/bm557kzmr18uv",
-    "icon": "icons/default27.png",
-    "city": "Malaysia"
-  },
-  {
-    "name": "Music Vault FM",
-    "streamUrl": "https://stream.zeno.fm/zqxbxkviipcvv",
-    "icon": "icons/music_vault_fm.png",
-    "city": "Malaysia"
-  },
-  {
-    "name": "Music Vault FM",
-    "streamUrl": "https://stream.zeno.fm/zqxbxkviipcvv",
-    "icon": "icons/music_vault_fm.png",
-    "city": "Malaysia"
-  },
-  {
-    "name": "Nasheed FM",
-    "streamUrl": "http://stereo.nasyidfm.com:8000/",
-    "icon": "icons/nasheed_fm.png",
+    "icon": "icons/default86.png",
     "city": "Malaysia"
   },
   {
     "name": "PBN Radio Nurani",
     "streamUrl": "https://stream.zeno.fm/2uyfsr25sm0uv",
-    "icon": "icons/default65.png",
+    "icon": "icons/default116.png",
     "city": "Malaysia"
   },
   {
     "name": "Radio Klasik (Klasik Nasional)",
     "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_KLASIKAAC_SC",
-    "icon": "icons/default12.png",
+    "icon": "icons/default101.png",
     "city": "Malaysia"
   },
   {
@@ -456,57 +402,75 @@
     "city": "Malaysia"
   },
   {
-    "name": "Rentak Pelangi Muzik FM",
-    "streamUrl": "http://stream.tujuh.my:8006/stream",
-    "icon": "icons/default56.png",
+    "name": "Radio Maya Online",
+    "streamUrl": "http://s1.cmesolution.my:5266/",
+    "icon": "icons/default88.png",
     "city": "Malaysia"
   },
   {
     "name": "Rentak Pelangi MuzikFM",
     "streamUrl": "http://stream.tujuh.my/proxy/rpmfm/stream",
-    "icon": "icons/default52.png",
+    "icon": "icons/default98.png",
     "city": "Malaysia"
   },
   {
     "name": "Repair Segala",
     "streamUrl": "https://stream.zeno.fm/0245ew03ekhvv",
-    "icon": "icons/default76.png",
+    "icon": "icons/default77.png",
     "city": "Malaysia"
   },
   {
-    "name": "Stay.FM",
-    "streamUrl": "https://stayfm.com:8443/archive",
-    "icon": "icons/stay_fm.png",
-    "city": "Malaysia"
+    "name": "Terengganu FM",
+    "streamUrl": "https://22243.live.streamtheworld.com/TERENGGANU_FMAAC_SC",
+    "icon": "icons/terengganu_fm.png",
+    "city": "terengganu"
   },
   {
     "name": "TMM2 FM",
     "streamUrl": "https://stream.zeno.fm/mq0pxfsf0chvv",
-    "icon": "icons/default29.png",
-    "city": "Malaysia"
-  },
-  {
-    "name": "Traxx FM",
-    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/TRAXX_FMAAC_SC",
-    "icon": "icons/default69.png",
-    "city": "Malaysia"
-  },
-  {
-    "name": "Traxx FM",
-    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/TRAXX_FMAAC_SC",
-    "icon": "icons/default69.png",
-    "city": "Malaysia"
-  },
-  {
-    "name": "TraXXFM [90.3 / 100.1]",
-    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/TRAXX_FMAAC_SC",
-    "icon": "icons/traxxfm_90_3_100_1.png",
+    "icon": "icons/default94.png",
     "city": "Malaysia"
   },
   {
     "name": "Wadah FM",
     "streamUrl": "https://19183.live.streamtheworld.com/WARNA942FMAAC.aac",
-    "icon": "icons/default49.png",
+    "icon": "icons/default102.png",
+    "city": "Malaysia"
+  },
+  {
+    "name": "Zayan",
+    "streamUrl": "https://n04.rcs.revma.com/7ww2a4tbv4uvv/4_vpzncxu6ffle02/playlist.m3u8",
+    "icon": "icons/default107.png",
+    "city": "Malaysia"
+  },
+  {
+    "name": "اذاعة القرآن الكريم",
+    "streamUrl": "http://stream.radiojar.com/0tpy1h0kxtzuv",
+    "icon": "icons/default109.png",
+    "city": "Malaysia"
+  },
+  {
+    "name": "goXuan",
+    "streamUrl": "https://n07a-eu.rcs.revma.com/xt9nhzsbv4uvv/7_1kpxic2j08fx102/playlist.m3u8?rj-ttl=5&rj-tok=AAABkBoH3fsAEu93wxYlLEnxBQ",
+    "icon": "icons/goxuan.png",
+    "city": "Malaysia"
+  },
+  {
+    "name": "GOXUAN",
+    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/RAKITAAAC.aac",
+    "icon": "icons/goxuan.png",
+    "city": "Malaysia"
+  },
+  {
+    "name": "Rentak Pelangi Muzik FM",
+    "streamUrl": "http://stream.tujuh.my:8006/stream",
+    "icon": "icons/default113.png",
+    "city": "Malaysia"
+  },
+  {
+    "name": "Vision.FM",
+    "streamUrl": "http://cloud.tujuh.my:8018/stream?type=.mp3/",
+    "icon": "icons/vision_fm.png",
     "city": "Malaysia"
   }
 ]
