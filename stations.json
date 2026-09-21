@@ -54,12 +54,6 @@
     "city": "DKI Jakarta"
   },
   {
-    "name": "CNN Indonesia",
-    "streamUrl": "https://live.cnnindonesia.com/livecnn/smil:cnntv/chunklist.m3u8",
-    "icon": "icons/default78.png",
-    "city": "Indonesia"
-  },
-  {
     "name": "Wijaya FM 103.5 FM Surabaya",
     "streamUrl": "http://wijayafm.onlivestreaming.net:9880/stream?",
     "icon": "icons/wijaya_fm_103_5_fm_surabaya.png",
