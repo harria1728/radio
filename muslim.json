@@ -1,0 +1,758 @@
+[
+  {
+    "name": "Poliyama Top FM - Kota Gorontalo 104.2 FM",
+    "streamUrl": "https://live4.rs3fm.com:8001/poliyama",
+    "icon": "icons/36846_poliyama_top_fm.png",
+    "city": "Kota Gorontalo"
+  },
+  {
+    "name": "Radio Muslim Jogja - Yogyakarta 1467 AM",
+    "streamUrl": "https://streaming.radiomuslim.com/;stream/1",
+    "icon": "icons/36803_radio_muslim_jogja.png",
+    "city": "Yogyakarta"
+  },
+  {
+    "name": "Radio Fajri 99.3 FM - Bogor 99.3 FM",
+    "streamUrl": "https://radio.mitradio.com/listen/fajrifm/radio.mp3",
+    "icon": "icons/63552_radio_fajri_99_3_fm.png",
+    "city": "Bogor"
+  },
+  {
+    "name": "Radio At-Tauhid – Bandung - Bandung",
+    "streamUrl": "https://radiosunnah.web.id/listen/at-tauhid/on-air",
+    "icon": "icons/106528_radio_at_tauhid___bandung.png",
+    "city": "Bandung"
+  },
+  {
+    "name": "Radio Salafy Sidoarjo - Sidoarjo",
+    "streamUrl": "https://radioma.my.id/proxy/almuzanisidoarjo/stream/;",
+    "icon": "icons/63644_radio_salafy_sidoarjo.png",
+    "city": "Sidoarjo"
+  },
+  {
+    "name": "RASfm - Jakarta 95.5 FM",
+    "streamUrl": "https://i.klikhost.com/9006/stream",
+    "icon": "icons/36901_rasfm.png",
+    "city": "Jakarta"
+  },
+  {
+    "name": "Radio Syifa - Jakarta",
+    "streamUrl": "https://radiosunnah.web.id/listen/radio-syifa/live",
+    "icon": "icons/106537_radio_syifa.png",
+    "city": "Jakarta"
+  },
+  {
+    "name": "Jibril Radio - Jakarta",
+    "streamUrl": "https://c.alhastream.com:5119/radio",
+    "icon": "icons/90003_jibril_radio.png",
+    "city": "Jakarta"
+  },
+  {
+    "name": "Radio Badr - Semarang",
+    "streamUrl": "https://radiosunnah.web.id/listen/on-air/live",
+    "icon": "icons/106510_radio_badr.png",
+    "city": "Semarang"
+  },
+  {
+    "name": "RAL FM Gorontalo - Kota Gorontalo 102.6 FM",
+    "streamUrl": "https://stream.kiararadio.com/listen/ralfm/ralfmgorontalo",
+    "icon": "icons/default76.png",
+    "city": "Kota Gorontalo"
+  },
+  {
+    "name": "RadioQu Kuningan - Kuningan 104.8 FM",
+    "streamUrl": "https://live.radioqukuningan.com/;stream.mp3",
+    "icon": "icons/37075_radioqu_kuningan.png",
+    "city": "Kuningan"
+  },
+  {
+    "name": "Radio Simpati FM - Cirebon 106.3 FM",
+    "streamUrl": "https://radio.mitradio.com/listen/7._simpati_fm/radio.mp3",
+    "icon": "icons/63652_radio_simpati_fm.png",
+    "city": "Cirebon"
+  },
+  {
+    "name": "Radio Riyadhul Jannah - Tasikmalaya 104.5 FM",
+    "streamUrl": "https://i.klikhost.com:8172/stream",
+    "icon": "icons/default97.png",
+    "city": "Tasikmalaya"
+  },
+  {
+    "name": "Radio MQFM - Bandar Lampung 89.3 FM",
+    "streamUrl": "https://mqfmstreaming.kamil.web.id/;",
+    "icon": "icons/63575_radio_mqfm.png",
+    "city": "Bandar Lampung"
+  },
+  {
+    "name": "Radio Ampel Denta - Surabaya 90.5 FM",
+    "streamUrl": "https://a7.alhastream.com/listen/station_41/radio",
+    "icon": "icons/63531_radio_ampel_denta.png",
+    "city": "Surabaya"
+  },
+  {
+    "name": "Radio Kita FM - Cirebon 94.3 FM",
+    "streamUrl": "https://broadcast.yufid.com/listen/radio_sunnah_cirebon/kitafm",
+    "icon": "icons/36807_radio_kita_fm.png",
+    "city": "Cirebon"
+  },
+  {
+    "name": "Radio Trendakwah FM - Purwakarta 101.2 FM",
+    "streamUrl": "https://radio.mitradio.com/listen/9._trendakwah_fm/radio.mp3",
+    "icon": "icons/36792_radio_trendakwah_fm.png",
+    "city": "Purwakarta"
+  },
+  {
+    "name": "Suarasoneta - Banyuwangi",
+    "streamUrl": "https://a2.siar.us/listen/suarasoneta/radio.mp3",
+    "icon": "icons/default16.png",
+    "city": "Banyuwangi"
+  },
+  {
+    "name": "Radio Syifa Blitar - Blitar",
+    "streamUrl": "https://radiosunnah.web.id/listen/radio-syifa-blitar/live",
+    "icon": "icons/106545_radio_syifa_blitar.png",
+    "city": "Blitar"
+  },
+  {
+    "name": "Radio Syifa Surabaya - Surabaya",
+    "streamUrl": "https://radiosunnah.web.id/listen/radio-syifa-surabaya/live",
+    "icon": "icons/106539_radio_syifa_surabaya.png",
+    "city": "Surabaya"
+  },
+  {
+    "name": "Radio Aswaja FM - Probolinggo 91.2 FM",
+    "streamUrl": "https://a3.alhastream.com:5046/radio",
+    "icon": "icons/105786_radio_aswaja_fm.png",
+    "city": "Probolinggo"
+  },
+  {
+    "name": "Ringin Agung FM - Palangka Raya 99.1 FM",
+    "streamUrl": "https://c1.alhastream.com/listen/station_60/radio",
+    "icon": "icons/104509_ringin_agung_fm.png",
+    "city": "Palangka Raya"
+  },
+  {
+    "name": "Radio Suara At Taqwa - Bondowoso 107.7 FM",
+    "streamUrl": "https://s5.alhastream.com:8420/radio",
+    "icon": "icons/102154_radio_suara_at_taqwa.png",
+    "city": "Bondowoso"
+  },
+  {
+    "name": "Radio Sritanjung FM - Banyuwangi 102.3 FM",
+    "streamUrl": "https://a3.alhastream.com:5115/radio",
+    "icon": "icons/101618_radio_sritanjung_fm.png",
+    "city": "Banyuwangi"
+  },
+  {
+    "name": "Radio Mualaf Bandung - Bandung 107.9 FM",
+    "streamUrl": "https://a.alhastream.com:1060/radio",
+    "icon": "icons/94917_radio_mualaf_bandung.png",
+    "city": "Bandung"
+  },
+  {
+    "name": "Suara Mekarindah - Bekasi",
+    "streamUrl": "https://eu1.fastcast4u.com/proxy/kiarafm?mp=%2F1",
+    "icon": "icons/88361_suara_mekarindah.png",
+    "city": "Bekasi"
+  },
+  {
+    "name": "RadioQu Bogor - Bogor 1089 AM",
+    "streamUrl": "https://icecast.radioqu.id/bogor",
+    "icon": "icons/default45.png",
+    "city": "Bogor"
+  },
+  {
+    "name": "Radio IsyKarima - Karanganyar 99.9 FM",
+    "streamUrl": "https://ssg.streamingmurah.com:8406/stream.mp3",
+    "icon": "icons/36793_radio_isykarima.png",
+    "city": "Karanganyar"
+  },
+  {
+    "name": "Radio Rasil (Radio Silaturahim) - Jakarta 729 AM",
+    "streamUrl": "https://ssg.streamingmurah.com:9300/;",
+    "icon": "icons/36690_radio_rasil__radio_silaturahim_.png",
+    "city": "Jakarta"
+  },
+  {
+    "name": "Radio Arrisalah FM - Medan 95.7 FM",
+    "streamUrl": "https://pu.klikhost.com/proxy/dasa/stream",
+    "icon": "icons/100948_radio_arrisalah_fm.png",
+    "city": "Medan"
+  },
+  {
+    "name": "NUSA FM - Yogyakarta 107.9 FM",
+    "streamUrl": "https://stream.zeno.fm/n5tergcf4v8uv",
+    "icon": "icons/100924_nusa_fm.png",
+    "city": "Yogyakarta"
+  },
+  {
+    "name": "Radio Suara ITMI (RSI) - Bandung",
+    "streamUrl": "https://s.rajamediautama.my.id:8190/radio",
+    "icon": "icons/default38.png",
+    "city": "Bandung"
+  },
+  {
+    "name": "Radio DEI FM - Padang 87.6 FM",
+    "streamUrl": "https://icecast.surau.tv/deifm",
+    "icon": "icons/100043_radio_dei_fm.png",
+    "city": "Padang"
+  },
+  {
+    "name": "Radio Salam FM - Sukabumi 97.4 FM",
+    "streamUrl": "https://radio.mitradio.com/listen/5._salam_fm_/radio.mp3",
+    "icon": "icons/63647_radio_salam_fm.png",
+    "city": "Sukabumi"
+  },
+  {
+    "name": "Inayah Radio - Tasikmalaya 100.8 FM",
+    "streamUrl": "https://s3.alhastream.com/listen/station_38/radio",
+    "icon": "icons/63563_inayah_radio.png",
+    "city": "Tasikmalaya"
+  },
+  {
+    "name": "Radio Syifa Banyuwangi - Banyuwangi",
+    "streamUrl": "https://radiosunnah.web.id/listen/radio-syifa-banyuwangi/live",
+    "icon": "icons/106542_radio_syifa_banyuwangi.png",
+    "city": "Banyuwangi"
+  },
+  {
+    "name": "Dhara FM - Padang 88.8 FM",
+    "streamUrl": "https://sc.habeproradionetindonesia.id:8012/dhara",
+    "icon": "icons/104476_dhara_fm.png",
+    "city": "Padang"
+  },
+  {
+    "name": "Radio Binamas FM - Purworejo 96.0 FM",
+    "streamUrl": "https://s3.alhastream.com:8420/radio",
+    "icon": "icons/101389_radio_binamas_fm.png",
+    "city": "Purworejo"
+  },
+  {
+    "name": "Radio Robbani FM - Pekanbaru 91.1 FM",
+    "streamUrl": "https://c2.siar.us/listen/robbani/live",
+    "icon": "icons/100592_radio_robbani_fm.png",
+    "city": "Pekanbaru"
+  },
+  {
+    "name": "Radio Darul Hikam - Kebumen",
+    "streamUrl": "https://stream.zeno.fm/aqthwogyblxvv",
+    "icon": "icons/98017_radio_darul_hikam.png",
+    "city": "Kebumen"
+  },
+  {
+    "name": "Akbar FM - Jember 94.6 FM",
+    "streamUrl": "https://stream.zeno.fm/wqjeh3f97z0vv",
+    "icon": "icons/96149_akbar_fm.png",
+    "city": "Jember"
+  },
+  {
+    "name": "Radio Suara Nabawiy FM - Pasuruan 107.7 FM",
+    "streamUrl": "https://stream-core.suaranabawiy.com/live",
+    "icon": "icons/36825_radio_suara_nabawiy_fm.png",
+    "city": "Pasuruan"
+  },
+  {
+    "name": "Radio iniislam.net - Cirebon",
+    "streamUrl": "http://radioonline.iniislam.net:9978/stream",
+    "icon": "icons/94332_radio_iniislam_net.png",
+    "city": "Cirebon"
+  },
+  {
+    "name": "Radio Rodja Bandung FM - Bandung 104.3 FM",
+    "streamUrl": "https://radioislamindonesia.com/rodja-bandung.mp3",
+    "icon": "icons/63676_radio_rodja_bandung_fm.png",
+    "city": "Bandung"
+  },
+  {
+    "name": "Radio Serambi Ulama - Ambon",
+    "streamUrl": "https://radioma.my.id/proxy/serambiulama/stream",
+    "icon": "icons/63650_radio_serambi_ulama.png",
+    "city": "Ambon"
+  },
+  {
+    "name": "Radio Rodja Kendari - Kendari 95.1 FM",
+    "streamUrl": "https://cast5.asurahosting.com/proxy/dikman/stream",
+    "icon": "icons/63640_radio_rodja_kendari.png",
+    "city": "Kendari"
+  },
+  {
+    "name": "Radio MPI Percikan Iman - Bandung",
+    "streamUrl": "https://a7.alhastream.com/listen/station_4/radio",
+    "icon": "icons/63622_radio_mpi_percikan_iman.png",
+    "city": "Bandung"
+  },
+  {
+    "name": "RadioQu Purbalingga - Purbalingga 89.6 FM",
+    "streamUrl": "https://icecast.radioqu.id/purbalingga",
+    "icon": "icons/37076_radioqu_purbalingga.png",
+    "city": "Purbalingga"
+  },
+  {
+    "name": "Radio Syifa Malang - Malang",
+    "streamUrl": "https://radiosunnah.web.id/hls/radio-syifa-malang/live.m3u8",
+    "icon": "icons/106541_radio_syifa_malang.png",
+    "city": "Malang"
+  },
+  {
+    "name": "Radio Suara Al Khair 92.7 FM - Barabai 92.7 FM",
+    "streamUrl": "http://a3.alhastream.com/listen/station_80/radio",
+    "icon": "icons/105784_radio_suara_al_khair_92_7_fm.png",
+    "city": "Barabai"
+  },
+  {
+    "name": "Radio Indah Siar - Cirebon 91.8 FM",
+    "streamUrl": "https://radioindahsiar.com/wp-content/plugins/indahsiar-footer-ecg-polished-settings/proxy.php?mode=stream",
+    "icon": "icons/100893_radio_indah_siar.png",
+    "city": "Cirebon"
+  },
+  {
+    "name": "Madinah FM - Malang 99.9 FM",
+    "streamUrl": "https://a7.siar.us/listen/madinafm/mp3",
+    "icon": "icons/default48.png",
+    "city": "Malang"
+  },
+  {
+    "name": "JM Radio - Semarang 107.7 FM",
+    "streamUrl": "https://ssg.streamingmurah.com:8056/stream",
+    "icon": "icons/95437_jm_radio.png",
+    "city": "Semarang"
+  },
+  {
+    "name": "Radio Sunnah Medan - Medan",
+    "streamUrl": "https://radioma.my.id/proxy/sunnahmedan/stream",
+    "icon": "icons/default22.png",
+    "city": "Medan"
+  },
+  {
+    "name": "Radio Manhajul Anbiya - Jember",
+    "streamUrl": "https://radioma.my.id/proxy/rma/stream",
+    "icon": "icons/63624_radio_manhajul_anbiya.png",
+    "city": "Jember"
+  },
+  {
+    "name": "Radio Galeri Muhasabah - Jakarta",
+    "streamUrl": "https://radioma.my.id/proxy/galerimuhasabah2/stream/;",
+    "icon": "icons/default11.png",
+    "city": "Jakarta"
+  },
+  {
+    "name": "Radio Annajiyah - Batam",
+    "streamUrl": "https://radioma.my.id/proxy/annajiyahbatam/stream",
+    "icon": "icons/63607_radio_annajiyah.png",
+    "city": "Batam"
+  },
+  {
+    "name": "Hang 106 FM - Batam 106.0 FM",
+    "streamUrl": "http://185.47.62.52:8000/stream/1/",
+    "icon": "icons/63559_hang_106_fm.png",
+    "city": "Batam"
+  },
+  {
+    "name": "SIPP FM - Padang 105.8 FM",
+    "streamUrl": "https://i.klikhost.com/9138/stream",
+    "icon": "icons/56482_sipp_fm.png",
+    "city": "Padang"
+  },
+  {
+    "name": "Hijrah FM 102.3 - Batam 102.3 FM",
+    "streamUrl": "https://icecast2.hijrahfm.com/hijrah1023fm.mp3",
+    "icon": "icons/default100.png",
+    "city": "Batam"
+  },
+  {
+    "name": "Rodja Majalengka - Majalengka 93.1 FM",
+    "streamUrl": "https://radioislamindonesia.com/rodja-majalengka.mp3",
+    "icon": "icons/37242_rodja_majalengka.png",
+    "city": "Majalengka"
+  },
+  {
+    "name": "Radio Al-Fatah Trangkil Temboro - Magetan 93.4 FM",
+    "streamUrl": "https://i.klikhost.com/8228/;stream.mp3",
+    "icon": "icons/105772_radio_al_fatah_trangkil_temboro.png",
+    "city": "Magetan"
+  },
+  {
+    "name": "Pasaman FM - Lubuk Sikaping 101.9 FM",
+    "streamUrl": "https://www.radiopasaman.com/radio/live.mp3",
+    "icon": "icons/105762_pasaman_fm.png",
+    "city": "Lubuk Sikaping"
+  },
+  {
+    "name": "Darussalam Radio Tegal - Tegal 88.1 FM",
+    "streamUrl": "http://uk14freenew.listen2myradio.com:18209/;",
+    "icon": "icons/105735_darussalam_radio_tegal.png",
+    "city": "Tegal"
+  },
+  {
+    "name": "Radio Adzan FM - Bandung 107.8 FM",
+    "streamUrl": "https://radioadzanfmbandung.com/streamer",
+    "icon": "icons/102004_radio_adzan_fm.png",
+    "city": "Bandung"
+  },
+  {
+    "name": "Al Ikhwan FM - Makassar 101.9 FM",
+    "streamUrl": "https://stream.radioalikhwan.com/listen/al_ikhwan_fm/stream",
+    "icon": "icons/98421_al_ikhwan_fm.png",
+    "city": "Makassar"
+  },
+  {
+    "name": "Radio Al-Manshuroh Cilacap - Cilacap",
+    "streamUrl": "http://cilacap.radioislam.my.id:11162/stream",
+    "icon": "icons/86261_radio_al_manshuroh_cilacap.png",
+    "city": "Cilacap"
+  },
+  {
+    "name": "Radio Salafy Bone - Bone",
+    "streamUrl": "https://radioma.my.id/proxy/syiarislam/stream",
+    "icon": "icons/63642_radio_salafy_bone.png",
+    "city": "Bone"
+  },
+  {
+    "name": "Radio Manhajul Anbiya 2 - Jember",
+    "streamUrl": "https://radioma.my.id/proxy/rma2/stream/;",
+    "icon": "icons/default2.png",
+    "city": "Jember"
+  },
+  {
+    "name": "Radio Islam Timika - Timika",
+    "streamUrl": "https://radioma.my.id/proxy/islamtimika/stream/",
+    "icon": "icons/63619_radio_islam_timika.png",
+    "city": "Timika"
+  },
+  {
+    "name": "Damu FM - Radio Dakwatul Musthofa - Lumajang 88.1 FM",
+    "streamUrl": "https://stream.radiodakwahmustofa.com:8724/damu",
+    "icon": "icons/36773_damu_fm___radio_dakwatul_musthofa.png",
+    "city": "Lumajang"
+  },
+  {
+    "name": "MTA FM - Surakarta 107.9 FM",
+    "streamUrl": "http://mtamedia.net:1079/;",
+    "icon": "icons/36691_mta_fm.png",
+    "city": "Surakarta"
+  },
+  {
+    "name": "Radio Suara Habibulloh FM - Banyuwangi 94.8 FM",
+    "streamUrl": "https://c4.siar.us:8114/live",
+    "icon": "icons/101906_radio_suara_habibulloh_fm.png",
+    "city": "Banyuwangi"
+  },
+  {
+    "name": "Radio Baiturrahman Ridge Camp - Tuban",
+    "streamUrl": "https://s7.alhastream.com:8290/radio",
+    "icon": "icons/101723_radio_baiturrahman_ridge_camp.png",
+    "city": "Tuban"
+  },
+  {
+    "name": "Al-Ikhlash Radio - Kuningan",
+    "streamUrl": "https://s7.alhastream.com:8030/radio",
+    "icon": "icons/101720_al_ikhlash_radio.png",
+    "city": "Kuningan"
+  },
+  {
+    "name": "Insani FM - Purbalingga 88.8 FM",
+    "streamUrl": "https://ssg.streamingmurah.com:8330/stream",
+    "icon": "icons/101373_insani_fm.png",
+    "city": "Purbalingga"
+  },
+  {
+    "name": "Seila 104.3 FM - Batam 104.3 FM",
+    "streamUrl": "https://c4.siar.us:8102/stream",
+    "icon": "icons/63667_seila_104_3_fm.png",
+    "city": "Batam"
+  },
+  {
+    "name": "Radio Salafy Purbalingga - Purbalingga",
+    "streamUrl": "https://radioma.my.id/proxy/salafypurbalingga/stream",
+    "icon": "icons/63643_radio_salafy_purbalingga.png",
+    "city": "Purbalingga"
+  },
+  {
+    "name": "Radio Minhajul Atsar 2 - Jember",
+    "streamUrl": "https://radioma.my.id/proxy/minhajulatsar2/stream",
+    "icon": "icons/63625_radio_minhajul_atsar_2.png",
+    "city": "Jember"
+  },
+  {
+    "name": "Radio MSK 1530 AM - Jakarta 1530 AM",
+    "streamUrl": "https://ssg.streamingmurah.com:8128/stream",
+    "icon": "icons/52556_radio_msk_1530_am.png",
+    "city": "Jakarta"
+  },
+  {
+    "name": "Voice 103.7 FM - Balikpapan 103.7 FM",
+    "streamUrl": "https://voice.faisal.id/stream",
+    "icon": "icons/37147_voice_103_7_fm.png",
+    "city": "Balikpapan"
+  },
+  {
+    "name": "Radio Rodja Palu - Palu 101.8 FM",
+    "streamUrl": "https://asv.alhastream.com:1290/radio",
+    "icon": "icons/103003_radio_rodja_palu.png",
+    "city": "Palu"
+  },
+  {
+    "name": "Radio Masjid Oman Al Makmur - Banda Aceh",
+    "streamUrl": "https://s5.alhastream.com:8320/radio",
+    "icon": "icons/102155_radio_masjid_oman_al_makmur.png",
+    "city": "Banda Aceh"
+  },
+  {
+    "name": "Radio Hidayah - Pekanbaru 103.4 FM",
+    "streamUrl": "https://radioislamindonesia.com/radiohidayah.mp3",
+    "icon": "icons/100053_radio_hidayah.png",
+    "city": "Pekanbaru"
+  },
+  {
+    "name": "Smanam FM - Palembang",
+    "streamUrl": "https://a8.alhastream.com:8020/radio",
+    "icon": "icons/95890_smanam_fm.png",
+    "city": "Palembang"
+  },
+  {
+    "name": "Salam Radio - Jakarta",
+    "streamUrl": "https://mediacp-eu1.arenastreaming.com:2020/stream/salamradio",
+    "icon": "icons/91702_salam_radio.png",
+    "city": "Jakarta"
+  },
+  {
+    "name": "Radio Jam Bicara - Jakarta 91.5 FM",
+    "streamUrl": "https://sv.stri.my.id/radio/8240/radio",
+    "icon": "icons/89201_radio_jam_bicara.png",
+    "city": "Jakarta"
+  },
+  {
+    "name": "Radio Rijal Wonogiri - Wonogiri",
+    "streamUrl": "http://65.108.198.245:8198/stream/",
+    "icon": "icons/63638_radio_rijal_wonogiri.png",
+    "city": "Wonogiri"
+  },
+  {
+    "name": "Radio Minhajul Atsar - Jember",
+    "streamUrl": "https://radioma.my.id/proxy/minhajulatsar1/stream",
+    "icon": "icons/63626_radio_minhajul_atsar.png",
+    "city": "Jember"
+  },
+  {
+    "name": "Radio Ihyaa Ussunnah - Tanjungbalai",
+    "streamUrl": "https://radioma.my.id/proxy/ihyaaussunnah/stream/;",
+    "icon": "icons/63617_radio_ihyaa_ussunnah.png",
+    "city": "Tanjungbalai"
+  },
+  {
+    "name": "Radio Daarul Arqom - Baubau",
+    "streamUrl": "https://radioma.my.id/proxy/daarularqom/stream/;",
+    "icon": "icons/63611_radio_daarul_arqom.png",
+    "city": "Baubau"
+  },
+  {
+    "name": "Radio Al-Hikmah FM - Genteng 98.8 FM",
+    "streamUrl": "https://icecast.surau.tv/alhikmah",
+    "icon": "icons/63606_radio_al_hikmah_fm.png",
+    "city": "Genteng"
+  },
+  {
+    "name": "Elshifa Radio Subang - Subang 100.2 FM",
+    "streamUrl": "https://icecast.elshifaradio.com/stream.mp3",
+    "icon": "icons/56480_elshifa_radio_subang.png",
+    "city": "Subang"
+  },
+  {
+    "name": "Padang FM - Padang 102.6 FM",
+    "streamUrl": "https://stream2.jejestreaming.com:8032/stream",
+    "icon": "icons/102224_padang_fm.png",
+    "city": "Padang"
+  },
+  {
+    "name": "Radio Shahabat Muslim 107.7 FM Tegal - Tegal 107.7 FM",
+    "streamUrl": "https://icecast.surau.tv/radioshahabat",
+    "icon": "icons/102064_radio_shahabat_muslim_107_7_fm_tegal.png",
+    "city": "Tegal"
+  },
+  {
+    "name": "Radio Dakwah Syariah (RDS FM) - Surakarta 101.4 FM",
+    "streamUrl": "https://audiostreamserver.indonesiastreaming.com/rdsfm",
+    "icon": "icons/101278_radio_dakwah_syariah__rds_fm_.png",
+    "city": "Surakarta"
+  },
+  {
+    "name": "Suara Al Jihad FM - Banjarmasin 105.1 FM",
+    "streamUrl": "https://i.klikhost.com:8044/;stream.nsv",
+    "icon": "icons/100318_suara_al_jihad_fm.png",
+    "city": "Banjarmasin"
+  },
+  {
+    "name": "Radio Samudra Aceh - Lhokseumawe",
+    "streamUrl": "https://stream.zeno.fm/xueabwou8k4uv",
+    "icon": "icons/96411_radio_samudra_aceh.png",
+    "city": "Lhokseumawe"
+  },
+  {
+    "name": "majidinspirasi - Sukoharjo",
+    "streamUrl": "https://sc.habeproradionetindonesia.id:8012/stdjogja01",
+    "icon": "icons/95089_majidinspirasi.png",
+    "city": "Sukoharjo"
+  },
+  {
+    "name": "Radio Salafy Bandung - Bandung",
+    "streamUrl": "https://radioma.my.id/proxy/salafybandung/stream",
+    "icon": "icons/63641_radio_salafy_bandung.png",
+    "city": "Bandung"
+  },
+  {
+    "name": "Radio Al Ilmu Madura - Pamekasan",
+    "streamUrl": "https://radioma.my.id/proxy/alilmumadura/stream/;",
+    "icon": "icons/63605_radio_al_ilmu_madura.png",
+    "city": "Pamekasan"
+  },
+  {
+    "name": "Neta Radio Streaming Pertuni Kab Bandung - Bandung",
+    "streamUrl": "https://srv.laksilfmedia.net:8000/radio.mp3",
+    "icon": "icons/63577_neta_radio_streaming_pertuni_kab_bandung.png",
+    "city": "Bandung"
+  },
+  {
+    "name": "Radio Fajri 95.2 FM Bandung - Bandung 95.2 FM",
+    "streamUrl": "https://ars.mitradio.com:8020/radio.mp3",
+    "icon": "icons/63553_radio_fajri_95_2_fm_bandung.png",
+    "city": "Bandung"
+  },
+  {
+    "name": "Lagu Religi Live - Painan",
+    "streamUrl": "https://stream.zeno.fm/kywxqrigo6qtv",
+    "icon": "icons/104198_lagu_religi_live.png",
+    "city": "Painan"
+  },
+  {
+    "name": "Lutfi Radio - Gresik 93.2 FM",
+    "streamUrl": "https://sv.rti.my.id:8020/radio.mp3",
+    "icon": "icons/95205_lutfi_radio.png",
+    "city": "Gresik"
+  },
+  {
+    "name": "Radio Salafy Situbondo - Situbondo",
+    "streamUrl": "https://radioma.my.id/proxy/salafysitubondo/stream",
+    "icon": "icons/63648_radio_salafy_situbondo.png",
+    "city": "Situbondo"
+  },
+  {
+    "name": "Radio Salafy Lumajang - Lumajang",
+    "streamUrl": "https://radioma.my.id/proxy/salafylumajang/stream",
+    "icon": "icons/63646_radio_salafy_lumajang.png",
+    "city": "Lumajang"
+  },
+  {
+    "name": "Radio Muadz 94.3 FM - Kendari 94.3 FM",
+    "streamUrl": "https://radioislamindonesia.com/radiomuadz.mp3",
+    "icon": "icons/63627_radio_muadz_94_3_fm.png",
+    "city": "Kendari"
+  },
+  {
+    "name": "Radio Ahlussunnah Sinjai - Sinjai",
+    "streamUrl": "https://radioma.my.id/proxy/radiosinjai/stream",
+    "icon": "icons/63604_radio_ahlussunnah_sinjai.png",
+    "city": "Sinjai"
+  },
+  {
+    "name": "MQFM Jogja - Yogyakarta 92.3 FM",
+    "streamUrl": "https://streaming.mqradiojogja.my.id/;",
+    "icon": "icons/79359_mqfm_jogja.png",
+    "city": "Yogyakarta"
+  },
+  {
+    "name": "Suara Bintang Sembilan - Trenggalek",
+    "streamUrl": "https://stream.zeno.fm/kydq8agq2uhvv",
+    "icon": "icons/37183_suara_bintang_sembilan.png",
+    "city": "Trenggalek"
+  },
+  {
+    "name": "Radio Walisongo FM - Pekalongan 95.6 FM",
+    "streamUrl": "https://streaming.classynetradio.com/listen/walisongofm/walisongofm",
+    "icon": "icons/37081_radio_walisongo_fm.png",
+    "city": "Pekalongan"
+  },
+  {
+    "name": "Karmila FM 107.9 - Bogor 107.9 FM",
+    "streamUrl": "https://stream.zeno.fm/tux7ehvbxwutv",
+    "icon": "icons/93143_karmila_fm_107_9.png",
+    "city": "Bogor"
+  },
+  {
+    "name": "Radio Islami 106.6 KIIS FM - Padangsidimpuan 106.6 FM",
+    "streamUrl": "http://scg.streamingmurah.com:8052/;stream.mp3",
+    "icon": "icons/100309_radio_islami_106_6_kiis_fm.png",
+    "city": "Padangsidimpuan"
+  },
+  {
+    "name": "YM Radio - Karawang 107.7 FM",
+    "streamUrl": "https://ssg.streamingmurah.com:8031/stream",
+    "icon": "icons/89670_ym_radio.png",
+    "city": "Karawang"
+  },
+  {
+    "name": "Khalifah - Pekanbaru",
+    "streamUrl": "https://stream.zeno.fm/0wpc8a9kv4zuv",
+    "icon": "icons/52528_khalifah.png",
+    "city": "Pekanbaru"
+  },
+  {
+    "name": "Radio Kajian Islam - Kediri",
+    "streamUrl": "https://stream.zeno.fm/ge2ekgd7f18uv",
+    "icon": "icons/37024_radio_kajian_islam.png",
+    "city": "Kediri"
+  },
+  {
+    "name": "Cakrawala FM - Surabaya 101.5 FM",
+    "streamUrl": "https://azuracast.suzananet.com/listen/cakrawala_fm/radio",
+    "icon": "icons/37233_cakrawala_fm.png",
+    "city": "Surabaya"
+  },
+  {
+    "name": "RadioQu Majalengka - Majalengka 92.4 FM",
+    "streamUrl": "https://ssg.streamingmurah.com:8015/stream",
+    "icon": "icons/37074_radioqu_majalengka.png",
+    "city": "Majalengka"
+  },
+  {
+    "name": "Suargo FM (Suara Gontor FM) - Ponorogo 100.9 FM",
+    "streamUrl": "https://c4.siar.us/proxy/suargofm/stream",
+    "icon": "icons/37059_suargo_fm__suara_gontor_fm_.png",
+    "city": "Ponorogo"
+  },
+  {
+    "name": "Radio Ibnul Qoyyim - Balikpapan 107.9 FM",
+    "streamUrl": "https://azuracast.iqbpn.com:8000/radio.mp3",
+    "icon": "icons/36751_radio_ibnul_qoyyim.png",
+    "city": "Balikpapan"
+  },
+  {
+    "name": "SAS FM - Surabaya 107.9 FM",
+    "streamUrl": "https://pu.klikhost.com/proxy/sasfm/stream",
+    "icon": "icons/36738_sas_fm.png",
+    "city": "Surabaya"
+  },
+  {
+    "name": "Radio An-Nashihah - Makassar 88.2 FM",
+    "streamUrl": "https://streaming2.an-nashihah.com/stream",
+    "icon": "icons/101219_radio_an_nashihah.png",
+    "city": "Makassar"
+  },
+  {
+    "name": "Radio Suara Al-Iman 918 AM - Surabaya 918 AM",
+    "streamUrl": "http://live.suaraaliman.com/;stream.mp3",
+    "icon": "icons/37129_radio_suara_al_iman_918_am.png",
+    "city": "Surabaya"
+  },
+  {
+    "name": "RadioQu Batam - Batam 104.7 FM",
+    "streamUrl": "https://ssg.streamingmurah.com:8364/stream.aac",
+    "icon": "icons/37077_radioqu_batam.png",
+    "city": "Batam"
+  },
+  {
+    "name": "RadioQu Banda Aceh - Banda Aceh 93.6 FM",
+    "streamUrl": "https://ssg.streamingmurah.com:8410/stream",
+    "icon": "icons/37078_radioqu_banda_aceh.png",
+    "city": "Banda Aceh"
+  }
+]
