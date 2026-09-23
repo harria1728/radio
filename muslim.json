@@ -1,4 +1,10 @@
 [
+ {
+    "name": "Radio Rodja 756 AM",
+    "streamUrl": "https://radioislamindonesia.com/rodja.mp3?_=2",
+    "icon": "icons/radio_rodja_756_am.png",
+    "city": "Indonesia"
+  },
   {
     "name": "Poliyama Top FM - Kota Gorontalo 104.2 FM",
     "streamUrl": "https://live4.rs3fm.com:8001/poliyama",
