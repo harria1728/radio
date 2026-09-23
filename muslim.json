@@ -760,5 +760,66 @@
     "streamUrl": "https://ssg.streamingmurah.com:8410/stream",
     "icon": "icons/37078_radioqu_banda_aceh.png",
     "city": "Banda Aceh"
+  },
+ {
+    "name": "Radio IsyKarima 99.9 FM",
+    "streamUrl": "https://ssg.streamingmurah.com:8406/stream",
+    "icon": "icons/a149.png",
+    "city": "Indonesia"
+  },
+  
+  {
+    "name": "Radio Suara Al-Iman 846 AM",
+    "streamUrl": "https://radioislamindonesia.com/aliman.mp3?_=1",
+    "icon": "icons/a234.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "Media IslamNet",
+    "streamUrl": "https://s5.alhastream.com:8380/radio",
+    "icon": "icons/a785.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "Rodja Majalengka 93.1 FM",
+    "streamUrl": "https://radioislamindonesia.com/rodja-majalengka.mp3",
+    "icon": "icons/a1018.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "Suara Muslim Surabaya",
+    "streamUrl": "http://pu.klikhost.com:8052/stream/1/",
+    "icon": "icons/default54.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "Radio Muslim",
+    "streamUrl": "https://streaming.radiomuslim.com/;stream/1",
+    "icon": "icons/a584.png",
+    "city": "Indonesia"
+  },
+   {
+    "name": "Radio Shahabat Muslim",
+    "streamUrl": "https://icecast.surau.tv/radioshahabat",
+    "icon": "icons/a738.png",
+    "city": "Indonesia"
+  },
+   {
+    "name": "Radio Suara Muslim Surabaya",
+    "streamUrl": "https://pu.klikhost.com/proxy/suaramuslim/stream?1758728001011",
+    "icon": "icons/a849.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "Radio Muadz FM",
+    "streamUrl": "https://radioislamindonesia.com/radiomuadz.mp3",
+    "icon": "icons/a1205.png",
+    "city": "Indonesia"
+  },
+  {
+    "name": "Radio Al-Manshuroh Cilacap",
+    "streamUrl": "http://cilacap.radioislam.my.id:11162/stream",
+    "icon": "icons/a1337.png",
+    "city": "Indonesia"
   }
 ]
