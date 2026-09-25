@@ -2,181 +2,181 @@
   {
     "name": "YES 933",
     "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/YES933_PREM.aac",
-    "icon": "icons/yes_933.png",
+    "icon": "icons/yes_933.jpg",
     "city": "Singapore"
   },
   {
     "name": "CAPITAL 958",
     "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/CAPITAL958FM_PREM.aac",
-    "icon": "icons/capital_958.png",
+    "icon": "icons/capital_958.jpg",
     "city": "Singapore"
   },
   {
     "name": "WARNA 942",
     "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/WARNA942FM_PREM.aac",
-    "icon": "icons/warna_942.png",
+    "icon": "icons/warna_942.jpg",
     "city": "Singapore"
   },
   {
     "name": "Warna 942 Radio",
     "streamUrl": "http://playerservices.streamtheworld.com/api/livestream-redirect/WARNA942FMAAC.aac",
-    "icon": "icons/warna_942_radio.png",
+    "icon": "icons/warna_942_radio.jpg",
     "city": "Singapore"
   },
   {
     "name": "CNA 938 Live Singapore",
     "streamUrl": "http://23253.live.streamtheworld.com:3690/938NOW_PREM_SC",
-    "icon": "icons/default101.png",
+    "icon": "icons/default101.jpg",
     "city": "Singapore"
   },
   {
     "name": "GOLD 905",
     "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/GOLD905_PREM.aac",
-    "icon": "icons/gold_905.png",
+    "icon": "icons/gold_905.jpg",
     "city": "Singapore"
   },
   {
     "name": "Jia 883 Radio",
     "streamUrl": "http://playerservices.streamtheworld.com/api/livestream-redirect/883JIAAAC.aac",
-    "icon": "icons/default110.png",
+    "icon": "icons/default110.jpg",
     "city": "Bukit Timah"
   },
   {
     "name": "LOVE 972",
     "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOVE972FM_PREM.aac",
-    "icon": "icons/love_972.png",
+    "icon": "icons/love_972.jpg",
     "city": "Singapore"
   },
   {
     "name": "SPH 963 Radio",
     "streamUrl": "http://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963AAC.aac",
-    "icon": "icons/default114.png",
+    "icon": "icons/default114.jpg",
     "city": "Toa Payoh"
   },
   {
     "name": "Kiss92",
     "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/KISS_92_SC",
-    "icon": "icons/kiss92.png",
+    "icon": "icons/kiss92.jpg",
     "city": "Singapore"
   },
   {
     "name": "UFM 100.3 Radio",
     "streamUrl": "http://playerservices.streamtheworld.com/api/livestream-redirect/UFM_1003AAC.aac",
-    "icon": "icons/default102.png",
+    "icon": "icons/default102.jpg",
     "city": "Toa Payoh"
   },
   {
     "name": "Singapore Chinese POP YES FM 933",
     "streamUrl": "https://22893.live.streamtheworld.com/YES933_SC?dist=radiosingapore",
-    "icon": "icons/default112.png",
+    "icon": "icons/default112.jpg",
     "city": "Singapore"
   },
   {
     "name": "Oli 96.8 FM",
     "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/OLI968FMAAC.aac",
-    "icon": "icons/oli_96_8_fm.png",
+    "icon": "icons/oli_96_8_fm.jpg",
     "city": "Singapore"
   },
   {
     "name": "Gold 905 Radio",
     "streamUrl": "http://playerservices.streamtheworld.com/api/livestream-redirect/GOLD905AAC.aac",
-    "icon": "icons/gold_905_radio.png",
+    "icon": "icons/gold_905_radio.jpg",
     "city": "Singapore"
   },
   {
     "name": "LOVE 972",
     "streamUrl": "https://28333.live.streamtheworld.com/LOVE972FM_PREM.aac",
-    "icon": "icons/love_972.png",
+    "icon": "icons/love_972.jpg",
     "city": "Singapore"
   },
   {
     "name": "Love 972 Radio",
     "streamUrl": "http://playerservices.streamtheworld.com/api/livestream-redirect/LOVE972FMAAC.aac",
-    "icon": "icons/love_972_radio.png",
+    "icon": "icons/love_972_radio.jpg",
     "city": "Singapore"
   },
   {
     "name": "CNA 938",
     "streamUrl": "https://22893.live.streamtheworld.com/938NOW_SC",
-    "icon": "icons/cna_938.png",
+    "icon": "icons/cna_938.jpg",
     "city": "Singapore"
   },
   {
     "name": "GOLD 905",
     "streamUrl": "https://22403.live.streamtheworld.com/GOLD905_SC",
-    "icon": "icons/gold_905.png",
+    "icon": "icons/gold_905.jpg",
     "city": "Singapore"
   },
   {
     "name": "Symphony 924",
     "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/SYMPHONY924_PREM.aac",
-    "icon": "icons/symphony_924.png",
+    "icon": "icons/symphony_924.jpg",
     "city": "Singapore"
   },
   {
     "name": "UFM 1003 (MP3)",
     "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/UFM_1003_SC",
-    "icon": "icons/ufm_1003_mp3.png",
+    "icon": "icons/ufm_1003_mp3.jpg",
     "city": "Singapore"
   },
   {
     "name": "Class 95 Radio",
     "streamUrl": "http://playerservices.streamtheworld.com/api/livestream-redirect/CLASS95AAC.aac",
-    "icon": "icons/class_95_radio.png",
+    "icon": "icons/class_95_radio.jpg",
     "city": "Singapore"
   },
   {
     "name": "88.3JIA Cantopop - Best of All Time Cantonese Song",
     "streamUrl": "https://22253.live.streamtheworld.com/HARRYS_S02.mp3",
-    "icon": "icons/88_3jia_cantopop_best_of_all_time_cantonese_song.png",
+    "icon": "icons/88_3jia_cantopop_best_of_all_time_cantonese_song.jpg",
     "city": "Singapore"
   },
   {
     "name": "CLASS 95",
     "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/CLASS95_PREM.aac",
-    "icon": "icons/class_95.png",
+    "icon": "icons/class_95.jpg",
     "city": "Singapore"
   },
   {
     "name": "987",
     "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/987FM_PREM.aac",
-    "icon": "icons/987.png",
+    "icon": "icons/987.jpg",
     "city": "Singapore"
   },
   {
     "name": "987FM",
     "streamUrl": "https://22393.live.streamtheworld.com/987FM_PREM.aac",
-    "icon": "icons/987fm.png",
+    "icon": "icons/987fm.jpg",
     "city": "Singapore"
   },
   {
     "name": "Capital 958 Radio",
     "streamUrl": "http://playerservices.streamtheworld.com/api/livestream-redirect/CAPITAL958FMAAC.aac",
-    "icon": "icons/capital_958_radio.png",
+    "icon": "icons/capital_958_radio.jpg",
     "city": "Singapore"
   },
   {
     "name": "Channel News Asia TV",
     "streamUrl": "http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8",
-    "icon": "icons/channel_news_asia_tv.png",
+    "icon": "icons/channel_news_asia_tv.jpg",
     "city": "Singapore"
   },
   {
     "name": "CNA938",
     "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/938NOW_PREM.aac",
-    "icon": "icons/cna938.png",
+    "icon": "icons/cna938.jpg",
     "city": "Singapore"
   },
   {
     "name": "Money 893 Radio",
     "streamUrl": "http://playerservices.streamtheworld.com/api/livestream-redirect/MONEY_893AAC.aac",
-    "icon": "icons/default113.png",
+    "icon": "icons/default113.jpg",
     "city": "Toa Payoh"
   },
   {
     "name": "Power 98 Love Songs",
     "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/POWER98_LOVESONGS.mp3",
-    "icon": "icons/default91.png",
+    "icon": "icons/default91.jpg",
     "city": "Singapore"
   }
 ]
